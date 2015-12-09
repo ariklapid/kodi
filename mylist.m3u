@@ -1,31 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, ערוץ 10
-http://nana10live-lh.akamaihd.net/i/ch10news_0@93049/master.m3u8
-
-#EXTINF:-1, הערוץ הראשון
-http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/playlist.m3u8
-
-#EXTINF:-1, CHANNEL 20 ISRAEL
-http://ynet-lh.akamaihd.net/i/ynet_1@123296/master.m3u8
-
-#EXTINF:-1, CHANNEL 2 ISRAEL NEWS ONLY
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
-
-#EXTINF:-1, Channel 2 ISR Wed-Sat
-http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index.m3u8
-
-#EXTINF:-1, Channel 2 ISR Sun-Tue
-http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8
-
-#EXTINF:-1, Channel 24 Israel Music
-http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
-
-#EXTINF:-1, CHANNEL 10 ISRAEL (2nd Version)
-http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
-
-#EXTINF:-1, Channel KNESET
-mmsh://212.235.5.241/knessetlive
+#EXTINF:-1, 100% NEWS (Хорошый канал!)
+http://85.238.112.40:8810/hls_sec/239.17.16.32-.m3u8
 
 #EXTINF:-1, Россия 24 (поток 1)
 http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_r24_rr.smil/playlist.m3u8?auth=vh&cast_id=21
@@ -35,6 +11,63 @@ http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8?auth=vh&amp;cast_i
 
 #EXTINF:-1, Россия 1 (поток 1)
 http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_r1_rr.smil/playlist.m3u8?auth=vh&cast_id=2961
+
+#EXTINF:-1, РИА Новости
+http://rian.cdnvideo.ru/rr/stream20/playlist.m3u8
+
+#EXTINF:-1, Москва 24 (поток 1)
+http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8
+
+#EXTINF:-1, Москва 24 (поток 2)
+http://31.129.144.69:4022/udp/239.255.11.18:1234
+
+#EXTINF:-1, Москва 24 (поток 3)
+http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8?auth=vh&amp;cast_id=1661
+
+#EXTINF:-1, Россия РТР
+http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_rtrp_rr.smil/playlist.m3u8?auth=vh&cast_id=4941
+
+#EXTINF:-1, RTR Planeta (Moldova)
+http://87.248.160.8/edge/smil:rtrp/playlist.m3u8
+
+#EXTINF:-1, LiFE News (поток 1)
+http://tv.life.ru/lifetv/480p/index.m3u8
+
+#EXTINF:-1, LiFE News (поток 2)
+http://tv.life.ru/lifetv/360p/index.m3u8
+
+#EXTINF:-1, LiFE News HD (поток 1)
+http://tv.life.ru/lifetv/720p/index.m3u8
+
+#EXTINF:-1, LiFE News HD (поток 2)
+http://tv.life.ru/lifetv/720p/index.m3u8
+
+#EXTINF:-1, Life 78 
+http://tv78.life.ru/lifetv/480p/index.m3u8
+
+#EXTINF:-1, Санкт - Петербург
+http://stream2.topspb.tv:1935/live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1, 43 Кино HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+
+#EXTINF:-1, Мир
+http://mirtv.cdnvideo.ru/mirtv-paramlive/mirtv3_800/playlist.m3u8
+
+#EXTINF:-1, Мир 24
+http://85.112.114.51/streaming/mir24/16/tvrec/playlist.m3u8
+
+#EXTINF:-1, HTB
+http://4BA9EBDB07C05883:@5.159.96.170:8000/ntv
+
+#EXTINF:-1, Красная Линия
+http://kprf-live.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+
+#EXTINF:-1, Э 24
+http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
+
+#EXTINF:-1, РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
 
 #EXTINF:-1, Россия К
 http://air.televyshka.ru:900/95
@@ -54,35 +87,20 @@ http://btv-net.mediacdn.ru/TVB7/5channel/playlist.m3u8
 #EXTINF:-1, Пятый канал (поток 2)
 http://4BA9EBDB07C05883:@5.159.96.170:8000/5
 
+#EXTINF:-1, Брат ТВ
+rtmp://www.ibrattv.com/live/stream
+
 #EXTINF:-1, Юмор ТВ
 http://31.129.144.69:4022/udp/239.255.11.45:1234
+
+#EXTINF:-1, Архыз 24
+http://arhys24.cdnvideo.ru:1935/arhys24/arhys24.sdp/chunklist.m3u8
 
 #EXTINF:-1, Авто-Плюс (поток 1)
 http://iptv.multi-net.ru:80/udp/239.255.1.51:1234
 
 #EXTINF:-1, Авто-Плюс (поток 2)
 http://89.105.158.155:80/udp/239.255.1.51:1234
-
-#EXTINF:-1, Москва 24 (поток 1)
-http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8
-
-#EXTINF:-1, Москва 24 (поток 2)
-http://31.129.144.69:4022/udp/239.255.11.18:1234
-
-#EXTINF:-1, Москва 24 (поток 3)
-http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8?auth=vh&amp;cast_id=1661
-
-#EXTINF:-1, Россия РТР
-http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_rtrp_rr.smil/playlist.m3u8?auth=vh&cast_id=4941
-
-#EXTINF:-1, LiFE News(720p)
-http://tv.life.ru/lifetv/720p/index.m3u8
-
-#EXTINF:-1, LiFE News(360p)
-http://tv.life.ru/lifetv/360p/index.m3u8
-
-#EXTINF:-1, HTB
-http://4BA9EBDB07C05883:@5.159.96.170:8000/ntv
 
 #EXTINF:-1, Пятница (поток 1)
 http://31.129.144.69:4022/udp/239.255.11.23:1234
@@ -95,6 +113,9 @@ http://31.129.144.69:4022/udp/239.255.11.9:1234
 
 #EXTINF:-1, Карусель
 http://4BA9EBDB07C05883:@5.159.96.170:8000/karusel
+
+#EXTINF:-1, Детский канал
+http://win.cdn.bonus-tv.ru/TVB4/tamyr/playlist.m3u8
 
 #EXTINF:-1, 2×2 Мультики
 http://31.129.144.69:4022/udp/239.255.11.3:1234
@@ -117,8 +138,44 @@ http://87.248.160.8/edge/smil:set/playlist.m3u8
 #EXTINF:-1, KAHAL OKEAH 
 http://4BA9EBDB07C05883:@5.159.96.170:8000/ocean
 
-#EXTINF:-1, PERETZ
+#EXTINF:-1, Ч
 http://4BA9EBDB07C05883:@5.159.96.170:8000/perez
+
+#EXTINF:-1, 9ая Волна
+rtmp://176.9.127.102/live/myStream_1
+
+#EXTINF:-1, 24 Kazakhstan
+http://vs2.cdn.ott.otautv.kz/dtv/id6_KTR_SG--24kz/03/plst.m3u8
+
+#EXTINF:-1, Duna
+http://212.40.98.166/intstreams/mtva/dunalive_international.smil/playlist.m3u8
+
+#EXTINF:-1, Duna World
+http://212.40.98.166/intstreams/mtva/dunaworldlive.smil/chunklist.m3u8
+
+#EXTINF:-1, M1 HD
+http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist.m3u8
+
+#EXTINF:-1, M2 HD
+http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8
+
+#EXTINF:-1, Keszthely TV
+http://stream.tvkeszthely.hu:48082/tvkeszthely.flv
+
+#EXTINF:-1, 24h RTVE
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
+
+#EXTINF:-1, 324 NOTICIES Spain
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
+
+#EXTINF:-1, Budapest TV
+rtmp://91.82.85.44:1935/liveios851739io/_definst_/bptv.sdp
+
+#EXTINF:-1, M4 Sport Hungary
+http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
+
+#EXTINF:-1, 1Music Channel Hungary
+http://stream.1music.hu/stream/1music.m3u8
 
 #EXTINF:-1, Бойцовский Клуб
 http://31.129.144.69:4022/udp/239.255.11.33:1234
@@ -168,6 +225,9 @@ http://178.165.0.14:4022/udp/239.0.0.218:1234
 #EXTINF:-1, Канал "Боец" (поток 2)
 http://176.104.27.64:7781/udp/233.252.8.146:2345
 
+#EXTINF:-1, Боец (Moldova)
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+
 #EXTINF:-1, SPORTS TV Turckey
 http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
 
@@ -195,26 +255,41 @@ http://xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1, NFL Now HD
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 
-#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC_News" group-title="News" tvg-logo="b1636bf345c21168922e1d0dbda3e23b.jpg",ABC News
+#EXTINF:-1, BLOOMBERG
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+#EXTINF:-1, ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 
-#EXTINF:-1 tvg-id="CBS News" tvg-name="CBS_News" group-title="News" tvg-logo="a38b6da8a685f730223d6c915d06490c.jpg",CBS News
+#EXTINF:-1, CBS News
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947
 
-#EXTINF:-1 tvg-id="i24News France" tvg-name="i24News_France" group-title="News" tvg-logo="ab4d00fefa90464614be3e2aa6435f42.png",i24News France
+#EXTINF:-1, i24News France
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
 
-#EXTINF:-1 tvg-id="i24News English" tvg-name="i24News_English" group-title="News" tvg-logo="ab4d00fefa90464614be3e2aa6435f42.png",i24News English
+#EXTINF:-1, i24News English
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
 
-#EXTINF:-1 tvg-id="Vevo TV MUSIC 1" tvg-name="Vevo_TV_Playlist_1" group-title="Music" tvg-logo="2f5c0349a02a8346a95dd5634cae3063.png",Vevo TV Playlist 1
+#EXTINF:-1, Vevo TV Playlist 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="Vevo TV MUSIC 2" tvg-name="Vevo_TV_Playlist_2" group-title="Music" tvg-logo="5c804ed6a54d79d74a020ef522de4713.gif",Vevo TV Playlist 2
+#EXTINF:-1, Vevo TV Playlist 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="Vevo TV MUSIC 3" tvg-name="Vevo_TV_Playlist_3" group-title="Music" tvg-logo="a6cf96708b0676b4de50fa5e0aa12869.jpg",Vevo TV Playlist 3
+#EXTINF:-1, Vevo TV Playlist 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:-1, VEVO EU HD
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
+
+#EXTINF:-1, 24 Rock One
+mmsh://mediatv2.topix.it/24RockOne66
+
+#EXTINF:-1, M2O Music
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, For Music
+http://wowza1.top-ix.org/quartaretetv1/formusicweb/index.m3u8
 
 #EXTINF:-1, Dot Dance
 rtmp://dotdance.vintera.tv:1935/dotdance/dotdance.stream
@@ -222,20 +297,53 @@ rtmp://dotdance.vintera.tv:1935/dotdance/dotdance.stream
 #EXTINF:-1, Hardlife
 rtmp://stream.hardlife.tv/live/hl
 
-#EXTINF:-1 tvg-id="London Live" tvg-name="London_Live" group-title="Entertainment" tvg-logo="7d19de0d62bd22e73d9e9461ddb5c131.jpg",London Live
+#EXTINF:-1, Fox Movies
+http://latinochannels.2fh.co/canales/hls/fox-movies.m3u8
+
+#EXTINF:-1, London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
-#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC_Action" group-title="Entertainment" tvg-logo="53311b597278304eb7a4d7a9718db24c.png",MBC Action
+#EXTINF:-1, MBC Action
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
-#EXTINF:-1 tvg-id="Food Network US" tvg-name="Food_Network_US" group-title="Entertainment" tvg-logo="9fbdb28d65dbd06fc03634ba3bd44d1a.png",Food Network US
+#EXTINF:-1, Food Network US
 rtmp://a.cdn.newschat.tv/edge playpath=food_hd swfUrl=http://newschat.tv/player.swf pageUrl=http://www.livenewschat.eu/world/ swfVfy=1 live=1  timeout=15
 
-#EXTINF:-1 tvg-id="CBN" tvg-name="CBN" group-title="Entertainment" tvg-logo="6d66d6df3dfa8b9fa7e6630709a9876a.jpg",CBN
+#EXTINF:-1, CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3575741462001
 
-#EXTINF:-1 tvg-id="MBC2" tvg-name="MBC2" group-title="Movies" tvg-logo="74fa5d59ec05eafc8652b9229e9c29a2.png",MBC2
+#EXTINF:-1, MBC2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
+
+#EXTINF:-1, ערוץ 10
+http://nana10live-lh.akamaihd.net/i/ch10news_0@93049/master.m3u8
+
+#EXTINF:-1, ערוץ 10
+http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist_b1000000.m3u8
+
+#EXTINF:-1, הערוץ הראשון
+http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/playlist.m3u8
+
+#EXTINF:-1, CHANNEL 20 ISRAEL
+http://ynet-lh.akamaihd.net/i/ynet_1@123296/master.m3u8
+
+#EXTINF:-1, CHANNEL 2 ISRAEL NEWS ONLY
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+
+#EXTINF:-1, Channel 2 ISR Wed-Sat
+http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index.m3u8
+
+#EXTINF:-1, Channel 2 ISR Sun-Tue
+http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8
+
+#EXTINF:-1, Channel 24 Israel Music
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
+
+#EXTINF:-1, CHANNEL 10 ISRAEL (2nd Version)
+http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
+
+#EXTINF:-1, Channel KNESET
+mmsh://212.235.5.241/knessetlive
 
 #EXTINF:-1, Radio HITS 70s
 http://radio.2kom.ru:8000/1HITS70s
@@ -290,3 +398,27 @@ http://radio.2kom.ru:8000/govoritmoskva
 
 #EXTINF:-1, Allegro - Jazz
 http://radio.2kom.ru:8000/Allegro.Jazz
+
+#EXTINF:-1, 101FM רדיו ירושלים
+mmsh://31.168.230.9/101fm?MSWMExt=.asf
+
+#EXTINF:-1, 88FM Israel
+http://82.80.192.28/iba_radio-88fmMRepeat/_definst_/smil:radio-88fmM.smil/playlist.m3u8
+
+#EXTINF:-1, גלגל"צ
+http://test.live.net.il/glgltz-a-zixief.m3u8
+
+#EXTINF:-1, גלי צה"ל
+http://80.244.172.10/glz-a-zixief.m3u8
+
+#EXTINF:-1, 89.1 FM Первое радио
+mms://213.8.143.171/891FM
+
+#EXTINF:-1, 90FM אמצע הדרך
+http://server1.live1.co.il:8018/livemp3
+
+#EXTINF:-1, 91FM לב המדינה
+http://213.8.143.168/91fmAudio
+
+#EXTINF:-1, רשת ב
+http://62.90.90.37/iba_radio-betMRepeat/_definst_/smil:radio-betM.smil/playlist.m3u8
