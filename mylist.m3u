@@ -1,67 +1,10 @@
-﻿#EXTM3U
-
-#EXTINF:-1, Россия 24 (поток 1)
-http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_r24_rr.smil/playlist.m3u8?auth=vh&cast_id=21
-
-#EXTINF:-1, Россия 24 (поток 2)
-http://localhost:65007/?url=251&mode=6
-
-#EXTINF:-1, Россия 24 (поток 3)
-http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8?auth=vh&amp;cast_id=21
-
-#EXTINF:-1, Россия 1 (поток 1)
-http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_r1_rr.smil/playlist.m3u8?auth=vh&cast_id=2961
-
-#EXTINF:-1, Россия 1 (поток 2)
-http://hlstv.kuz.211.ru/239.211.4.2/stream.m3u8
-
-#EXTINF:-1, Россия К
-http://air.televyshka.ru:900/95
-
-#EXTINF:-1, РЕН ТВ
-http://ren.cdnvideo.ru/ren/_definst_/ren1/playlist.m3u8
-
-#EXTINF:-1, Пятый канал
-http://btv-net.mediacdn.ru/TVB7/5channel/playlist.m3u8
-
-#EXTINF:-1, Москва 24 (поток 1)
-http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8
-
-#EXTINF:-1, Москва 24 (поток 2)
-http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8?auth=vh&amp;cast_id=1661
-
-#EXTINF:-1, Россия РТР
-http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_rtrp_rr.smil/playlist.m3u8?auth=vh&cast_id=4941
-
-#EXTINF:-1, LiFE News(720p)
-http://tv.life.ru/lifetv/720p/index.m3u8
-
-#EXTINF:-1, LiFE News(360p)
-http://tv.life.ru/lifetv/360p/index.m3u8
+#EXTM3U
 
 #EXTINF:-1, ערוץ 10
 http://nana10live-lh.akamaihd.net/i/ch10news_0@93049/master.m3u8
 
 #EXTINF:-1, הערוץ הראשון
 http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/playlist.m3u8
-
-#EXTINF:-1, HTB
-http://4BA9EBDB07C05883:@5.159.96.170:8000/ntv
-
-#EXTINF:-1, PYATNITSA
-http://4BA9EBDB07C05883:@5.159.96.170:8000/mtvair
-
-#EXTINF:-1, MIR 24
-http://4BA9EBDB07C05883:@5.159.96.170:8000/mir24
-
-#EXTINF:-1, MIR
-http://4BA9EBDB07C05883:@5.159.96.170:8000/mir
-
-#EXTINF:-1, KARUSEL
-http://4BA9EBDB07C05883:@5.159.96.170:8000/karusel
-
-#EXTINF:-1, 5 KANAL RUSSIA
-http://4BA9EBDB07C05883:@5.159.96.170:8000/5
 
 #EXTINF:-1, CHANNEL 20 ISRAEL
 http://ynet-lh.akamaihd.net/i/ynet_1@123296/master.m3u8
@@ -84,6 +27,81 @@ http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m
 #EXTINF:-1, Channel KNESET
 mmsh://212.235.5.241/knessetlive
 
+#EXTINF:-1, Россия 24 (поток 1)
+http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_r24_rr.smil/playlist.m3u8?auth=vh&cast_id=21
+
+#EXTINF:-1, Россия 24 (поток 2)
+http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8?auth=vh&amp;cast_id=21
+
+#EXTINF:-1, Россия 1 (поток 1)
+http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_r1_rr.smil/playlist.m3u8?auth=vh&cast_id=2961
+
+#EXTINF:-1, Россия К
+http://air.televyshka.ru:900/95
+
+#EXTINF:-1, Домашний
+http://31.129.144.69:4022/udp/239.255.11.95:1234
+
+#EXTINF:-1, Телеканал "Спас"
+http://31.129.144.69:4022/udp/239.255.11.39:1234
+
+#EXTINF:-1, РЕН ТВ
+http://ren.cdnvideo.ru/ren/_definst_/ren1/playlist.m3u8
+
+#EXTINF:-1, Пятый канал (поток 1)
+http://btv-net.mediacdn.ru/TVB7/5channel/playlist.m3u8
+
+#EXTINF:-1, Пятый канал (поток 2)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/5
+
+#EXTINF:-1, Юмор ТВ
+http://31.129.144.69:4022/udp/239.255.11.45:1234
+
+#EXTINF:-1, Авто-Плюс (поток 1)
+http://iptv.multi-net.ru:80/udp/239.255.1.51:1234
+
+#EXTINF:-1, Авто-Плюс (поток 2)
+http://89.105.158.155:80/udp/239.255.1.51:1234
+
+#EXTINF:-1, Москва 24 (поток 1)
+http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8
+
+#EXTINF:-1, Москва 24 (поток 2)
+http://31.129.144.69:4022/udp/239.255.11.18:1234
+
+#EXTINF:-1, Москва 24 (поток 3)
+http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8?auth=vh&amp;cast_id=1661
+
+#EXTINF:-1, Россия РТР
+http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_rtrp_rr.smil/playlist.m3u8?auth=vh&cast_id=4941
+
+#EXTINF:-1, LiFE News(720p)
+http://tv.life.ru/lifetv/720p/index.m3u8
+
+#EXTINF:-1, LiFE News(360p)
+http://tv.life.ru/lifetv/360p/index.m3u8
+
+#EXTINF:-1, HTB
+http://4BA9EBDB07C05883:@5.159.96.170:8000/ntv
+
+#EXTINF:-1, Пятница (поток 1)
+http://31.129.144.69:4022/udp/239.255.11.23:1234
+
+#EXTINF:-1, Пятница (поток 2)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/mtvair
+
+#EXTINF:0, Звезда
+http://31.129.144.69:4022/udp/239.255.11.9:1234
+
+#EXTINF:-1, Карусель
+http://4BA9EBDB07C05883:@5.159.96.170:8000/karusel
+
+#EXTINF:-1, 2×2 Мультики
+http://31.129.144.69:4022/udp/239.255.11.3:1234
+
+#EXTINF:-1, Belarus 24
+http://31.129.144.69:4022/udp/239.255.11.35:1234
+
 #EXTINF:-1, CTC RUSSIA
 http://87.248.160.8/edge/smil:sts/playlist.m3u8
 
@@ -102,11 +120,8 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/ocean
 #EXTINF:-1, PERETZ
 http://4BA9EBDB07C05883:@5.159.96.170:8000/perez
 
-#EXTINF:-1, Авто-Плюс (поток 1)
-http://iptv.multi-net.ru:80/udp/239.255.1.51:1234
-
-#EXTINF:-1, Авто-Плюс (поток 2)
-http://89.105.158.155:80/udp/239.255.1.51:1234
+#EXTINF:-1, Бойцовский Клуб
+http://31.129.144.69:4022/udp/239.255.11.33:1234
 
 #EXTINF:-1, Евроспорт 1 РУС
 http://176.104.27.64:7781/udp/233.252.8.126:2345
@@ -116,9 +131,6 @@ http://178.165.0.14:4022/udp/239.0.0.212:1234
 
 #EXTINF:-1, Евроспорт 2 (поток 2)
 http://176.104.27.64:7781/udp/233.252.8.127:2345
-
-#EXTINF:-1, Eurosport 1 Germany
-http://217.20.164.196:8080/eurosport/index.m3u8
 
 #EXTINF:-1, Eurosport 2 CZ
 http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/83/0.k.m3u8
@@ -183,42 +195,6 @@ http://xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1, NFL Now HD
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 
-#EXTINF:-1 tvg-id="Canal de las Estrellas Spain" tvg-name="Canal_de_las_Estrellas_Spain" group-title="Spain" tvg-logo="d39eccfab8ac95e28c57988fa0f1c2db.png",Canal de las Estrellas Spain
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Canal 3/24 Spain" tvg-name="canal_3/24_Spain" group-title="Spain" tvg-logo="",canal 3/24 Spain
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="Local Sevilla Spain" tvg-name="Local_Sevilla_Spain" group-title="Spain" tvg-logo="",Local Sevilla Spain
-http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Antena 3 Spain" tvg-name="Antena_3_Spain" group-title="Spain" tvg-logo="",Antena 3 Spain
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="TV Galicia Spain" tvg-name="TV_Galicia_Spain" group-title="Spain" tvg-logo="",TV Galicia Spain
-http://media3.crtvg.es/live/tvge/sota.m3u8
-
-#EXTINF:-1 tvg-id="RTPA Spain" tvg-name="RTPA" group-title="Spain" tvg-logo="8f6fe9d389b867153f4b62037a1c5b28.jpg",RTPA
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone-multi/main.m3u8
-
-#EXTINF:-1 tvg-id="rtve SPAIN" tvg-name="rtve_SPAIN" group-title="Spain" tvg-logo="74750e44090b5e00c89a506e556672ce.png",rtve SPAIN
-http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
-
-#EXTINF:-1 tvg-id="Hispan TV" tvg-name="Hispan_TV" group-title="Spain" tvg-logo="7e07bb15883e7efa313c082a1caffd8c.png",Hispan TV
-rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4x3-SDh
-
-#EXTINF:-1 tvg-id="TRUE4U THAILAND" tvg-name="TRUE4U_THAILAND" group-title="thailand" tvg-logo="",TRUE4U THAILAND
-http://49.231.20.84:8158/FreeTVChannel/StreamService/LowSpeed/12/heve.m3u8
-
-#EXTINF:-1 tvg-id="NAT TV THAILAND" tvg-name="nat_tv_THAILAND" group-title="thailand" tvg-logo="0df965eea5a32f5c68008b2b4f3b5bb1.jpg",nat_tv_THAILAND
-http://iphone-streaming.ustream.tv/ustreamVideo/18937843/streams/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV-LAO THAILAND" tvg-name="TV-LAO" group-title="thailand" tvg-logo="442888dc1d953b73363d6c1785837908.jpg",TV-LAO THAILAND
-http://live10.netdesignhost.com/tvlaolive/tvlaolive/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SMM TV THAILAND" tvg-name="SMM_TV_THAILAND" group-title="thailand" tvg-logo="356eaacf0b06578ad9a518e6d373c333.jpg",SMM TV THAILAND
-http://edge2-bkk.3bb.co.th:1935/smmtv_livestream/smmtv.stream_live3/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ABC News" tvg-name="ABC_News" group-title="News" tvg-logo="b1636bf345c21168922e1d0dbda3e23b.jpg",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 
@@ -240,17 +216,14 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1 tvg-id="Vevo TV MUSIC 3" tvg-name="Vevo_TV_Playlist_3" group-title="Music" tvg-logo="a6cf96708b0676b4de50fa5e0aa12869.jpg",Vevo TV Playlist 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="Dream TV" tvg-name="Dream_TV" group-title="Music" tvg-logo="7fbfc0ab76b859006f1e8e8549c4e7e8.png",Dream TV
-http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1, Dot Dance
+rtmp://dotdance.vintera.tv:1935/dotdance/dotdance.stream
 
-#EXTINF:-1 tvg-id="Gold Tv" tvg-name="Gold_Tv" group-title="Music" tvg-logo="e7b5d52ab2d778cfc68af2f8c13fd77b.png",Gold Tv
-http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
+#EXTINF:-1, Hardlife
+rtmp://stream.hardlife.tv/live/hl
 
 #EXTINF:-1 tvg-id="London Live" tvg-name="London_Live" group-title="Entertainment" tvg-logo="7d19de0d62bd22e73d9e9461ddb5c131.jpg",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-
-#EXTINF:-1 tvg-id="GINX" tvg-name="GINX" group-title="Entertainment" tvg-logo="",GINX
-http://204.107.26.252:1935/live/796.high.stream/chunklist_w1818870275.m3u8
 
 #EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC_Action" group-title="Entertainment" tvg-logo="53311b597278304eb7a4d7a9718db24c.png",MBC Action
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
@@ -258,17 +231,62 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1 tvg-id="Food Network US" tvg-name="Food_Network_US" group-title="Entertainment" tvg-logo="9fbdb28d65dbd06fc03634ba3bd44d1a.png",Food Network US
 rtmp://a.cdn.newschat.tv/edge playpath=food_hd swfUrl=http://newschat.tv/player.swf pageUrl=http://www.livenewschat.eu/world/ swfVfy=1 live=1  timeout=15
 
-#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion_TV" group-title="Entertainment" tvg-logo="ab5217dd56652cf566dc1cd179add4ed.png",Fashion TV
-http://edgeb.streaming.sk/fashiontv/fashiontv.stream/playlist_b125000_w304569164.m3u8
-
-#EXTINF:-1 tvg-id="World Fashion" tvg-name="World_Fashion" group-title="Entertainment" tvg-logo="9fd21ee32b4acfc0a473c353a3b34969.jpg",World Fashion
-http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Angel TV INDIA" tvg-name="Angel_TV_INDIA" group-title="Entertainment" tvg-logo="8fd69ca1278ca955428131555f65d208.jpg",Angel TV INDIA
-http://doh57iesfegop.cloudfront.net/angeltv/angeltvindia600/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CBN" tvg-name="CBN" group-title="Entertainment" tvg-logo="6d66d6df3dfa8b9fa7e6630709a9876a.jpg",CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3575741462001
 
 #EXTINF:-1 tvg-id="MBC2" tvg-name="MBC2" group-title="Movies" tvg-logo="74fa5d59ec05eafc8652b9229e9c29a2.png",MBC2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
+
+#EXTINF:-1, Radio HITS 70s
+http://radio.2kom.ru:8000/1HITS70s
+
+#EXTINF:-1, Radio HITS 80s
+http://radio.2kom.ru:8000/1hits80s
+
+#EXTINF:-1, Серебряный дождь
+http://radio.2kom.ru:8000/silver
+
+#EXTINF:-1, Best FM RUS
+http://radio.2kom.ru:8000/BestFM
+
+#EXTINF:-1, Радио Классика
+http://radio.2kom.ru:8000/Radio_Classic
+
+#EXTINF:-1, 1000 HITS Classical Music
+http://radio.2kom.ru:8000/1000HITSClassicalMusic
+
+#EXTINF:-1, 1000 Oldies
+http://radio.2kom.ru:8000/1000oldies
+
+#EXTINF:-1, Радио Monte Carlo
+http://radio.2kom.ru:8000/monte_carlo
+
+#EXTINF:-1, Радио Шансон
+http://radio.2kom.ru:8000/shanson
+
+#EXTINF:-1, Радио Маяк
+http://radio.2kom.ru:8000/Mayak
+
+#EXTINF:-1, Русское Радио
+http://radio.2kom.ru:8000/russian_radio
+
+#EXTINF:-1, Радио России
+http://radio.2kom.ru:8000/radio_rossii
+
+#EXTINF:-1, Авторадио.101
+http://radio.2kom.ru:8000/avtoradio
+
+#EXTINF:-1, Эхо Москвы
+http://radio.2kom.ru:8000/moscowecho128.mp3
+
+#EXTINF:-1, Карнавал ФМ
+http://radio.2kom.ru:8000/Karnaval.FM
+
+#EXTINF:-1, Радио Спорт
+http://radio.2kom.ru:8000/SportFm
+
+#EXTINF:-1, Говорит Москва
+http://radio.2kom.ru:8000/govoritmoskva
+
+#EXTINF:-1, Allegro - Jazz
+http://radio.2kom.ru:8000/Allegro.Jazz
