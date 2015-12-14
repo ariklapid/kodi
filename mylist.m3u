@@ -1,5 +1,80 @@
 #EXTM3U
 
+#EXTINF:-1, EUROSPORT 1
+http://top-iptv.zapto.org:8000/live/walid/walid/548.ts
+ 
+#EXTINF:-1, EUROSPORT 2
+http://top-iptv.zapto.org:8000/live/walid/walid/547.ts
+
+#EXTINF:-1, Телеканал "Футбол"
+http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
+
+#EXTINF:-1, Телеканал "Матч" (поток 1)
+http://hls.peers.tv/streaming/sport/126/tvrec/playlist.m3u8
+
+#EXTINF:-1, Телеканал "Матч" (поток 2)
+http://188.242.187.53:4022/udp/239.239.1.66:5239
+
+#EXTINF:-1, Телеканал "Матч" (поток 3)
+http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
+
+#EXTINF:-1, SKY SPORT F1
+http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/762.ts
+
+#EXTINF:-1, Евроспорт 1 РУС
+http://176.104.27.64:7781/udp/233.252.8.126:2345
+
+#EXTINF:-1, Евроспорт 2 (поток 2)
+http://176.104.27.64:7781/udp/233.252.8.127:2345
+
+#EXTINF:-1, Спорт 1 (поток 1)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
+
+#EXTINF:-1, Спорт 1 (поток 2)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
+
+#EXTINF:-1, Спорт 1 (поток 3)
+http://urlzip.ru/62WVI
+
+#EXTINF:-1, Спорт 1 (поток 4)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/SPORT1
+
+#EXTINF:-1, Fox Sports
+http://motorsport.hopto.org:8080/
+
+#EXTINF:-1, Канал "Боец" (поток 1)
+http://178.165.0.14:4022/udp/239.0.0.218:1234
+
+#EXTINF:-1, Канал "Боец" (поток 2)
+http://176.104.27.64:7781/udp/233.252.8.146:2345
+
+#EXTINF:-1, Боец (Moldova)
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+
+#EXTINF:-1, USA-PAC 12 Bay Area (HD)
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+
+#EXTINF:-1, USA-Pac 12 Bay Area 720 HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+
+#EXTINF:-1, USA-PAC 12 Oregon (HD)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+
+#EXTINF:-1, Sport Pac Mountain 1080 HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+
+#EXTINF:-1, Sport Pac Los Angeles 1080 HD
+http://xrxs.net/video/live-p12losa-4728.m3u8
+
+#EXTINF:-1, Sport Pac Bay Area 720 HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+
+#EXTINF:-1, Sport Pac National 1080 HD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+
+#EXTINF:-1, NFL Now HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+
 #EXTINF:-1, 100% NEWS (Хорошый канал!)
 http://85.238.112.40:8810/hls_sec/239.17.16.32-.m3u8
 
@@ -8,9 +83,6 @@ http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_r24_rr.smil/playlist.m3u8?auth=vh&cast_i
 
 #EXTINF:-1, Россия 24 (поток 2)
 http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8?auth=vh&amp;cast_id=21
-
-#EXTINF:-1, Россия 1 (поток 1)
-http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_r1_rr.smil/playlist.m3u8?auth=vh&cast_id=2961
 
 #EXTINF:-1, РИА Новости
 http://rian.cdnvideo.ru/rr/stream20/playlist.m3u8
@@ -114,6 +186,9 @@ http://31.129.144.69:4022/udp/239.255.11.9:1234
 #EXTINF:-1, Карусель
 http://4BA9EBDB07C05883:@5.159.96.170:8000/karusel
 
+#EXTINF:-1, Cartoon Network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+
 #EXTINF:-1, Детский канал
 http://win.cdn.bonus-tv.ru/TVB4/tamyr/playlist.m3u8
 
@@ -180,81 +255,6 @@ http://stream.1music.hu/stream/1music.m3u8
 #EXTINF:-1, Бойцовский Клуб
 http://31.129.144.69:4022/udp/239.255.11.33:1234
 
-#EXTINF:-1, Евроспорт 1 РУС
-http://176.104.27.64:7781/udp/233.252.8.126:2345
-
-#EXTINF:-1, Евроспорт 2 (поток 1)
-http://178.165.0.14:4022/udp/239.0.0.212:1234
-
-#EXTINF:-1, Евроспорт 2 (поток 2)
-http://176.104.27.64:7781/udp/233.252.8.127:2345
-
-#EXTINF:-1, Eurosport 2 CZ
-http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/83/0.k.m3u8
-
-#EXTINF:-1, Eurosport News RUS
-http://178.165.0.14:4022/udp/239.0.0.219:1234
-
-#EXTINF:-1, Eurosport 1 CZ
-http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/202/0.k.m3u8
-
-#EXTINF:-1, Телеканал Матч
-http://188.242.187.53:4022/udp/239.239.1.66:5239
-
-#EXTINF:-1, Спорт 1 (поток 1)
-http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
-
-#EXTINF:-1, Спорт 1 (поток 2)
-http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
-
-#EXTINF:-1, Спорт 1 (поток 3)
-http://urlzip.ru/62WVI
-
-#EXTINF:-1, Спорт 1 (поток 4)
-http://4BA9EBDB07C05883:@5.159.96.170:8000/SPORT1
-
-#EXTINF:-1, Телеканал "Футбол"
-http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
-
-#EXTINF:-1, Fox Sports
-http://motorsport.hopto.org:8080/
-
-#EXTINF:-1, Канал "Боец" (поток 1)
-http://178.165.0.14:4022/udp/239.0.0.218:1234
-
-#EXTINF:-1, Канал "Боец" (поток 2)
-http://176.104.27.64:7781/udp/233.252.8.146:2345
-
-#EXTINF:-1, Боец (Moldova)
-http://87.248.160.8/edge/smil:boet/playlist.m3u8
-
-#EXTINF:-1, SPORTS TV Turckey
-http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
-
-#EXTINF:-1, USA-PAC 12 Bay Area (HD)
-http://www.xrxs.net/video/live-p12baya-4728.m3u8
-
-#EXTINF:-1, USA-Pac 12 Bay Area 720 HD
-http://xrxs.net/video/live-p12baya-2328.m3u8
-
-#EXTINF:-1, USA-PAC 12 Oregon (HD)
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-
-#EXTINF:-1, Sport Pac Mountain 1080 HD
-http://xrxs.net/video/live-p12moun-4728.m3u8
-
-#EXTINF:-1, Sport Pac Los Angeles 1080 HD
-http://xrxs.net/video/live-p12losa-4728.m3u8
-
-#EXTINF:-1, Sport Pac Bay Area 720 HD
-http://xrxs.net/video/live-p12baya-2328.m3u8
-
-#EXTINF:-1, Sport Pac National 1080 HD
-http://xrxs.net/video/live-p12netw-4728.m3u8
-
-#EXTINF:-1, NFL Now HD
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-
 #EXTINF:-1, BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
@@ -314,6 +314,9 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=21960827
 
 #EXTINF:-1, MBC2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
+
+#EXTINF:-1, BLOOMBERG
+http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M24K.m3u8
 
 #EXTINF:-1, ערוץ 10
 http://nana10live-lh.akamaihd.net/i/ch10news_0@93049/master.m3u8
