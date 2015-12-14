@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:0,Eurosport
+http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
+
+#EXTINF:-1, Fox Sports
+http://motorsport.hopto.org:8080/
+
+#EXTINF:-1, EXTREME SPORTS
+http://78.26.128.94:8000/udp/225.1.2.26:1234
+
 #EXTINF:-1, Телеканал "Футбол"
 http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
 
@@ -32,9 +41,6 @@ http://urlzip.ru/62WVI
 
 #EXTINF:-1, Спорт 1 (поток 4)
 http://4BA9EBDB07C05883:@5.159.96.170:8000/SPORT1
-
-#EXTINF:-1, Fox Sports
-http://motorsport.hopto.org:8080/
 
 #EXTINF:-1, Канал "Боец" (поток 1)
 http://178.165.0.14:4022/udp/239.0.0.218:1234
