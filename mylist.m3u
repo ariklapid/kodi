@@ -3,6 +3,9 @@
 #EXTINF:0,Eurosport
 http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
 
+#EXTINF:-1, EUROSPORT 
+rtmp://85.10.208.218/live/eurosport
+
 #EXTINF:-1, Fox Sports
 http://motorsport.hopto.org:8080/
 
@@ -74,6 +77,51 @@ http://xrxs.net/video/live-p12netw-4728.m3u8
 
 #EXTINF:-1, NFL Now HD
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+
+#EXTINF:-1, Серебряный дождь
+http://radio.2kom.ru:8000/silver
+
+#EXTINF:-1, Best FM RUS
+http://radio.2kom.ru:8000/BestFM
+
+#EXTINF:-1, Радио Классика
+http://radio.2kom.ru:8000/Radio_Classic
+
+#EXTINF:-1, 1000 HITS Classical Music
+http://radio.2kom.ru:8000/1000HITSClassicalMusic
+
+#EXTINF:-1, 1000 Oldies
+http://radio.2kom.ru:8000/1000oldies
+
+#EXTINF:-1, Радио Monte Carlo
+http://radio.2kom.ru:8000/monte_carlo
+
+#EXTINF:-1, Радио Шансон
+http://radio.2kom.ru:8000/shanson
+
+#EXTINF:-1, Радио Маяк
+http://radio.2kom.ru:8000/Mayak
+
+#EXTINF:-1, Русское Радио
+http://radio.2kom.ru:8000/russian_radio
+
+#EXTINF:-1, Радио России
+http://radio.2kom.ru:8000/radio_rossii
+
+#EXTINF:-1, Авторадио.101
+http://radio.2kom.ru:8000/avtoradio
+
+#EXTINF:-1, Эхо Москвы
+http://radio.2kom.ru:8000/moscowecho128.mp3
+
+#EXTINF:-1, Карнавал ФМ
+http://radio.2kom.ru:8000/Karnaval.FM
+
+#EXTINF:-1, Радио Спорт
+http://radio.2kom.ru:8000/SportFm
+
+#EXTINF:-1, Говорит Москва
+http://radio.2kom.ru:8000/govoritmoskva
 
 #EXTINF:-1, 100% NEWS (Хорошый канал!)
 http://85.238.112.40:8810/hls_sec/239.17.16.32-.m3u8
@@ -191,6 +239,9 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/karusel
 
 #EXTINF:-1, Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+
+#EXTINF:-1, NICK JR. RUS
+http://78.26.128.94:8000/udp/225.1.1.218:1234
 
 #EXTINF:-1, Детский канал
 http://win.cdn.bonus-tv.ru/TVB4/tamyr/playlist.m3u8
@@ -356,51 +407,6 @@ http://radio.2kom.ru:8000/1HITS70s
 
 #EXTINF:-1, Radio HITS 80s
 http://radio.2kom.ru:8000/1hits80s
-
-#EXTINF:-1, Серебряный дождь
-http://radio.2kom.ru:8000/silver
-
-#EXTINF:-1, Best FM RUS
-http://radio.2kom.ru:8000/BestFM
-
-#EXTINF:-1, Радио Классика
-http://radio.2kom.ru:8000/Radio_Classic
-
-#EXTINF:-1, 1000 HITS Classical Music
-http://radio.2kom.ru:8000/1000HITSClassicalMusic
-
-#EXTINF:-1, 1000 Oldies
-http://radio.2kom.ru:8000/1000oldies
-
-#EXTINF:-1, Радио Monte Carlo
-http://radio.2kom.ru:8000/monte_carlo
-
-#EXTINF:-1, Радио Шансон
-http://radio.2kom.ru:8000/shanson
-
-#EXTINF:-1, Радио Маяк
-http://radio.2kom.ru:8000/Mayak
-
-#EXTINF:-1, Русское Радио
-http://radio.2kom.ru:8000/russian_radio
-
-#EXTINF:-1, Радио России
-http://radio.2kom.ru:8000/radio_rossii
-
-#EXTINF:-1, Авторадио.101
-http://radio.2kom.ru:8000/avtoradio
-
-#EXTINF:-1, Эхо Москвы
-http://radio.2kom.ru:8000/moscowecho128.mp3
-
-#EXTINF:-1, Карнавал ФМ
-http://radio.2kom.ru:8000/Karnaval.FM
-
-#EXTINF:-1, Радио Спорт
-http://radio.2kom.ru:8000/SportFm
-
-#EXTINF:-1, Говорит Москва
-http://radio.2kom.ru:8000/govoritmoskva
 
 #EXTINF:-1, Allegro - Jazz
 http://radio.2kom.ru:8000/Allegro.Jazz
