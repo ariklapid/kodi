@@ -363,8 +363,11 @@ rtmp://78.140.209.14:1935/radio/piterfm.stream
 EXTINF:-1 radio="true", Радио Зенит
 http://stream.radiozenit.ru:8000/mp3
 
-EXTINF:-1 radio="true",Радио Балтика 
+EXTINF:-1 radio="true", Радио Балтика 
 https://audio.baltika.fm/baltika.mp3
+
+#EXTINF:-1 radio="true", Русские Песни
+http://listen.rusongs.ru/ru-hd
 
 #EXTINF:-1 radio="true", Серебряный дождь
 http://radio.2kom.ru:8000/silver
