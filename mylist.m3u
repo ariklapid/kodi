@@ -78,51 +78,6 @@ http://xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1, NFL Now HD
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 
-#EXTINF:-1, Серебряный дождь
-http://radio.2kom.ru:8000/silver
-
-#EXTINF:-1, Best FM RUS
-http://radio.2kom.ru:8000/BestFM
-
-#EXTINF:-1, Радио Классика
-http://radio.2kom.ru:8000/Radio_Classic
-
-#EXTINF:-1, 1000 HITS Classical Music
-http://radio.2kom.ru:8000/1000HITSClassicalMusic
-
-#EXTINF:-1, 1000 Oldies
-http://radio.2kom.ru:8000/1000oldies
-
-#EXTINF:-1, Радио Monte Carlo
-http://radio.2kom.ru:8000/monte_carlo
-
-#EXTINF:-1, Радио Шансон
-http://radio.2kom.ru:8000/shanson
-
-#EXTINF:-1, Радио Маяк
-http://radio.2kom.ru:8000/Mayak
-
-#EXTINF:-1, Русское Радио
-http://radio.2kom.ru:8000/russian_radio
-
-#EXTINF:-1, Радио России
-http://radio.2kom.ru:8000/radio_rossii
-
-#EXTINF:-1, Авторадио.101
-http://radio.2kom.ru:8000/avtoradio
-
-#EXTINF:-1, Эхо Москвы
-http://radio.2kom.ru:8000/moscowecho128.mp3
-
-#EXTINF:-1, Карнавал ФМ
-http://radio.2kom.ru:8000/Karnaval.FM
-
-#EXTINF:-1, Радио Спорт
-http://radio.2kom.ru:8000/SportFm
-
-#EXTINF:-1, Говорит Москва
-http://radio.2kom.ru:8000/govoritmoskva
-
 #EXTINF:-1, 100% NEWS (Хорошый канал!)
 http://85.238.112.40:8810/hls_sec/239.17.16.32-.m3u8
 
@@ -402,35 +357,89 @@ http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m
 #EXTINF:-1, Channel KNESET
 mmsh://212.235.5.241/knessetlive
 
-#EXTINF:-1, Radio HITS 70s
+EXTINF:-1 radio="true", ПИТЕР FM 100.9
+rtmp://78.140.209.14:1935/radio/piterfm.stream
+
+EXTINF:-1 radio="true", Радио Зенит
+http://stream.radiozenit.ru:8000/mp3
+
+EXTINF:-1 radio="true",Радио Балтика 
+https://audio.baltika.fm/baltika.mp3
+
+#EXTINF:-1 radio="true", Серебряный дождь
+http://radio.2kom.ru:8000/silver
+
+#EXTINF:-1 radio="true", Best FM RUS
+http://radio.2kom.ru:8000/BestFM
+
+#EXTINF:-1 radio="true", Радио Классика
+http://radio.2kom.ru:8000/Radio_Classic
+
+#EXTINF:-1 radio="true", 1000 HITS Classical Music
+http://radio.2kom.ru:8000/1000HITSClassicalMusic
+
+#EXTINF:-1 radio="true", 1000 Oldies
+http://radio.2kom.ru:8000/1000oldies
+
+#EXTINF:-1 radio="true", Радио Monte Carlo
+http://radio.2kom.ru:8000/monte_carlo
+
+#EXTINF:-1 radio="true", Радио Шансон
+http://radio.2kom.ru:8000/shanson
+
+#EXTINF:-1 radio="true", Радио Маяк
+http://radio.2kom.ru:8000/Mayak
+
+#EXTINF:-1 radio="true", Русское Радио
+http://radio.2kom.ru:8000/russian_radio
+
+#EXTINF:-1 radio="true", Радио России
+http://radio.2kom.ru:8000/radio_rossii
+
+#EXTINF:-1 radio="true", Авторадио.101
+http://radio.2kom.ru:8000/avtoradio
+
+#EXTINF:-1 radio="true", Эхо Москвы
+http://radio.2kom.ru:8000/moscowecho128.mp3
+
+#EXTINF:-1 radio="true", Карнавал ФМ
+http://radio.2kom.ru:8000/Karnaval.FM
+
+#EXTINF:-1 radio="true", Радио Спорт
+http://radio.2kom.ru:8000/SportFm
+
+#EXTINF:-1 radio="true", Говорит Москва
+http://radio.2kom.ru:8000/govoritmoskva
+
+#EXTINF:-1 radio="true", Radio HITS 70s
 http://radio.2kom.ru:8000/1HITS70s
 
-#EXTINF:-1, Radio HITS 80s
+#EXTINF:-1 radio="true", Radio HITS 80s
 http://radio.2kom.ru:8000/1hits80s
 
-#EXTINF:-1, Allegro - Jazz
+#EXTINF:-1 radio="true", Allegro - Jazz
 http://radio.2kom.ru:8000/Allegro.Jazz
 
-#EXTINF:-1, 101FM רדיו ירושלים
+#EXTINF:-1 radio="true", 101FM רדיו ירושלים
 mmsh://31.168.230.9/101fm?MSWMExt=.asf
 
-#EXTINF:-1, 88FM Israel
+#EXTINF:-1 radio="true", 88FM Israel
 http://82.80.192.28/iba_radio-88fmMRepeat/_definst_/smil:radio-88fmM.smil/playlist.m3u8
 
-#EXTINF:-1, גלגל"צ
+#EXTINF:-1 radio="true", גלגל"צ
 http://test.live.net.il/glgltz-a-zixief.m3u8
 
-#EXTINF:-1, גלי צה"ל
+#EXTINF:-1 radio="true", גלי צה"ל
 http://80.244.172.10/glz-a-zixief.m3u8
 
-#EXTINF:-1, 89.1 FM Первое радио
+#EXTINF:-1 radio="true", 89.1 FM Первое радио
 mms://213.8.143.171/891FM
 
-#EXTINF:-1, 90FM אמצע הדרך
+#EXTINF:-1 radio="true", 90FM אמצע הדרך
 http://server1.live1.co.il:8018/livemp3
 
-#EXTINF:-1, 91FM לב המדינה
+#EXTINF:-1 radio="true", 91FM לב המדינה
 http://213.8.143.168/91fmAudio
 
-#EXTINF:-1, רשת ב
+#EXTINF:-1 radio="true", רשת ב
 http://62.90.90.37/iba_radio-betMRepeat/_definst_/smil:radio-betM.smil/playlist.m3u8
