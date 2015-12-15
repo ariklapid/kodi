@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:0,Eurosport
+#EXTINF:-1, Eurosport
 http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
 
-#EXTINF:0, National Geographic RUS
+#EXTINF:-1, National Geographic RUS
 http://alturl.com/zbw8j
 
 #EXTINF:-1, Евроспорт 1 РУС
