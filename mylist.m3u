@@ -3,8 +3,14 @@
 #EXTINF:0,Eurosport
 http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
 
-#EXTINF:-1, EUROSPORT 
-rtmp://85.10.208.218/live/eurosport
+#EXTINF:0, National Geographic RUS
+http://alturl.com/zbw8j
+
+#EXTINF:-1, Евроспорт 1 РУС
+http://176.104.27.64:7781/udp/233.252.8.126:2345
+
+#EXTINF:-1, Евроспорт 2 (поток 2)
+http://176.104.27.64:7781/udp/233.252.8.127:2345
 
 #EXTINF:-1, Fox Sports
 http://motorsport.hopto.org:8080/
@@ -26,12 +32,6 @@ http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
 
 #EXTINF:-1, SKY SPORT F1
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/762.ts
-
-#EXTINF:-1, Евроспорт 1 РУС
-http://176.104.27.64:7781/udp/233.252.8.126:2345
-
-#EXTINF:-1, Евроспорт 2 (поток 2)
-http://176.104.27.64:7781/udp/233.252.8.127:2345
 
 #EXTINF:-1, Спорт 1 (поток 1)
 http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
