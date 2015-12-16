@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, Первый
+http://146.158.123.198:4022/udp/239.72.6.98:1234
+
 #EXTINF:-1, Eurosport
 http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
 
