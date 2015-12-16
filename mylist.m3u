@@ -3,8 +3,11 @@
 #EXTINF:-1, Eurosport
 http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
 
-#EXTINF:-1, National Geographic RUS
+#EXTINF:-1, National Geographic RUS (поток 1)
 http://alturl.com/zbw8j
+
+#EXTINF:-1, National Geographic RUS (поток 2)
+http://4.hls.bolshoe.tv/1/streaming/natgeo/tvrec/playlist.m3u8
 
 #EXTINF:-1, Евроспорт 1 РУС
 http://176.104.27.64:7781/udp/233.252.8.126:2345
