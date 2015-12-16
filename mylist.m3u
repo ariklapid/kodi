@@ -1,16 +1,55 @@
 #EXTM3U
 
+#EXTINF:-1, Список ТВ Каналов
+http://i63.tinypic.com/atrk9l.jpg
+
 #EXTINF:-1, Первый
 http://146.158.123.198:4022/udp/239.72.6.98:1234
 
+#EXTINF:-1, Россия РТР
+http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_rtrp_rr.smil/playlist.m3u8?auth=vh&cast_id=4941
+
+#EXTINF:-1, Россия 24 (поток 1)
+http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8?auth=vh&amp;cast_id=21
+
+#EXTINF:-1, Москва 24 (поток 1)
+http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8
+
+#EXTINF:-1, Euronews Russian
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/ru_vidan750_rtp.sdp
+
+#EXTINF:-1, LiFE News (поток 1)
+http://tv.life.ru/lifetv/480p/index.m3u8
+
+#EXTINF:-1, 24 Kazakhstan
+http://vs2.cdn.ott.otautv.kz/dtv/id6_KTR_SG--24kz/03/plst.m3u8
+
+#EXTINF:-1, CTC RUSSIA
+http://87.248.160.8/edge/smil:sts/playlist.m3u8
+
+#EXTINF:-1, i24News France
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+
+#EXTINF:-1, ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1, Пустой
+http://i63.tinypic.com/atrk9l.jpg
+
+#EXTINF:-1, Пустой
+http://i63.tinypic.com/atrk9l.jpg
+
+#EXTINF:-1, Пустой
+http://i63.tinypic.com/atrk9l.jpg
+
+#EXTINF:-1, Пустой
+http://i63.tinypic.com/atrk9l.jpg
+
+#EXTINF:-1, Пустой
+http://i63.tinypic.com/atrk9l.jpg
+
 #EXTINF:-1, Eurosport
 http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1, National Geographic RUS (поток 1)
-http://alturl.com/zbw8j
-
-#EXTINF:-1, National Geographic RUS (поток 2)
-http://4.hls.bolshoe.tv/1/streaming/natgeo/tvrec/playlist.m3u8
 
 #EXTINF:-1, Евроспорт 1 РУС
 http://176.104.27.64:7781/udp/233.252.8.126:2345
@@ -18,8 +57,17 @@ http://176.104.27.64:7781/udp/233.252.8.126:2345
 #EXTINF:-1, Евроспорт 2 (поток 2)
 http://176.104.27.64:7781/udp/233.252.8.127:2345
 
-#EXTINF:-1, Euronews Russian
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/ru_vidan750_rtp.sdp
+#EXTINF:-1, Спорт 1 (поток 1)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
+
+#EXTINF:-1, Спорт 1 (поток 2)
+http://urlzip.ru/62WVI
+
+#EXTINF:-1, Канал "Боец" (поток 2)
+http://176.104.27.64:7781/udp/233.252.8.146:2345
+
+#EXTINF:-1, Телеканал "Матч" (поток 1)
+http://hls.peers.tv/streaming/sport/126/tvrec/playlist.m3u8
 
 #EXTINF:-1, Fox Sports
 http://motorsport.hopto.org:8080/
@@ -27,11 +75,56 @@ http://motorsport.hopto.org:8080/
 #EXTINF:-1, EXTREME SPORTS
 http://78.26.128.94:8000/udp/225.1.2.26:1234
 
+#EXTINF:-1, BEINSPORT 1HD France
+http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/49.ts
+
+#EXTINF:-1, Пустой
+http://i63.tinypic.com/atrk9l.jpg
+
+#EXTINF:-1, Пустой
+http://i63.tinypic.com/atrk9l.jpg
+
+#EXTINF:-1, Пустой
+http://i63.tinypic.com/atrk9l.jpg
+
+#EXTINF:-1, Пустой
+http://i63.tinypic.com/atrk9l.jpg
+
+#EXTINF:-1, Пустой
+http://i63.tinypic.com/atrk9l.jpg
+
+#EXTINF:-1, Россия К
+http://air.televyshka.ru:900/95
+
+#EXTINF:-1, National Geographic RUS (поток 1)
+http://alturl.com/zbw8j
+
+#EXTINF:-1, National Geographic RUS (поток 2)
+http://4.hls.bolshoe.tv/1/streaming/natgeo/tvrec/playlist.m3u8
+
+#EXTINF:-1, 100% NEWS (Хорошый канал!)
+http://85.238.112.40:8810/hls_sec/239.17.16.32-.m3u8
+
+#EXTINF:-1, Life 78 
+http://tv78.life.ru/lifetv/480p/index.m3u8
+
+#EXTINF:-1, Авто-Плюс (поток 1)
+http://iptv.multi-net.ru:80/udp/239.255.1.51:1234
+
+#EXTINF:-1, Пятница (поток 1)
+http://31.129.144.69:4022/udp/239.255.11.23:1234
+
+#EXTINF:-1, SUPER TV RUSSIA
+http://87.248.160.8/edge/smil:set/playlist.m3u8
+
+#EXTINF:-1, THT Bravo RUSSIA
+http://87.248.160.8/edge/smil:tnt/playlist.m3u8
+
+#EXTINF:-1, Юмор ТВ
+http://31.129.144.69:4022/udp/239.255.11.45:1234
+
 #EXTINF:-1, Телеканал "Футбол"
 http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
-
-#EXTINF:-1, Телеканал "Матч" (поток 1)
-http://hls.peers.tv/streaming/sport/126/tvrec/playlist.m3u8
 
 #EXTINF:-1, Телеканал "Матч" (поток 2)
 http://188.242.187.53:4022/udp/239.239.1.66:5239
@@ -42,20 +135,11 @@ http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
 #EXTINF:-1, SKY SPORT F1
 http://galaxyiptv.zapto.org:18000/live/adonis/Adonis/762.ts
 
-#EXTINF:-1, Спорт 1 (поток 1)
-http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
-
-#EXTINF:-1, Спорт 1 (поток 2)
-http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
-
 #EXTINF:-1, Спорт 1 (поток 3)
-http://urlzip.ru/62WVI
+http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
 
 #EXTINF:-1, Спорт 1 (поток 4)
 http://4BA9EBDB07C05883:@5.159.96.170:8000/SPORT1
-
-#EXTINF:-1, BEINSPORT 1HD France
-http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/49.ts
 
 #EXTINF:-1, BEINSPORT 2HD France
 http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/50.ts
@@ -65,9 +149,6 @@ http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/51.ts
 
 #EXTINF:-1, Канал "Боец" (поток 1)
 http://178.165.0.14:4022/udp/239.0.0.218:1234
-
-#EXTINF:-1, Канал "Боец" (поток 2)
-http://176.104.27.64:7781/udp/233.252.8.146:2345
 
 #EXTINF:-1, Боец (Moldova)
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
@@ -96,20 +177,11 @@ http://xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1, NFL Now HD
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 
-#EXTINF:-1, 100% NEWS (Хорошый канал!)
-http://85.238.112.40:8810/hls_sec/239.17.16.32-.m3u8
-
-#EXTINF:-1, Россия 24 (поток 1)
-http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_r24_rr.smil/playlist.m3u8?auth=vh&cast_id=21
-
 #EXTINF:-1, Россия 24 (поток 2)
-http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8?auth=vh&amp;cast_id=21
+http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_r24_rr.smil/playlist.m3u8?auth=vh&cast_id=21
 
 #EXTINF:-1, РИА Новости
 http://rian.cdnvideo.ru/rr/stream20/playlist.m3u8
-
-#EXTINF:-1, Москва 24 (поток 1)
-http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8
 
 #EXTINF:-1, Москва 24 (поток 2)
 http://31.129.144.69:4022/udp/239.255.11.18:1234
@@ -117,14 +189,8 @@ http://31.129.144.69:4022/udp/239.255.11.18:1234
 #EXTINF:-1, Москва 24 (поток 3)
 http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8?auth=vh&amp;cast_id=1661
 
-#EXTINF:-1, Россия РТР
-http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_rtrp_rr.smil/playlist.m3u8?auth=vh&cast_id=4941
-
 #EXTINF:-1, RTR Planeta (Moldova)
 http://87.248.160.8/edge/smil:rtrp/playlist.m3u8
-
-#EXTINF:-1, LiFE News (поток 1)
-http://tv.life.ru/lifetv/480p/index.m3u8
 
 #EXTINF:-1, LiFE News (поток 2)
 http://tv.life.ru/lifetv/360p/index.m3u8
@@ -134,9 +200,6 @@ http://tv.life.ru/lifetv/720p/index.m3u8
 
 #EXTINF:-1, LiFE News HD (поток 2)
 http://tv.life.ru/lifetv/720p/index.m3u8
-
-#EXTINF:-1, Life 78 
-http://tv78.life.ru/lifetv/480p/index.m3u8
 
 #EXTINF:-1, Санкт - Петербург
 http://stream2.topspb.tv:1935/live/smil:live.smil/playlist.m3u8
@@ -162,9 +225,6 @@ http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
 #EXTINF:-1, РЖД ТВ
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
 
-#EXTINF:-1, Россия К
-http://air.televyshka.ru:900/95
-
 #EXTINF:-1, Домашний
 http://31.129.144.69:4022/udp/239.255.11.95:1234
 
@@ -183,20 +243,11 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/5
 #EXTINF:-1, Брат ТВ
 rtmp://www.ibrattv.com/live/stream
 
-#EXTINF:-1, Юмор ТВ
-http://31.129.144.69:4022/udp/239.255.11.45:1234
-
 #EXTINF:-1, Архыз 24
 http://arhys24.cdnvideo.ru:1935/arhys24/arhys24.sdp/chunklist.m3u8
 
-#EXTINF:-1, Авто-Плюс (поток 1)
-http://iptv.multi-net.ru:80/udp/239.255.1.51:1234
-
 #EXTINF:-1, Авто-Плюс (поток 2)
 http://89.105.158.155:80/udp/239.255.1.51:1234
-
-#EXTINF:-1, Пятница (поток 1)
-http://31.129.144.69:4022/udp/239.255.11.23:1234
 
 #EXTINF:-1, Пятница (поток 2)
 http://4BA9EBDB07C05883:@5.159.96.170:8000/mtvair
@@ -207,17 +258,8 @@ http://31.129.144.69:4022/udp/239.255.11.9:1234
 #EXTINF:-1, Belarus 24
 http://31.129.144.69:4022/udp/239.255.11.35:1234
 
-#EXTINF:-1, CTC RUSSIA
-http://87.248.160.8/edge/smil:sts/playlist.m3u8
-
 #EXTINF:-1, PTP RUS-MOLDOVA
 http://87.248.160.8/edge/smil:rtrp/playlist.m3u8
-
-#EXTINF:-1, THT Bravo RUSSIA
-http://87.248.160.8/edge/smil:tnt/playlist.m3u8
-
-#EXTINF:-1, SUPER TV RUSSIA
-http://87.248.160.8/edge/smil:set/playlist.m3u8
 
 #EXTINF:-1, KAHAL OKEAH 
 http://4BA9EBDB07C05883:@5.159.96.170:8000/ocean
@@ -228,23 +270,14 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/perez
 #EXTINF:-1, 9ая Волна
 rtmp://176.9.127.102/live/myStream_1
 
-#EXTINF:-1, 24 Kazakhstan
-http://vs2.cdn.ott.otautv.kz/dtv/id6_KTR_SG--24kz/03/plst.m3u8
-
 #EXTINF:-1, Бойцовский Клуб
 http://31.129.144.69:4022/udp/239.255.11.33:1234
 
 #EXTINF:-1, BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
-#EXTINF:-1, ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-
 #EXTINF:-1, CBS News
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947
-
-#EXTINF:-1, i24News France
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
 
 #EXTINF:-1 radio="true", ПИТЕР FM 100.9
 rtmp://78.140.209.14:1935/radio/piterfm.stream
