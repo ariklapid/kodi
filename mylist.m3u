@@ -33,21 +33,20 @@ http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
 #EXTINF:-1, ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 
-#EXTINF:-1, Пустой
-https://3ef970ad0720304aa6a4f77bc5bf342166ce0bbc.googledrive.com/host/0B4sw9bUfAvjYVGlTNHdoeTNTTW8/channels.mp4
+#EXTINF:-1, RTR Planeta (Moldova)
+http://87.248.160.8/edge/smil:rtrp/playlist.m3u8
 
-#EXTINF:-1, Пустой
-https://3ef970ad0720304aa6a4f77bc5bf342166ce0bbc.googledrive.com/host/0B4sw9bUfAvjYVGlTNHdoeTNTTW8/channels.mp4
+#EXTINF:-1, LiFE News (поток 2)
+http://tv.life.ru/lifetv/360p/index.m3u8
 
-#EXTINF:-1, Пустой
-https://3ef970ad0720304aa6a4f77bc5bf342166ce0bbc.googledrive.com/host/0B4sw9bUfAvjYVGlTNHdoeTNTTW8/channels.mp4
+#EXTINF:-1, LiFE News HD (поток 1)
+http://tv.life.ru/lifetv/720p/index.m3u8
 
-#EXTINF:-1, Пустой
-https://3ef970ad0720304aa6a4f77bc5bf342166ce0bbc.googledrive.com/host/0B4sw9bUfAvjYVGlTNHdoeTNTTW8/channels.mp4
+#EXTINF:-1, LiFE News HD (поток 2)
+http://tv.life.ru/lifetv/720p/index.m3u8
 
-#EXTINF:-1, Пустой
-https://3ef970ad0720304aa6a4f77bc5bf342166ce0bbc.googledrive.com/host/0B4sw9bUfAvjYVGlTNHdoeTNTTW8/channels.mp4
-
+#EXTINF:-1, Санкт - Петербург
+http://stream2.topspb.tv:1935/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1, Eurosport
 http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
 
@@ -78,20 +77,50 @@ http://78.26.128.94:8000/udp/225.1.2.26:1234
 #EXTINF:-1, BEINSPORT 1HD France
 http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/49.ts
 
-#EXTINF:-1, Пустой
-https://3ef970ad0720304aa6a4f77bc5bf342166ce0bbc.googledrive.com/host/0B4sw9bUfAvjYVGlTNHdoeTNTTW8/channels.mp4
+#EXTINF:-1, BEINSPORT 2HD France
+http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/50.ts
 
-#EXTINF:-1, Пустой
-https://3ef970ad0720304aa6a4f77bc5bf342166ce0bbc.googledrive.com/host/0B4sw9bUfAvjYVGlTNHdoeTNTTW8/channels.mp4
+#EXTINF:-1, BEINSPORT 3HD France
+http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/51.ts
 
-#EXTINF:-1, Пустой
-https://3ef970ad0720304aa6a4f77bc5bf342166ce0bbc.googledrive.com/host/0B4sw9bUfAvjYVGlTNHdoeTNTTW8/channels.mp4
+#EXTINF:-1, beINSPORT10_HD
+http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/62.ts
 
-#EXTINF:-1, Пустой
-https://3ef970ad0720304aa6a4f77bc5bf342166ce0bbc.googledrive.com/host/0B4sw9bUfAvjYVGlTNHdoeTNTTW8/channels.mp4
+#EXTINF:-1, beINSPORT09_HD
+http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/61.ts
 
-#EXTINF:-1, Пустой
-https://3ef970ad0720304aa6a4f77bc5bf342166ce0bbc.googledrive.com/host/0B4sw9bUfAvjYVGlTNHdoeTNTTW8/channels.mp4
+#EXTINF:-1, beINSPORT08_HD
+http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/60.ts
+
+#EXTINF:-1, beINSPORT07_HD
+http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/59.ts
+
+#EXTINF:-1, beINSPORT06_HD
+http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/58.ts
+
+#EXTINF:-1, beINSPORT05_HD
+http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/57.ts
+
+#EXTINF:-1, beINSPORT04_HD
+http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/56.ts
+
+#EXTINF:-1, beINSPORT03_HD
+http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/55.ts
+
+#EXTINF:-1, beINSPORT02_HD
+http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/54.ts
+
+#EXTINF:-1, beINSPORT01_HD
+http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/53.ts
+
+#EXTINF:-1, USA-PAC 12 Oregon (HD)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+
+#EXTINF:-1, Sport Pac Mountain 1080 HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+
+#EXTINF:-1, Sport Pac Los Angeles 1080 HD
+http://xrxs.net/video/live-p12losa-4728.m3u8
 
 #EXTINF:-1, Россия К
 http://air.televyshka.ru:900/95
