@@ -18,6 +18,9 @@ http://176.104.27.64:7781/udp/233.252.8.126:2345
 #EXTINF:-1, Евроспорт 2 (поток 2)
 http://176.104.27.64:7781/udp/233.252.8.127:2345
 
+#EXTINF:-1, Euronews Russian
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/ru_vidan750_rtp.sdp
+
 #EXTINF:-1, Fox Sports
 http://motorsport.hopto.org:8080/
 
@@ -192,24 +195,6 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/mtvair
 #EXTINF:-1, Звезда
 http://31.129.144.69:4022/udp/239.255.11.9:1234
 
-#EXTINF:-1, NICKELODEON
-http://193.176.251.228:8000/Nickelodeon
-
-#EXTINF:-1, Карусель
-http://4BA9EBDB07C05883:@5.159.96.170:8000/karusel
-
-#EXTINF:-1, Cartoon Network
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-
-#EXTINF:-1, NICK JR. RUS
-http://78.26.128.94:8000/udp/225.1.1.218:1234
-
-#EXTINF:-1, Детский канал
-http://win.cdn.bonus-tv.ru/TVB4/tamyr/playlist.m3u8
-
-#EXTINF:-1, 2×2 Мультики
-http://31.129.144.69:4022/udp/239.255.11.3:1234
-
 #EXTINF:-1, Belarus 24
 http://31.129.144.69:4022/udp/239.255.11.35:1234
 
@@ -237,36 +222,6 @@ rtmp://176.9.127.102/live/myStream_1
 #EXTINF:-1, 24 Kazakhstan
 http://vs2.cdn.ott.otautv.kz/dtv/id6_KTR_SG--24kz/03/plst.m3u8
 
-#EXTINF:-1, Duna
-http://212.40.98.166/intstreams/mtva/dunalive_international.smil/playlist.m3u8
-
-#EXTINF:-1, Duna World
-http://212.40.98.166/intstreams/mtva/dunaworldlive.smil/chunklist.m3u8
-
-#EXTINF:-1, M1 HD
-http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist.m3u8
-
-#EXTINF:-1, M2 HD
-http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8
-
-#EXTINF:-1, Keszthely TV
-http://stream.tvkeszthely.hu:48082/tvkeszthely.flv
-
-#EXTINF:-1, 24h RTVE
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
-
-#EXTINF:-1, 324 NOTICIES Spain
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
-
-#EXTINF:-1, Budapest TV
-rtmp://91.82.85.44:1935/liveios851739io/_definst_/bptv.sdp
-
-#EXTINF:-1, M4 Sport Hungary
-http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
-
-#EXTINF:-1, 1Music Channel Hungary
-http://stream.1music.hu/stream/1music.m3u8
-
 #EXTINF:-1, Бойцовский Клуб
 http://31.129.144.69:4022/udp/239.255.11.33:1234
 
@@ -281,87 +236,6 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 
 #EXTINF:-1, i24News France
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
-
-#EXTINF:-1, i24News English
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
-
-#EXTINF:-1, Vevo TV Playlist 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-
-#EXTINF:-1, Vevo TV Playlist 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-
-#EXTINF:-1, Vevo TV Playlist 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-
-#EXTINF:-1, VEVO EU HD
-http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
-
-#EXTINF:-1, 24 Rock One
-mmsh://mediatv2.topix.it/24RockOne66
-
-#EXTINF:-1, M2O Music
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1, For Music
-http://wowza1.top-ix.org/quartaretetv1/formusicweb/index.m3u8
-
-#EXTINF:-1, Dot Dance
-rtmp://dotdance.vintera.tv:1935/dotdance/dotdance.stream
-
-#EXTINF:-1, Hardlife
-rtmp://stream.hardlife.tv/live/hl
-
-#EXTINF:-1, Fox Movies
-http://latinochannels.2fh.co/canales/hls/fox-movies.m3u8
-
-#EXTINF:-1, London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-
-#EXTINF:-1, MBC Action
-http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-
-#EXTINF:-1, Food Network US
-rtmp://a.cdn.newschat.tv/edge playpath=food_hd swfUrl=http://newschat.tv/player.swf pageUrl=http://www.livenewschat.eu/world/ swfVfy=1 live=1  timeout=15
-
-#EXTINF:-1, CBN
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3575741462001
-
-#EXTINF:-1, MBC2
-http://63.237.48.23/ios/MBC2/MBC2.m3u8
-
-#EXTINF:-1, BLOOMBERG
-http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M24K.m3u8
-
-#EXTINF:-1, ערוץ 10
-http://nana10live-lh.akamaihd.net/i/ch10news_0@93049/master.m3u8
-
-#EXTINF:-1, ערוץ 10
-http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist_b1000000.m3u8
-
-#EXTINF:-1, הערוץ הראשון
-http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/playlist.m3u8
-
-#EXTINF:-1, CHANNEL 20 ISRAEL
-http://ynet-lh.akamaihd.net/i/ynet_1@123296/master.m3u8
-
-#EXTINF:-1, CHANNEL 2 ISRAEL NEWS ONLY
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
-
-#EXTINF:-1, Channel 2 ISR Wed-Sat
-http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index.m3u8
-
-#EXTINF:-1, Channel 2 ISR Sun-Tue
-http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8
-
-#EXTINF:-1, Channel 24 Israel Music
-http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
-
-#EXTINF:-1, CHANNEL 10 ISRAEL (2nd Version)
-http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
-
-#EXTINF:-1, Channel KNESET
-mmsh://212.235.5.241/knessetlive
 
 #EXTINF:-1 radio="true", ПИТЕР FM 100.9
 rtmp://78.140.209.14:1935/radio/piterfm.stream
@@ -428,27 +302,3 @@ http://radio.2kom.ru:8000/1hits80s
 
 #EXTINF:-1 radio="true", Allegro - Jazz
 http://radio.2kom.ru:8000/Allegro.Jazz
-
-#EXTINF:-1 radio="true", 101FM רדיו ירושלים
-mmsh://31.168.230.9/101fm?MSWMExt=.asf
-
-#EXTINF:-1 radio="true", 88FM Israel
-http://82.80.192.28/iba_radio-88fmMRepeat/_definst_/smil:radio-88fmM.smil/playlist.m3u8
-
-#EXTINF:-1 radio="true", גלגל"צ
-http://test.live.net.il/glgltz-a-zixief.m3u8
-
-#EXTINF:-1 radio="true", גלי צה"ל
-http://80.244.172.10/glz-a-zixief.m3u8
-
-#EXTINF:-1 radio="true", 89.1 FM Первое радио
-mms://213.8.143.171/891FM
-
-#EXTINF:-1 radio="true", 90FM אמצע הדרך
-http://server1.live1.co.il:8018/livemp3
-
-#EXTINF:-1 radio="true", 91FM לב המדינה
-http://213.8.143.168/91fmAudio
-
-#EXTINF:-1 radio="true", רשת ב
-http://62.90.90.37/iba_radio-betMRepeat/_definst_/smil:radio-betM.smil/playlist.m3u8
