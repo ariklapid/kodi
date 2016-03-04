@@ -428,10 +428,721 @@ http://btv-net.mediacdn.ru/TVB6/9volna/playlist.m3u8
 #EXTINF:-1,5channel
 http://btv-net.mediacdn.ru/TVB6/5channel/playlist.m3u8
 
-#EXTINF:-1, Eurosport 1 CZ
-http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
 
 
+
+
+
+
+#EXTINF:-1, [COLOR yellow]Веб Камеры[/COLOR]
+http://8.8.8.8
+
+#EXTINF:-1, Эрмитаж
+http://195.154.163.4:8083/camera12/h264
+
+#EXTINF:-1, Петропавловский мост
+http://195.154.163.4:8083/camera17/h264
+
+#EXTINF:-1,Африка 1
+http://iphone-streaming.ustream.tv/ustreamVideo/17128998/streams/live/playlist.m3u8
+#EXTINF:-1,Африка 10
+http://stream.africam.com/nk/nk.stream/playlist.m3u8
+#EXTINF:-1,Африка 11
+http://206.190.152.218:1935/rtsp-distribution/mp4:tau-lodge-01.stream/playlist.m3u8
+#EXTINF:-1,Африка 2
+http://iphone-streaming.ustream.tv/ustreamVideo/17129072/streams/live/playlist.m3u8
+#EXTINF:-1,Африка 3
+http://stream.africam.com/rc/rc.stream/playlist.m3u8
+#EXTINF:-1,Африка 4
+http://209.95.38.34:1935/rtsp-distribution/mp4:art-cam-01.stream/playlist.m3u8
+#EXTINF:-1,Африка 5
+http://stream.africam.com/tm/tm.stream/playlist.m3u8
+#EXTINF:-1,Африка 6
+http://stream.africam.com/na/na.stream/playlist.m3u8
+#EXTINF:-1,Африка 7
+http://209.95.38.34:1935/rtsp-distribution/mp4:dju-waterhole-02.stream/playlist.m3u8
+#EXTINF:-1,Африка 8
+http://206.190.152.218:1935/rtsp-distribution/mp4:wil-safari-01.stream/playlist.m3u8
+#EXTINF:-1,Африка 9
+http://stream.africam.com/id/id.stream/playlist.m3u8
+#EXTINF:-1,Аэропорт Кельн/Бонн
+rtmp://stream-5gw.1000eyes.de/rtplive/cgnC8409D.stream
+#EXTINF:-1,Белгород - Перекресток
+rtmp://194.190.30.18/myapp/mayak
+#EXTINF:-1,Бишкек - Центральная площадь Ала-Тоо
+http://217.29.21.175:1935/live/alatoo.stream/chunklist.m3u8
+#EXTINF:-1,Благовещенск - Площадь Ленина
+rtmp://195.14.118.60/rtplive2/camera43-lenina.stream
+#EXTINF:-1,Большеохтинский мост
+http://195.154.163.4:8083/camera21/h264
+#EXTINF:-1,Буковель (Карпаты) - Буковельская ярмарка
+http://origin.cdn.ua:1935/bukovel.com_camera/21_720p.stream/chunklist.m3u8
+#EXTINF:-1,Буковель (Карпаты) - Веб-камера 23
+http://origin.cdn.ua:1935/bukovel.com_camera/23_720p.stream/chunklist.m3u8
+#EXTINF:-1,Буковель (Карпаты) - Верхняя станция подъемника #12
+http://origin.cdn.ua:1935/bukovel.com_camera/07_720p.stream/chunklist.m3u8
+#EXTINF:-1,Буковель (Карпаты) - Верхняя станция подъемника #2
+http://origin.cdn.ua:1935/bukovel.com_camera/10_720p.stream/chunklist.m3u8
+#EXTINF:-1,Буковель (Карпаты) - Верхняя станция подъемников 11,16
+http://origin.cdn.ua:1935/bukovel.com_camera/20_720p.stream/chunklist.m3u8
+#EXTINF:-1,Буковель (Карпаты) - Верхняя станция подъемников 14, 15
+http://origin.cdn.ua:1935/bukovel.com_camera/04_720p.stream/chunklist.m3u8
+#EXTINF:-1,Буковель (Карпаты) - Вид на гору Буковель
+http://origin.cdn.ua:1935/bukovel.com_camera/13_panasonic_1.stream/chunklist.m3u8
+#EXTINF:-1,Буковель (Карпаты) - Детская площадка
+http://origin.cdn.ua:1935/bukovel.com_camera/12_panasonic_1.stream/chunklist.m3u8
+#EXTINF:-1,Буковель (Карпаты) - Жилая резиденция #1
+http://origin.cdn.ua:1935/bukovel.com_camera/36_720p.stream/chunklist.m3u8
+#EXTINF:-1,Буковель (Карпаты) - Каток
+http://origin.cdn.ua:1935/bukovel.com_camera/09_720p.stream/chunklist.m3u8
+#EXTINF:-1,Буковель (Карпаты) - Кафе Bugi.L
+http://origin.cdn.ua:1935/bukovel.com_camera/05_720p.stream/chunklist.m3u8
+#EXTINF:-1,Буковель (Карпаты) - Нижние станции подъемников 8,15 и 11
+http://origin.cdn.ua:1935/bukovel.com_camera/06_720p.stream/chunklist.m3u8
+#EXTINF:-1,Буковель (Карпаты) - Нижняя станция подъемника #17
+http://origin.cdn.ua:1935/bukovel.com_camera/11_panasonic_1.stream/chunklist.m3u8
+#EXTINF:-1,Буковель (Карпаты) - Озеро молодости
+http://origin.cdn.ua:1935/bukovel.com_camera/19_720p.stream/chunklist.m3u8
+#EXTINF:-1,Буковель (Карпаты) - Ресторан Кайзер
+http://origin.cdn.ua:1935/bukovel.com_camera/37_720p.stream/chunklist.m3u8
+#EXTINF:-1,Буковель (Карпаты) - Траса 5B
+http://origin.cdn.ua:1935/bukovel.com_camera/01_720p.stream/chunklist.m3u8
+#EXTINF:-1,Буковель (Карпаты) - Трасса 14А
+http://origin.cdn.ua:1935/bukovel.com_camera/08_720p.stream/chunklist.m3u8
+#EXTINF:-1,Буковель (Карпаты) - Трасса 2A
+http://origin.cdn.ua:1935/bukovel.com_camera/02_720p.stream/chunklist.m3u8
+#EXTINF:-1,Васильевский остров
+http://195.154.163.4:8083/camera16/h264
+#EXTINF:-1,Веб камера Кролик
+http://iphone-streaming.ustream.tv/uhls/8816674/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Видное
+rtmp://camserv.prolink.ru/live/prolst1
+#EXTINF:-1,Волжский - ДК Октябрь спортзал Волжанин
+http://camanage.powernet.com.ru:8080/sportzal-volzhanin/playlist.m3u8
+#EXTINF:-1,Волжский - Камера на к.Спутник
+http://camanage.powernet.com.ru:8080/sputnik/playlist.m3u8
+#EXTINF:-1,Волжский - ПКиО Гидростроитель - Ротонда
+http://camanage.powernet.com.ru:8080/park_rotonda/playlist.m3u8
+#EXTINF:-1,Волжский - Площадь Ленина - ДК Октябрь
+http://camanage.powernet.com.ru:8080/Ploshhad-Lenina-01/playlist.m3u8
+#EXTINF:-1,Волжский - Площадь Труда - ТЦ Idea
+http://camanage.powernet.com.ru:8080/trudidea/playlist.m3u8
+#EXTINF:-1,Волжский - ФОК Авангард (большой зал)
+http://camanage.powernet.com.ru:8080/avangard-zal/playlist.m3u8
+#EXTINF:-1,Волжский - ФОК Авангард (зал борьбы)
+http://camanage.powernet.com.ru:8080/avangard-zal-borbi/playlist.m3u8
+#EXTINF:-1,Волжский - ФОК Русь (большой зал)
+http://camanage.powernet.com.ru:8080/Fok-rus-zal2/playlist.m3u8
+#EXTINF:-1,Волжский - ФОК Русь (поле на улице)
+http://camanage.powernet.com.ru:8080/fok_rus_paintball/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Александрова - ул.Мира
+http://camanage.powernet.com.ru:8080/Aleksandrova-Mira-01/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Александрова - ул.Пушкина
+http://camanage.powernet.com.ru:8080/alexandrova43-crossroad/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Вид с АКРАС-центра на ул.Карбышева
+http://camanage.powernet.com.ru:8080/karbysheva-akras-01/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Дружбы - ул.40 лет Победы
+http://camanage.powernet.com.ru:8080/drugba107/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Дружбы - ул.87 Гвардейская
+http://camanage.powernet.com.ru:8080/druzhby-87gvardejskaya-01/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Дружбы - ул.Оломоуцкая
+http://camanage.powernet.com.ru:8080/Druzhby-Olomouckaya-01/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Карбышева - ул.40 лет Победы
+http://camanage.powernet.com.ru:8080/Karbysheva-40letPobedy-01/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Карбышева - ул.Академика Королева
+http://camanage.powernet.com.ru:8080/karbysheva-korolyova-01/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Карбышева - ул.Александрова
+http://camanage.powernet.com.ru:8080/Karbysheva-Aleksandrova-01/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Карбышева - ул.Оломоуцкая
+http://camanage.powernet.com.ru:8080/karbysheva-138/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Карбышева - ул.Пионерская
+http://camanage.powernet.com.ru:8080/karbysheva-pionerskaya-01/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Карбышева-59 (пешеходный переход)
+http://camanage.powernet.com.ru:8080/karbysheva-59/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Коммунистическая - ул.Карла Маркса
+http://camanage.powernet.com.ru:8080/Kommunisticheskaya-KarlaMarksa-01/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Ленина - ул.40 Лет победы
+http://camanage.powernet.com.ru:8080/Lenina-40letPobedy-01/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Ленина - ул.Академика Королёва
+http://camanage.powernet.com.ru:8080/lenina-koroleva/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Ленина - ул.Комсомольская
+http://camanage.powernet.com.ru:8080/lenina-komsomol/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Ленина - ул.Мечникова
+http://camanage.powernet.com.ru:8080/lenina-mechnikova-01/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Ленина - ул.Молодогвардейцев
+http://camanage.powernet.com.ru:8080/Lenina-Molodogvardejcev-01/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Ленина - ул.Оломоуцкая
+http://camanage.powernet.com.ru:8080/Lenina-Olomouckaya-01/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Мира - м.Заря
+http://camanage.powernet.com.ru:8080/mirazarya/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Мира - ул.40 лет Победы
+http://camanage.powernet.com.ru:8080/mira-hram/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Мира - ул.Нариманова
+http://camanage.powernet.com.ru:8080/mira-narimanova-01/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Мира - ул.Оломоуцкая
+http://camanage.powernet.com.ru:8080/miradetskaya/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Пушкина - ул.Химиков
+http://camanage.powernet.com.ru:8080/Pushkina-Ximikov-01/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Энгельса - ул.Пушкина
+http://camanage.powernet.com.ru:8080/engelsa42/playlist.m3u8
+#EXTINF:-1,Волжский - ул.Энгельса - ул.Советская
+http://camanage.powernet.com.ru:8080/Engelsa-Sovetskaya-01/playlist.m3u8
+#EXTINF:-1,Выборг - Горнолыж.курорт
+http://flussonic.exdesign.ru/snegny/playlist.m3u8
+#EXTINF:-1,Городище - Дом культуры
+http://camanage.powernet.com.ru:8080/gorodichedomkulturi/playlist.m3u8
+#EXTINF:-1,Городище - Храм Всех Скорбящих Радость
+http://camanage.powernet.com.ru:8080/gorodishe-hram/playlist.m3u8
+#EXTINF:-1,Грозный - Мечеть "Сердце Чечни"
+http://vainahtelecom.ru:1935/rtplive/camera.stream/playlist.m3u8
+#EXTINF:-1,Дворцовая площадь
+http://195.154.163.4:8083/camera7/h264
+#EXTINF:-1,Дворцовый мост
+http://195.154.163.4:8083/camera4/0,0,640,480/h264
+#EXTINF:-1,Днепропетровск - Ж/д вокзал
+http://live.dnepr.com:1935/live/c811.stream/playlist.m3u8
+#EXTINF:-1,Днепропетровск - Новый мост
+http://live.dnepr.com:1935/live/c414.stream/playlist.m3u8
+#EXTINF:-1,Днепропетровск - Новый мост и набережные
+http://live.dnepr.com:1935/live/c411.stream/playlist.m3u8
+#EXTINF:-1,Днепропетровск - Пассаж
+http://live.dnepr.com:1935/live/c425.stream/playlist.m3u8
+#EXTINF:-1,Дубовка - Аллея
+http://camanage.powernet.com.ru:8080/dubovka_cam01/playlist.m3u8
+#EXTINF:-1,Дубовка - ул.Магистральная - ул.Московская
+http://camanage.powernet.com.ru:8080/Dubovka-Magistralnaya-Moskovskaya-01/playlist.m3u8
+#EXTINF:-1,Ейск - Театральная площадь
+rtmp://195.110.52.99:1935/live/dk_full
+#EXTINF:-1,Екатеринбург - Плотинка HD
+rtmp://80.78.116.125:1935/rtplive/plot_hd.stream
+#EXTINF:-1,Екатеринбург - Площадь 1905
+rtmp://80.78.116.125:1935/rtplive/5goda_hd.stream
+#EXTINF:-1,Екатеринбург - Холл института РАНХиГС
+rtmp://www.uapa.ru:1935/live/hall
+#EXTINF:-1,Железногорск - Площадь Ленина
+http://109.196.208.73:10102/stream.flv
+#EXTINF:-1,Железногорск - Площадь Победы
+http://109.196.208.73:10104/stream.flv
+#EXTINF:-1,Железнодожный
+rtmp://wowza.inetcom.ru/live/camera12_3.stream
+#EXTINF:-1,Земля из космоса (ISS HD Earth Viewing Experiment)
+http://iphone-streaming.ustream.tv/ustreamVideo/17074538/streams/live/playlist.m3u8
+#EXTINF:-1,Иркутск -  ул.Конева
+rtmp://stream.baikal-online.ru/live/cam2.stream
+#EXTINF:-1,Иркутск - Джамбула
+rtmp://stream.baikal-online.ru/live/djambula.stream
+#EXTINF:-1,Иркутск - Площадь Кирова
+rtmp://weacom.ru/live/camera02
+#EXTINF:-1,Исакиевский собор
+http://195.154.163.4:8083/camera3/h264
+#EXTINF:-1,Казанский собор
+http://195.154.163.4:8083/camera6/h264
+#EXTINF:-1,Калининград - ул.Серпуховская-30 (1)
+http://109.239.208.82/kgdcam2/index.m3u8
+#EXTINF:-1,Калининград - ул.Серпуховская-30 (2)
+http://109.239.208.82/kgdcam3/index.m3u8
+#EXTINF:-1,Камера Автовокзал
+http://iptv.rubintele.com:8676
+#EXTINF:-1,Канада
+http://streamer.donneesquebec.org:1935/vdqcam4/vdqcam4.stream/chunklist.m3u8
+#EXTINF:-1,Керчь - АТБ ул.Ленина
+http://livecams.kerch.net:1935/live/camera_74_73.stream/playlist.m3u8
+#EXTINF:-1,Керчь - Вид на Митридат
+http://livecams.kerch.net:1935/live/camera_125_150.stream/playlist.m3u8
+#EXTINF:-1,Керчь - Вид на ул.Самойленко
+http://livecams.kerch.net:1935/live/camera_52_250.stream/playlist.m3u8
+#EXTINF:-1,Керчь - ДК "Корабел" (Аршинцево)
+http://livecams.kerch.net:1935/live/camera_110_010.stream/playlist.m3u8
+#EXTINF:-1,Керчь - Море Пляж (Героевское)
+http://livecams.kerch.net:1935/live/camera_84_10.stream/playlist.m3u8
+#EXTINF:-1,Керчь - Набережная
+http://livecams.kerch.net:1935/live/camera_125_242.stream/playlist.m3u8
+#EXTINF:-1,Керчь - Паромная переправа 1 (Порт-Крым)
+http://livecams.kerch.net:1935/live/camera_84_249.stream/playlist.m3u8
+#EXTINF:-1,Керчь - Площадь Ленина 1
+http://livecams.kerch.net:1935/live/camera_125_240.stream/playlist.m3u8
+#EXTINF:-1,Керчь - Площадь Ленина 2
+http://livecams.kerch.net:1935/live/camera_125_239.stream/playlist.m3u8
+#EXTINF:-1,Керчь - Центральный рынок
+http://livecams.kerch.net:1935/live/camera_62_10.stream/playlist.m3u8
+#EXTINF:-1,Керчь - ул.Кирова
+http://livecams.kerch.net:1935/live/camera_125_50.stream/playlist.m3u8
+#EXTINF:-1,Керчь - ул.Ленина от Почтового переулка
+http://livecams.kerch.net:1935/live/camera_74_171.stream/playlist.m3u8
+#EXTINF:-1,Кондопога - Ледовый дворец
+http://s2.moidom.karelia.pro/s/public/0000001049.m3u8
+#EXTINF:-1,Красноярск -  Г/K «Бобровый лог»
+http://62.213.36.148:1935/live/kkd2-bot.stream/chunklist.m3u8
+#EXTINF:-1,Красноярск -  Г/K «Бобровый лог» 2
+http://62.213.36.148:1935/live/kkd1-bot.stream/chunklist.m3u8
+#EXTINF:-1,Красноярск - Стелла имени 70-летия победы - Камера 1
+http://178.169.84.8/krasmash-2/index.m3u8
+#EXTINF:-1,Красноярск - Стелла имени 70-летия победы - Камера 2
+http://178.169.84.8/krasmash-3/index.m3u8
+#EXTINF:-1,Красноярск - Стелла имени 70-летия победы - Красмаш
+http://178.169.84.8/pam/index.m3u8
+#EXTINF:-1,Линдау (Германия)
+http://lb-sn1.livespotting.tv:1935/windit-edge/vv50_720p.stream/chunklist.m3u8
+#EXTINF:-1,Липецк
+http://212.152.32.21/hls/cam1.m3u8
+#EXTINF:-1,Литва - Балтийское море
+http://cdn008.bite.lt/edge74/smil:cam74.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,Литва - Балтийское море (2)
+http://89.117.128.169:80/Palanga/palanga.stream/chunklist.m3u8
+#EXTINF:-1,Литва - Вид с парома
+http://cdn008.bite.lt/edge227/smil:cam227.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,Литва - Клайпедский мол
+http://cdn008.bite.lt/edge10/smil:cam10.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,Литва - Куршский залив - дюна Парниджё
+http://cdn008.bite.lt/edge02/smil:cam02.smil/chunklist_b1500000_slLT.m3u8
+#EXTINF:-1,Литва - Яхт-клуб
+http://89.117.128.169:80/Nida/nida.stream/chunklist.m3u8
+#EXTINF:-1,Литва - пл.Анике
+http://89.117.128.169:80/Klaipeda/klaipeda.stream/chunklist.m3u8
+#EXTINF:-1,Мелитополь - Мост
+rtmp://46.175.70.116/camera16/stream
+#EXTINF:-1,Мелитополь - Парк Горького
+rtmp://46.175.70.116/camera7/stream
+#EXTINF:-1,Мелитополь - Площадь Победы
+rtmp://46.175.70.116/camera4/stream
+#EXTINF:-1,Мелитополь - Центральный рынок
+rtmp://46.175.70.116/camera3/stream
+#EXTINF:-1,Мелитополь - Южный выезд (круг)
+rtmp://46.175.70.116/camera11/stream
+#EXTINF:-1,Мелитополь - маг.Елена и Перекресток
+rtmp://46.175.70.116/camera17/stream
+#EXTINF:-1,Мелитополь - маг.Скорпион
+rtmp://46.175.70.116/camera13/stream
+#EXTINF:-1,Мелитополь - пр.Б.Хмельницкого и ул.Кирова
+rtmp://46.175.70.116/camera5/stream
+#EXTINF:-1,Мелитополь - пр.Б.Хмельницкого и ул.Свердлова
+rtmp://46.175.70.116/camera2/stream
+#EXTINF:-1,Мелитополь - пр.Б.Хмельницкого и ул.Фрунзе
+rtmp://46.175.70.116/camera1/stream
+#EXTINF:-1,Мелитополь - ул.Кирова
+rtmp://46.175.70.116/camera14/stream
+#EXTINF:-1,Мелитополь - ул.Ломоносова и ул.Гризодубова
+rtmp://46.175.70.116/camera12/stream
+#EXTINF:-1,Мелитополь -пр.Б.Хмельницкого и ул.Шмидта
+rtmp://46.175.70.116/camera6/stream
+#EXTINF:-1,Молдова Web
+http://cdn.magictvbox.eu/setanta/setanta_720p.m3u8
+#EXTINF:-1,Москва
+rtmp://wowza.inetcom.ru/live/camera12_4.stream
+#EXTINF:-1,Москва - 25 км МКАД
+rtmp://camserv2.prolink.ru/live/prolst2
+#EXTINF:-1,Москва - Марксисткая улица
+rtmp://media.wi-box.ru/live/arecontvi1.stream
+#EXTINF:-1,Мытищи - МКАД Въезд в Перловку
+http://intek-m.ru/hls/koltso_perl.m3u8
+#EXTINF:-1,Мытищи - МКАД Ярославское шоссе
+http://intek-m.ru/hls/yaroslavskoye_sh_2.m3u8
+#EXTINF:-1,Мытищи - Пересечение ул.Белобородова и Олимпийского пр.
+http://intek-m.ru/hls/olimp_bel.m3u8
+#EXTINF:-1,Мытищи - Пересечение ул.Каргина и Олимпийского пр.
+http://intek-m.ru/hls/alta_krug.m3u8
+#EXTINF:-1,Мытищи - Пересечение ул.Комарова и Новомытищинского пр.
+http://intek-m.ru/hls/novomyt_komar.m3u8
+#EXTINF:-1,Мытищи - Пересечение ул.Мира и Волковского шоссе
+http://intek-m.ru/hls/volkovskoe.m3u8
+#EXTINF:-1,Мытищи - Пересечение ул.Мира и Новомытищинского пр.
+http://intek-m.ru/hls/novomytischinskiy.m3u8
+#EXTINF:-1,Мытищи - Пересечение ул.Семашко и ул.Веры Волошиной
+http://intek-m.ru/hls/semashko.m3u8
+#EXTINF:-1,Мытищи - Пересечение ул.Сукромка и ул.Летная
+http://intek-m.ru/hls/letnaya.m3u8
+#EXTINF:-1,Мытищи - Ярославское шоссе ТРЦ XL-2
+http://intek-m.ru/hls/yaroslavskoye_sh_xl.m3u8
+#EXTINF:-1,Мытищи - ул.Благовещенская 5
+http://intek-m.ru/hls/blagoveschenskaya.m3u8
+#EXTINF:-1,Мытищи - ул.Красноармейская
+http://intek-m.ru/hls/krasnoarmeyskaya.m3u8
+#EXTINF:-1,Мытищи - ул.Мира и Юбилейная
+http://intek-m.ru/hls/mira_ubiley.m3u8
+#EXTINF:-1,Мытищи - ул.Мира/ДК Яуза
+http://intek-m.ru/hls/mira_dk.m3u8
+#EXTINF:-1,Набережная Схевенингена 1 (Нидерланды)
+http://scheef.mine.nu:80/live/sys1.stream/.m3u8
+#EXTINF:-1,Набережная Схевенингена 2 (Нидерланды)
+http://scheef.mine.nu:80/live/sys2.stream/.m3u8
+#EXTINF:-1,Набережная Схевенингена 3 (Нидерланды)
+http://scheef.mine.nu:80/live/sys3.stream/.m3u8
+#EXTINF:-1,Набережная Схевенингена 4 (Нидерланды)
+http://scheef.mine.nu:80/live/sys6.stream/.m3u8
+#EXTINF:-1,Набережная Схевенингена 5 (Нидерланды)
+http://scheef.mine.nu:80/live/sys7.stream/.m3u8
+#EXTINF:-1,Набережная Схевенингена 6 (Нидерланды)
+http://scheef.mine.nu:80/live/sys11.stream/.m3u8
+#EXTINF:-1,Невский проспект
+http://195.154.163.4:8083/camera2/h264
+#EXTINF:-1,Новосибирск 1
+http://webcam.211.ru/camera54_1/playlist.m3u8
+#EXTINF:-1,Новосибирск 10
+http://webcam.211.ru/camera54_13/playlist.m3u8
+#EXTINF:-1,Новосибирск 11
+http://webcam.211.ru/camera54_14/playlist.m3u8
+#EXTINF:-1,Новосибирск 12
+http://webcam.211.ru/camera54_15/playlist.m3u8
+#EXTINF:-1,Новосибирск 13
+http://webcam.211.ru/camera54_16/playlist.m3u8
+#EXTINF:-1,Новосибирск 14
+http://webcam.211.ru/camera54_17/playlist.m3u8
+#EXTINF:-1,Новосибирск 15
+http://webcam.211.ru/camera42_7/playlist.m3u8
+#EXTINF:-1,Новосибирск 16
+http://webcam.211.ru/camera42_6/playlist.m3u8
+#EXTINF:-1,Новосибирск 17
+http://webcam.211.ru/camera42_4/playlist.m3u8
+#EXTINF:-1,Новосибирск 18
+http://webcam.211.ru/camera42_3/playlist.m3u8
+#EXTINF:-1,Новосибирск 19
+http://webcam.211.ru/camera42_1/playlist.m3u8
+#EXTINF:-1,Новосибирск 2
+http://webcam.211.ru/camera54_2/playlist.m3u8
+#EXTINF:-1,Новосибирск 3
+http://webcam.211.ru/camera54_3/playlist.m3u8
+#EXTINF:-1,Новосибирск 4
+http://webcam.211.ru/camera54_5/playlist.m3u8
+#EXTINF:-1,Новосибирск 5
+http://webcam.211.ru/camera54_6/playlist.m3u8
+#EXTINF:-1,Новосибирск 6
+http://webcam.211.ru/camera54_7/playlist.m3u8
+#EXTINF:-1,Новосибирск 7
+http://webcam.211.ru/camera54_8/playlist.m3u8
+#EXTINF:-1,Новосибирск 8
+http://webcam.211.ru/camera54_9/playlist.m3u8
+#EXTINF:-1,Новосибирск 9
+http://webcam.211.ru/camera54_11/playlist.m3u8
+#EXTINF:-1,Одесса - Бассейн в форме дельфина
+http://cdn6.live-tv.od.ua:8081/nemo/delfin-abr/nemo/delfin/chunks.m3u8
+#EXTINF:-1,Одесса - Пляж с фонтанами
+http://cdn1.live-tv.od.ua:8081/nemo/mor-abr/nemo/mor-sub1/chunks.m3u8
+#EXTINF:-1,Одесса - Стройка
+http://77.88.196.133:8081/mariin/mariin-abr/mariin/mariin/chunks.m3u8
+#EXTINF:-1,Одесса - Терраса отеля Немо
+http://cdn1.live-tv.od.ua:8081/nemo/mor-abr/nemo/mor-sub1/chunks.m3u8
+#EXTINF:-1,Орел
+http://77.247.235.133:1935/live/istoki-info.sdp/playlist.m3u8
+#EXTINF:-1,Петрозаводск - Белый кролик
+http://s2.moidom.karelia.pro/s/public/0000001583.m3u8
+#EXTINF:-1,Петрозаводск - Бумажников ул. - Пролетарская ул.
+http://s2.moidom.karelia.pro/s/public/0000001339.m3u8
+#EXTINF:-1,Петрозаводск - Варкауса наб. - Мурманская ул.
+http://s1.moidom.karelia.pro/s/public/0000001415.m3u8
+#EXTINF:-1,Петрозаводск - Верхнее чапаевское кольцо
+http://s2.moidom.karelia.pro/s/public/0000001391.m3u8
+#EXTINF:-1,Петрозаводск - Гиперборея - пр. Ленина
+http://s2.moidom.karelia.pro/s/public/0000001471.m3u8
+#EXTINF:-1,Петрозаводск - Дворец Искусств
+http://s2.moidom.karelia.pro/s/public/0000001383.m3u8
+#EXTINF:-1,Петрозаводск - Детская площадка на Кукковке
+http://s2.moidom.karelia.pro/s/public/0000001101.m3u8
+#EXTINF:-1,Петрозаводск - Детская площадка на ул.Советов
+http://s2.moidom.karelia.pro/s/public/0000001353.m3u8
+#EXTINF:-1,Петрозаводск - Детская площадка у Столицы
+http://s1.moidom.karelia.pro/s/public/0000000418.m3u8
+#EXTINF:-1,Петрозаводск - Древлянское кольцо
+http://s1.moidom.karelia.pro/s/public/0000000192.m3u8
+#EXTINF:-1,Петрозаводск - Енотовидные собаки в Эколого-биологическом центре
+http://s2.moidom.karelia.pro/s/public/0000000683.m3u8
+#EXTINF:-1,Петрозаводск - Калинина ул. - Пролетарская ул.
+http://s2.moidom.karelia.pro/s/public/0000001359.m3u8
+#EXTINF:-1,Петрозаводск - Кафе-клуб Теремок
+http://s2.moidom.karelia.pro/s/public/0000001351.m3u8
+#EXTINF:-1,Петрозаводск - Комсомольская ул. - М. Горького ул.
+http://s2.moidom.karelia.pro/s/public/0000001385.m3u8
+#EXTINF:-1,Петрозаводск - Комсомольская ул. - Октябрьское шоссе
+http://s2.moidom.karelia.pro/s/public/0000001363.m3u8
+#EXTINF:-1,Петрозаводск - Комсомольская ул. - Советов ул.
+http://s2.moidom.karelia.pro/s/public/0000001349.m3u8
+#EXTINF:-1,Петрозаводск - Кукковское кольцо
+http://s2.moidom.karelia.pro/s/public/0000001241.m3u8
+#EXTINF:-1,Петрозаводск - Ледовый дворец Lumi: камера 1
+http://s2.moidom.karelia.pro/s/public/0000001097.m3u8
+#EXTINF:-1,Петрозаводск - Ледовый дворец Lumi: камера 2
+http://s2.moidom.karelia.pro/s/public/0000001099.m3u8
+#EXTINF:-1,Петрозаводск - Ледовый дворец Lumi: камера 3
+http://s2.moidom.karelia.pro/s/public/0000001591.m3u8
+#EXTINF:-1,Петрозаводск - Ленинградская ул. - Октябрьский пр.
+http://s2.moidom.karelia.pro/s/public/0000001425.m3u8
+#EXTINF:-1,Петрозаводск - Мелентьевой ул. - Октябрьский пр.
+http://s2.moidom.karelia.pro/s/public/0000001429.m3u8
+#EXTINF:-1,Петрозаводск - Московская ул. - Октябрьский пр.
+http://s2.moidom.karelia.pro/s/public/0000001427.m3u8
+#EXTINF:-1,Петрозаводск - Набережная Онежского озера
+http://s1.moidom.karelia.pro/s/public/0000000103.m3u8
+#EXTINF:-1,Петрозаводск - Новокирпичная ул. - Бумажников ул.
+http://s2.moidom.karelia.pro/s/public/0000001355.m3u8
+#EXTINF:-1,Петрозаводск - Октябрьское шоссе - Калинина ул.
+http://s2.moidom.karelia.pro/s/public/0000001361.m3u8
+#EXTINF:-1,Петрозаводск - Октябрьское шоссе - Советов ул.
+http://s2.moidom.karelia.pro/s/public/0000001369.m3u8
+#EXTINF:-1,Петрозаводск - Открытая хоккейная площадка
+http://s2.moidom.karelia.pro/s/public/0000001431.m3u8
+#EXTINF:-1,Петрозаводск - Памятник О.В.Куусинену
+http://s1.moidom.karelia.pro/s/public/0000000089.m3u8
+#EXTINF:-1,Петрозаводск - Парковка Лотос Сити
+http://s2.moidom.karelia.pro/s/public/0000001357.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток Первомайского пр. и ул.Ленинградской
+http://s2.moidom.karelia.pro/s/public/0000001201.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток пр.А.Невского и Комсомольского пр.
+http://s2.moidom.karelia.pro/s/public/0000001197.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток пр.Александра Невского и ул.Правды
+http://s2.moidom.karelia.pro/s/public/0000000973.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток пр.Ленина и ул.Андропова
+http://s2.moidom.karelia.pro/s/public/0000001301.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток пр.Ленина и ул.Анохина
+http://s2.moidom.karelia.pro/s/public/0000001281.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток пр.Ленина и ул.Антикайнена
+http://s2.moidom.karelia.pro/s/public/0000001277.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток пр.Ленина и ул.Герцена
+http://s2.moidom.karelia.pro/s/public/0000001269.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток пр.Ленина и ул.Дзержинского
+http://s2.moidom.karelia.pro/s/public/0000001307.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток пр.Ленина и ул.Кирова
+http://s2.moidom.karelia.pro/s/public/0000001283.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток пр.Ленина и ул.Куйбышева
+http://s2.moidom.karelia.pro/s/public/0000001299.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток пр.Ленина и ул.Фридриха Энгельса
+http://s2.moidom.karelia.pro/s/public/0000001271.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток ул.Анохина и ул.Гоголя
+http://s2.moidom.karelia.pro/s/public/0000001265.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток ул.Антикайнена и ул.Гоголя
+http://s2.moidom.karelia.pro/s/public/0000001267.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток ул.Антикайнена и ул.Красной
+http://s2.moidom.karelia.pro/s/public/0000001235.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток ул.Древлянка и Лесного пр.
+http://s2.moidom.karelia.pro/s/public/0000001203.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток ул.Красноармейской и пр.Ленина
+http://s2.moidom.karelia.pro/s/public/0000001039.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток ул.Лыжная и ул.Балтийская
+http://s2.moidom.karelia.pro/s/public/0000001379.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток ул.Лыжной и ул.Ровио
+http://s2.moidom.karelia.pro/s/public/0000001237.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток ул.Ровио и пр.Комсомольский
+http://s2.moidom.karelia.pro/s/public/0000000969.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток ул.Чапаева и ул.Ватутина
+http://s2.moidom.karelia.pro/s/public/0000000975.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток ул.Чапаева и ул.Шотмана
+http://s2.moidom.karelia.pro/s/public/0000001319.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток ул.Чкалова и ул.Чапаева
+http://s2.moidom.karelia.pro/s/public/0000001199.m3u8
+#EXTINF:-1,Петрозаводск - Перекресток ул.Шотмана и пр.Ленина
+http://s2.moidom.karelia.pro/s/public/0000001037.m3u8
+#EXTINF:-1,Петрозаводск - Перекрёсток пр.Первомайский и ул.Мелентьевой
+http://s2.moidom.karelia.pro/s/public/0000001381.m3u8
+#EXTINF:-1,Петрозаводск - Пешеходный переход на Лососинском шоссе
+http://s2.moidom.karelia.pro/s/public/0000001213.m3u8
+#EXTINF:-1,Петрозаводск - Пешеходный переход на ул.Ровио
+http://s2.moidom.karelia.pro/s/public/0000001321.m3u8
+#EXTINF:-1,Петрозаводск - Площадь Кирова 1
+http://s1.moidom.karelia.pro/s/public/0000000088.m3u8
+#EXTINF:-1,Петрозаводск - Площадь Кирова 2
+http://s2.moidom.karelia.pro/s/public/0000001657.m3u8
+#EXTINF:-1,Петрозаводск - Площадь Кирова 3
+http://s2.moidom.karelia.pro/s/public/0000001615.m3u8
+#EXTINF:-1,Петрозаводск - Площадь Ленина
+http://s2.moidom.karelia.pro/s/public/0000001341.m3u8
+#EXTINF:-1,Петрозаводск - Площадь Мира
+http://s2.moidom.karelia.pro/s/public/0000001347.m3u8
+#EXTINF:-1,Петрозаводск - Пролетарская ул. - Октябрьское шоссе
+http://s2.moidom.karelia.pro/s/public/0000001365.m3u8
+#EXTINF:-1,Петрозаводск - Пролетарская ул. - Советов ул.
+http://s2.moidom.karelia.pro/s/public/0000001345.m3u8
+#EXTINF:-1,Петрозаводск - Ротонда на Онежской набережной
+http://s2.moidom.karelia.pro/s/public/0000000521.m3u8
+#EXTINF:-1,Петрозаводск - Стадион Юность
+http://s1.moidom.karelia.pro/s/public/0000000087.m3u8
+#EXTINF:-1,Петрозаводск - Студенческий бульвар
+http://s2.moidom.karelia.pro/s/public/0000001531.m3u8
+#EXTINF:-1,Петрозаводск - Улица Гвардейская
+http://s2.moidom.karelia.pro/s/public/0000001419.m3u8
+#EXTINF:-1,Петрозаводск - Фонтан Молекула
+http://s2.moidom.karelia.pro/s/public/0000001533.m3u8
+#EXTINF:-1,Петрозаводск - ул.Пархоменко
+http://s2.moidom.karelia.pro/s/public/0000001327.m3u8
+#EXTINF:-1,Петропавловский мост
+http://195.154.163.4:8083/camera17/h264
+#EXTINF:-1,Пироговская набережная
+http://195.154.163.4:8083/camera19/h264
+#EXTINF:-1,Подводный Мир
+http://iphone-streaming.ustream.tv/ustreamVideo/9600798/streams/live/playlist.m3u8
+#EXTINF:-1,Порт г.Ставангер (Норвегия)
+http://stream.aftenbladet.no:1935/live/dsd2.stream/chunklist.m3u8
+#EXTINF:-1,Причал Сент-Крой Виргинские острова
+http://video4.earthcam.com/fecnetwork/4480.flv/playlist.m3u8
+#EXTINF:-1,Псков - Детский парк
+rtmp://citycams.pskovline.ru:1935/cam12
+#EXTINF:-1,Псков - Жилой комплекс "Видный"
+rtmp://citycams.pskovline.ru:1935/cam13
+#EXTINF:-1,Псков - Золотая набережная
+rtmp://citycams.pskovline.ru:1935/cam14
+#EXTINF:-1,Псков - Летний сад
+rtmp://citycams.pskovline.ru:1935/cam15
+#EXTINF:-1,Псков - Октябрьская площадь
+rtmp://citycams.pskovline.ru:1935/cam1
+#EXTINF:-1,Псков - Ольгинский мост
+rtmp://citycams.pskovline.ru:1935/cam2
+#EXTINF:-1,Псков - Перекресток Рижского и М.Горького
+rtmp://citycams.pskovline.ru:1935/cam11
+#EXTINF:-1,Псков - Перекресток ул.Коммунальной и ул.Юбилейной
+rtmp://citycams.pskovline.ru:1935/cam4
+#EXTINF:-1,Псков - Перекресток ул.Коммунальной и ул.Юбилейной (2)
+rtmp://citycams.pskovline.ru:1935/cam7
+#EXTINF:-1,Псков - Перекресток ул.Октябрьского и Вокзальной
+rtmp://citycams.pskovline.ru:1935/cam10
+#EXTINF:-1,Псков - Перекресток ул.Труда и ул.Звездной
+rtmp://citycams.pskovline.ru:1935/cam9
+#EXTINF:-1,Псков - Площадь Героев-Десантников
+rtmp://citycams.pskovline.ru:1935/cam8
+#EXTINF:-1,Псков - Площадь Ленина
+rtmp://citycams.pskovline.ru:1935/cam3
+#EXTINF:-1,Псков - Площадь победы
+rtmp://citycams.pskovline.ru:1935/cam5
+#EXTINF:-1,Псков - Привокзальная площадь
+rtmp://citycams.pskovline.ru:1935/cam6
+#EXTINF:-1,Рига - Домская плошадь
+http://92.63.81.67/cam44/index.m3u8
+#EXTINF:-1,Рига - Памятник свободы
+http://92.63.81.67/cam30/index.m3u8
+#EXTINF:-1,Рига - Панорама
+http://92.63.81.67/cam32/index.m3u8
+#EXTINF:-1,Рига - Площадь ливов
+http://92.63.81.67/cam31/index.m3u8
+#EXTINF:-1,Рига - Рижский рынок
+http://92.63.81.67/cam41/index.m3u8
+#EXTINF:-1,Рига - Спикери променад
+http://92.63.81.67/cam36/index.m3u8
+#EXTINF:-1,Рига - Церковь Св.Иоанна - ул.Скарню
+http://92.63.81.67/cam34/index.m3u8
+#EXTINF:-1,Рязановское
+http://213.108.16.148:8083/view01.flv
+#EXTINF:-1,Самара - СГАУ
+http://stream.ssau.ru:8082/camera3/playlist.m3u8
+#EXTINF:-1,Северное Бутово
+rtmp://28.camgate.ru/rtmp/butovo2
+#EXTINF:-1,Сен-Бартелеми
+http://5.196.77.94:1935/live/stbarth3.stream/chunklist.m3u8
+#EXTINF:-1,Слоны в зоопарке(Голландия) 1
+http://streaming3.webcam.nl:80/amersfoort3/amersfoort3.stream/index.m3u8
+#EXTINF:-1,Слоны в зоопарке(Голландия) 2
+http://streaming3.webcam.nl:80/amersfoort1/amersfoort1.stream/index.m3u8
+#EXTINF:-1,Ставрополь - Вход Парка Победы
+rtmp://stream.iformula.ru:1935/rtmp/ParkVhod
+#EXTINF:-1,Ставрополь - Каток
+rtmp://stream.iformula.ru:1935/rtmp/ParkKatok
+#EXTINF:-1,Ставрополь - Парк Победы
+rtmp://stream.iformula.ru:1935/rtmp/ParkSamolet
+#EXTINF:-1,Ставрополь - пер.Доваторцев-Лермонтова
+rtmp://stream.iformula.ru:1935/rtmp/Per-Dovat-Lerm
+#EXTINF:-1,Ставрополь - ул.Доваторцев
+rtmp://stream.iformula.ru:1935/rtmp/Dovat19
+#EXTINF:-1,Ставрополь - ул.Ленина
+rtmp://stream.iformula.ru:1935/rtmp/Lenina347
+#EXTINF:-1,Ставрополь - ул.Тухачевского
+rtmp://stream.iformula.ru:1935/rtmp/Tuh22.1
+#EXTINF:-1,Таганск
+http://media.wi-box.ru:1935/live/arecontvi1.stream/playlist.m3u8
+#EXTINF:-1,Таллин
+http://193.40.133.138/live/virukatus/playlist.m3u8
+#EXTINF:-1,Тауэрский Мост
+http://iphone-streaming.ustream.tv/ustreamVideo/1041782/streams/live/playlist.m3u8
+#EXTINF:-1,Тверь - Компьютерия 1
+rtmp://media.andreevsoft.ru/live/cam1.stream
+#EXTINF:-1,Тверь - Компьютерия 2
+rtmp://media.andreevsoft.ru/live/cam2.stream
+#EXTINF:-1,Тверь - Компьютерия 3
+rtmp://media.andreevsoft.ru/live/cam3.stream
+#EXTINF:-1,Туапсе - Виадук
+http://83.234.210.22:1935/live/s2.stream/playlist.m3u8
+#EXTINF:-1,Туапсе - Горка Героев
+http://83.234.210.22:1935/live/s9.stream/playlist.m3u8
+#EXTINF:-1,Туапсе - Городской пляж
+http://83.234.210.22:1935/live/s5.stream/playlist.m3u8
+#EXTINF:-1,Туапсе - Дикий пляж
+http://83.234.210.22:1935/live/s7.stream/playlist.m3u8
+#EXTINF:-1,Туапсе - Перекресток
+http://83.234.210.22:1935/live/s8.stream/playlist.m3u8
+#EXTINF:-1,Туапсе - Перекресток ул.Мира
+http://83.234.210.22:1935/live/s12.stream/playlist.m3u8
+#EXTINF:-1,Туапсе - Центральная площадь
+http://83.234.210.22:1935/live/s1.stream/playlist.m3u8
+#EXTINF:-1,Туапсе - ул.Богдана Хмельницкого
+http://83.234.210.22:1935/live/s13.stream/playlist.m3u8
+#EXTINF:-1,Туапсе - ул.Калараша
+http://83.234.210.22:1935/live/s4.stream/playlist.m3u8
+#EXTINF:-1,Туапсе - ул.Карла Маркса
+http://83.234.210.22:1935/live/s6.stream/playlist.m3u8
+#EXTINF:-1,Туапсе - ул.Кириченко (Вид сверху)
+http://83.234.210.22:1935/live/s14.stream/playlist.m3u8
+#EXTINF:-1,Туапсе - ул.Ленина
+http://83.234.210.22:1935/live/s10.stream/playlist.m3u8
+#EXTINF:-1,Туапсе - ул.Сочинская
+http://83.234.210.22:1935/live/s15.stream/playlist.m3u8
+#EXTINF:-1,Туапсе - ул.Фрунзе
+http://83.234.210.22:1935/live/s11.stream/playlist.m3u8
+#EXTINF:-1,Улан-Удэ - Веб-камера 1 [.flv]
+http://probki.ulan-ude.ru:8081/stream.flv
+#EXTINF:-1,Улан-Удэ - Веб-камера 2 [.flv]
+http://probki.ulan-ude.ru:8085/stream.flv
+#EXTINF:-1,Улан-Удэ - Веб-камера 3 [.flv]
+http://probki.ulan-ude.ru:8083/stream.flv
+#EXTINF:-1,Улан-Удэ - Веб-камера 4 [.flv]
+http://probki.ulan-ude.ru:8084/stream.flv
+#EXTINF:-1,Феодосия
+http://195.189.18.8:1935/live/192.168.33.239.stream/index.m3u8
+#EXTINF:-1,Франция 1
+http://5.196.77.94:1935/live/2alpes.stream/chunklist.m3u8
+#EXTINF:-1,Франция 2
+rtmp://5.196.77.94:1935/live/rouen.stream
+#EXTINF:-1,Харьков - ул.Сумская
+http://178.165.99.99:33128/cam.flv
+#EXTINF:-1,Хмельницк
+http://stream1.ic.km.ua:8090/webcam.flv
+#EXTINF:-1,Храм Спаса-на-Крови
+http://195.154.163.4:8083/camera28/h264
+#EXTINF:-1,Центр Петербурга
+http://195.154.163.4:8083/camera13/h264
+#EXTINF:-1,Челябинск - Бизнес-дом
+rtmp://stream1.is74.ru/live/len-spi
+#EXTINF:-1,Челябинск - Перекресток Воровского
+rtmp://stream1.is74.ru/live/vor-kri
+#EXTINF:-1,Челябинск - Перекресток Ленина
+rtmp://stream1.is74.ru/live/sve-len
+#EXTINF:-1,Челябинск - Перекресток ул.Гагарина
+rtmp://stream1.is74.ru/live/gag-dze
+#EXTINF:-1,Челябинск - Перекресток ул.Победы
+rtmp://stream1.is74.ru/live/pob-ros
+#EXTINF:-1,Челябинск - Площадь Революции
+rtmp://stream1.is74.ru/live/lenin
+#EXTINF:-1,Челябинск - Развязка труда
+rtmp://stream1.is74.ru/live/sve-tru
+#EXTINF:-1,Червоноград - Центральная Площадь
+rtmp://wms.streamua.com/cameras/camera.stream
+#EXTINF:-1,Чита - Казанский Собор
+http://188.168.81.103:1935/rtplive/Sobor.stream/playlist.m3u8
+#EXTINF:-1,Чита - Площадь Декабристов
+http://188.168.81.103:1935/rtplive/Dekabrist.stream/playlist.m3u8
+#EXTINF:-1,Чита - Площадь Ленина
+rtmp://83.234.11.246/live/lenin
+#EXTINF:-1,Чортков - Центральная площадь
+rtmp://194.44.175.215/camera1//stream
+#EXTINF:-1, Эрмитаж
+http://195.154.163.4:8083/camera12/h264
+#EXTINF:-1,Южный - Приморский парк
+http://cdn7.live-tv.od.ua:8081/yuzhny/yuzhny-abr/yuzhny/yuzhny-sub/chunks.m3u8
+#EXTINF:-1,Юрмала - Вид на улицу Йомас
+http://92.63.81.67/cam2/index.m3u8
+#EXTINF:-1,Юрмала - Панорама Юрмалы
+http://92.63.81.67/cam7/index.m3u8
+#EXTINF:-1,Юрмала - Пляж в Майори
+http://92.63.81.67/cam3/index.m3u8
+#EXTINF:-1,Юрмала - Пляж в Майори
+http://92.63.81.67/cam4/index.m3u8
+#EXTINF:-1,Юрмала - Улица Йомас
+http://92.63.81.67/cam1/index.m3u8
+#EXTINF:-1,Юрмала - Улица Йомас
+http://92.63.81.67/cam9/index.m3u8
 
 
 
