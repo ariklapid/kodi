@@ -308,17 +308,6 @@ http://btv-net.mediacdn.ru/TVB7/gulli/playlist.m3u8
 
 
 
-#EXTINF:-1, [COLOR yellow]Вебкамеры всего Мира[/COLOR]
-http://8.8.8.8
-
-#EXTINF:-1,ALASKA CAM
-http://iphone-streaming.ustream.tv/uhls/18105019/streams/live/iphone/playlist.m3u8
-
-
-
-
-
-
 
 
 
@@ -434,16 +423,15 @@ http://btv-net.mediacdn.ru/TVB6/5channel/playlist.m3u8
 
 
 
-#EXTINF:-1, [COLOR yellow]Веб Камеры[/COLOR]
+#EXTINF:-1, [COLOR yellow]Вебкамеры всего Мира[/COLOR]
 http://8.8.8.8
-
+#EXTINF:-1, ALASKA CAM
+http://iphone-streaming.ustream.tv/uhls/18105019/streams/live/iphone/playlist.m3u8
 #EXTINF:-1, Эрмитаж
 http://195.154.163.4:8083/camera12/h264
-
 #EXTINF:-1, Петропавловский мост
 http://195.154.163.4:8083/camera17/h264
-
-#EXTINF:-1,Африка 1
+#EXTINF:-1, Африка 1
 http://iphone-streaming.ustream.tv/ustreamVideo/17128998/streams/live/playlist.m3u8
 #EXTINF:-1,Африка 10
 http://stream.africam.com/nk/nk.stream/playlist.m3u8
