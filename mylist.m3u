@@ -1,171 +1,447 @@
 #EXTM3U
 
-#EXTINF:-1, Список ТВ Каналов
-https://3ef970ad0720304aa6a4f77bc5bf342166ce0bbc.googledrive.com/host/0B4sw9bUfAvjYVGlTNHdoeTNTTW8/channels.mp4
+#EXTINF:-1, [COLOR yellow]Русский Спорт[/COLOR]
+http://8.8.8.8
 
-#EXTINF:-1, Первый
-http://146.158.123.198:4022/udp/239.72.6.98:1234
+#EXTINF:-1,Eurosport 1 RUS
+http://vs8.cdn.ott.otautv.kz/dtv/id107_KTR_SG--Eurosport/03/plst.m3u8
 
-#EXTINF:-1, Россия РТР
-http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_rtrp_rr.smil/playlist.m3u8?auth=vh&cast_id=4941
+#EXTINF:-1, Матч!
+http://95.30.228.122:4000/udp/233.33.210.93:5050
 
-#EXTINF:-1, Россия 24 (поток 1)
-http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8?auth=vh&amp;cast_id=21
+#EXTINF:-1,Hel.TV - Хоккей
+http://play.lanet.tv/live/1004.m3u8
 
-#EXTINF:-1, Москва 24 (поток 1)
-http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8
+#EXTINF:-1, КХЛ Спорт - Хоккей
+http://slynet.8nio.com/at/khl_sly.m3u8
 
-#EXTINF:-1, Euronews Russian
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/ru_vidan750_rtp.sdp
 
-#EXTINF:-1, LiFE News (поток 1)
-http://tv.life.ru/lifetv/480p/index.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, [COLOR yellow]Иностранный Спорт[/COLOR]
+http://8.8.8.8
+
+#EXTINF:-1, Американский Спорт 1
+http://xrxs.net/video/live-p12baya-2328.m3u8
+
+#EXTINF:-1, Американский Спорт 2
+http://xrxs.net/video/live-p12netw-4728.m3u8
+
+#EXTINF:-1, Американский Спорт 3
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+
+#EXTINF:-1, Американский Спорт 4
+http://xrxs.net/video/live-p12moun-4728.m3u8
+
+#EXTINF:-1, Американский Спорт 5
+http://xrxs.net/video/live-p12losa-4728.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, [COLOR yellow]Наука и другие[/COLOR]
+http://8.8.8.8
+
+#EXTINF:-1, Discovery RUS
+http://vs8.cdn.ott.otautv.kz:80/dtv/id50_KTR_SG--DiscoveryChannel/03/plst.m3u8
+
+#EXTINF:-1, RT Док. HD
+http://btv-net.mediacdn.ru/TVB6/rtdoc/playlist.m3u8
+
+#EXTINF:-1, Россия К (поток 1)
+http://95.30.228.122:4000/udp/233.33.210.60:5050
+
+#EXTINF:-1, Россия К (поток 2)
+http://btv-net.mediacdn.ru/TVB6/russiak/playlist.m3u8
+
+#EXTINF:-1, Россия К (поток 3)
+http://testlivestream.rfn.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,National Geographic RUS
+http://vs8.cdn.ott.otautv.kz:80/dtv/id106_KTR_SG--NationalGeographic/03/plst.m3u8
+
+#EXTINF:-1,Nat Geo Wild RUS
+http://vs8.cdn.ott.otautv.kz:80/dtv/id77_KTR_SG--NatGeoWild/03/plst.m3u8
+
+#EXTINF:-1, Зоопарк
+http://btv-net.mediacdn.ru/TVB6/zoopark/playlist.m3u8
+
+#EXTINF:-1, NASA TV (HQ)
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, Совершенно Секретно
+rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/261_110.sdp
+
+#EXTINF:-1, Оружие
+rtsp://rtsp-v3-spbtv.msk.spbtv.com:554/spbtv_v3_1/168_110.sdp
+
+#EXTINF:-1, Viasat История
+http://slynet.8nio.com/at/history_sly.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, [COLOR yellow]Региональные[/COLOR]
+http://8.8.8.8
+
+#EXTINF:0, Санкт-Петербург
+http://stream2.topspb.tv:1935/live/smil:live.smil/playlist.m3u8
+
+#EXTINF:0, Хабаровск
+http://yellow.ether.tv:1935/live/khabarovsk/broadcast37/index.m3u8
+
+#EXTINF:0, Ставрополь
+http://yellow.ether.tv:1935/live/stavropol/broadcast37/chunklist.m3u8
+
+#EXTINF:0, 21-ый канал Ужгород
+rtmp://213.174.8.15:1935/live/danio
+
+#EXTINF:0, 8 Канал (Красноярск)
+http://80.65.18.213/playlist_bonus_tv_region.m3u8
+
+#EXTINF:0, 27ТРК (Прокопьевск)
+http://82.200.116.222:8080/27kanal.flv
 
 #EXTINF:-1, 24 Kazakhstan
 http://vs2.cdn.ott.otautv.kz/dtv/id6_KTR_SG--24kz/03/plst.m3u8
 
-#EXTINF:-1, CTC RUSSIA
-http://87.248.160.8/edge/smil:sts/playlist.m3u8
 
-#EXTINF:-1, i24News France
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
 
-#EXTINF:-1, ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 
-#EXTINF:-1, RTR Planeta (Moldova)
-http://87.248.160.8/edge/smil:rtrp/playlist.m3u8
 
-#EXTINF:-1, LiFE News (поток 2)
-http://tv.life.ru/lifetv/360p/index.m3u8
 
-#EXTINF:-1, LiFE News HD (поток 1)
-http://tv.life.ru/lifetv/720p/index.m3u8
 
-#EXTINF:-1, LiFE News HD (поток 2)
-http://tv.life.ru/lifetv/720p/index.m3u8
 
-#EXTINF:-1, Санкт - Петербург
-http://stream2.topspb.tv:1935/live/smil:live.smil/playlist.m3u8
-#EXTINF:-1, Eurosport
-http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
 
-#EXTINF:-1, Евроспорт 1 РУС
-http://176.104.27.64:7781/udp/233.252.8.126:2345
 
-#EXTINF:-1, Евроспорт 2 (поток 2)
-http://176.104.27.64:7781/udp/233.252.8.127:2345
+#EXTINF:-1, [COLOR yellow]Русские Развлекательные[/COLOR]
+http://8.8.8.8
 
-#EXTINF:-1, Спорт 1 (поток 1)
-http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
+#EXTINF:-1, TV1000 RUS Films
+http://vs8.cdn.ott.otautv.kz:80/dtv/id48_KTR_SG--TV1000/03/plst.m3u8
 
-#EXTINF:-1, Спорт 1 (поток 2)
-http://urlzip.ru/62WVI
+#EXTINF:-1, TV1000 Action
+http://vs8.cdn.ott.otautv.kz:80/dtv/id49_KTR_SG--TV1000Action/03/plst.m3u8
 
-#EXTINF:-1, Канал "Боец" (поток 2)
-http://176.104.27.64:7781/udp/233.252.8.146:2345
+#‎EXTINF‬:-1, Пятый канал
+http://95.30.228.122:4000/udp/233.33.210.6:5050
 
-#EXTINF:-1, Телеканал "Матч" (поток 1)
-http://hls.peers.tv/streaming/sport/126/tvrec/playlist.m3u8
+#EXTINF:-1, Теледом
+http://btv-net.mediacdn.ru/TVB6/teledom/playlist.m3u8
 
-#EXTINF:-1, Fox Sports
-http://motorsport.hopto.org:8080/
+#EXTINF:0,43 Канал HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
 
-#EXTINF:-1, EXTREME SPORTS
-http://78.26.128.94:8000/udp/225.1.2.26:1234
+#EXTINF:-1, Первый
+http://146.158.123.198:4022/udp/239.72.6.98:1234
 
-#EXTINF:-1, BEINSPORT 1HD France
-http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/49.ts
+#EXTINF:-1, Звезда
+http://btv-net.mediacdn.ru/TVB6/zvezda/playlist.m3u8
 
-#EXTINF:-1, BEINSPORT 2HD France
-http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/50.ts
+#EXTINF:-1, Первый канал
+http://95.30.228.122:4000/udp/233.33.210.86:5050
 
-#EXTINF:-1, BEINSPORT 3HD France
-http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/51.ts
 
-#EXTINF:-1, beINSPORT10_HD
-http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/62.ts
 
-#EXTINF:-1, beINSPORT09_HD
-http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/61.ts
 
-#EXTINF:-1, beINSPORT08_HD
-http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/60.ts
 
-#EXTINF:-1, beINSPORT07_HD
-http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/59.ts
 
-#EXTINF:-1, beINSPORT06_HD
-http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/58.ts
 
-#EXTINF:-1, beINSPORT05_HD
-http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/57.ts
 
-#EXTINF:-1, beINSPORT04_HD
-http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/56.ts
 
-#EXTINF:-1, beINSPORT03_HD
-http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/55.ts
 
-#EXTINF:-1, beINSPORT02_HD
-http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/54.ts
 
-#EXTINF:-1, beINSPORT01_HD
-http://mangaplustv.sytes.net:8000/live/TEST/mangaplustv_com/53.ts
 
-#EXTINF:-1, USA-PAC 12 Oregon (HD)
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-
-#EXTINF:-1, Sport Pac Mountain 1080 HD
-http://xrxs.net/video/live-p12moun-4728.m3u8
-
-#EXTINF:-1, Sport Pac Los Angeles 1080 HD
-http://xrxs.net/video/live-p12losa-4728.m3u8
-
-#EXTINF:-1, Россия К
-http://air.televyshka.ru:900/95
-
-#EXTINF:-1, National Geographic RUS (поток 1)
-http://alturl.com/zbw8j
-
-#EXTINF:-1, National Geographic RUS (поток 2)
-http://4.hls.bolshoe.tv/1/streaming/natgeo/tvrec/playlist.m3u8
-
-#EXTINF:-1, 100% NEWS (Хорошый канал!)
-http://85.238.112.40:8810/hls_sec/239.17.16.32-.m3u8
+#EXTINF:-1, [COLOR yellow]Русские информационные[/COLOR]
+http://8.8.8.8
 
 #EXTINF:-1, Life 78 
 http://tv78.life.ru/lifetv/480p/index.m3u8
 
-#EXTINF:-1, Авто-Плюс (поток 1)
-http://iptv.multi-net.ru:80/udp/239.255.1.51:1234
+#EXTINF:-1, LiFE News (поток 1)
+http://tv.life.ru/lifetv/360p/index.m3u8
 
-#EXTINF:-1, Пятница (поток 1)
-http://31.129.144.69:4022/udp/239.255.11.23:1234
+#EXTINF:-1, LiFE News (поток 2)
+http://tv.life.ru/lifetv/480p/index.m3u8
 
-#EXTINF:-1, SUPER TV RUSSIA
-http://87.248.160.8/edge/smil:set/playlist.m3u8
+#EXTINF:-1, Euronews Russian
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/ru_vidan750_rtp.sdp
 
-#EXTINF:-1, THT Bravo RUSSIA
-http://87.248.160.8/edge/smil:tnt/playlist.m3u8
+#EXTINF:0,Россия РТР
+http://testlivestream.rfn.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1, Юмор ТВ
-http://31.129.144.69:4022/udp/239.255.11.45:1234
+#EXTINF:-1, Россия 1 (поток 1)
+http://slynet.8nio.com/p/russia1_sly.m3u8
 
-#EXTINF:-1, Пустой
-https://3ef970ad0720304aa6a4f77bc5bf342166ce0bbc.googledrive.com/host/0B4sw9bUfAvjYVGlTNHdoeTNTTW8/channels.mp4
+#EXTINF:-1, Россия 1 (поток 2)
+http://testlivestream.rfn.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1, Пустой
-https://3ef970ad0720304aa6a4f77bc5bf342166ce0bbc.googledrive.com/host/0B4sw9bUfAvjYVGlTNHdoeTNTTW8/channels.mp4
+#EXTINF:-1, Москва 24
+http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8
 
-#EXTINF:-1, Пустой
-https://3ef970ad0720304aa6a4f77bc5bf342166ce0bbc.googledrive.com/host/0B4sw9bUfAvjYVGlTNHdoeTNTTW8/channels.mp4
+#EXTINF:-1, Россия 24 (поток 1)
+http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8?auth=vh&amp;cast_id=21
 
-#EXTINF:-1, Пустой
-https://3ef970ad0720304aa6a4f77bc5bf342166ce0bbc.googledrive.com/host/0B4sw9bUfAvjYVGlTNHdoeTNTTW8/channels.mp4
 
-#EXTINF:-1, Пустой
-https://3ef970ad0720304aa6a4f77bc5bf342166ce0bbc.googledrive.com/host/0B4sw9bUfAvjYVGlTNHdoeTNTTW8/channels.mp4
+
+
+
+
+
+
+
+
+#EXTINF:-1, [COLOR yellow]Иностранные на русском[/COLOR]
+http://8.8.8.8
+
+#EXTINF:-1, Boomerang 
+http://77.120.118.235:8085
+
+#EXTINF:-1,Fox
+http://vs8.cdn.ott.otautv.kz:80/dtv/id108_KTR_SG--Fox/03/plst.m3u8
+
+#EXTINF:-1,Fox Life
+http://vs8.cdn.ott.otautv.kz:80/dtv/id109_KTR_SG--FoxLife/03/plst.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, [COLOR yellow]Иностранные[/COLOR]
+http://8.8.8.8
+
+#EXTINF:-1, CBS News
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947
+
+#EXTINF:-1, ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1, [COLOR yellow]Музыка[/COLOR]
+http://8.8.8.8
+
+#EXTINF:-1, Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+
+#EXTINF:-1, Vevo TV Playlist 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1, Vevo TV Playlist 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:-1, Vevo TV Playlist 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, [COLOR yellow]Детские[/COLOR]
+http://8.8.8.8
+
+#EXTINF:-1, Tiji
+http://btv-net.mediacdn.ru/TVB6/tiji/playlist.m3u8
+
+#EXTINF:-1, Cartoon Network
+http://vs8.cdn.ott.otautv.kz:80/dtv/id33_KTR_SG--CartoonNetwork/03/plst.m3u8
+
+#EXTINF:-1, Тамур
+http://btv-net.mediacdn.ru/TVB6/tamyr/playlist.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://vs8.cdn.ott.otautv.kz:80/dtv/id104_KTR_SG--Nickelodeon/03/plst.m3u8
+
+#EXTINF:-1, Disney Channel
+http://95.30.228.122:4000/udp/233.33.210.7:5050
+
+#EXTINF:0, Любимое.TV
+http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
+
+#EXTINF:-1, Karusel
+rtsp://rtsp-v3-spbtv.msk.spbtv.com:554/spbtv_v3_1/232_110.sdp
+
+#EXTINF:-1, Gulli
+http://btv-net.mediacdn.ru/TVB7/gulli/playlist.m3u8 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, [COLOR yellow]Вебкамеры всего Мира[/COLOR]
+http://8.8.8.8
+
+#EXTINF:-1,ALASKA CAM
+http://iphone-streaming.ustream.tv/uhls/18105019/streams/live/iphone/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, [COLOR yellow]Венгрия[/COLOR]
+http://8.8.8.8
+
+#EXTINF:-1, Duna
+http://212.40.98.166/intstreams/mtva/dunalive_international.smil/playlist.m3u8
+
+#EXTINF:-1, Duna World
+http://212.40.98.166/intstreams/mtva/dunaworldlive.smil/chunklist.m3u8
+
+#EXTINF:-1, M1 HD
+http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist.m3u8
+
+#EXTINF:-1, M2 HD
+http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8
+
+#EXTINF:-1, Hangulat TV-rtvstat.hu
+rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chhangulattv/2013/10/23/01a71dd6-306c-4de4-9d88-c3ccc76c770e
+ 
+#EXTINF:-1, Keszthely TV
+http://stream.tvkeszthely.hu:48082/tvkeszthely.flv
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, [COLOR yellow]Израиль[/COLOR]
+http://8.8.8.8
+
+#EXTINF:-1, 10ый канал (поток 1)
+http://nana10live-lh.akamaihd.net/i/ch10news_0@93049/master.m3u8
+
+#EXTINF:-1, 10ый канал (поток 2)
+http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
+
+#EXTINF:-1, 10ый канал (поток 3)
+http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist_b1000000.m3u8
+
+#EXTINF:-1, Первыйый канал (11)
+http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/playlist.m3u8
+
+#EXTINF:-1, 2ой канал (22) Wed-Sat
+http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index.m3u8
+
+#EXTINF:-1, 2ой канал (22) ISR Sun-Tue
+http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8
+
+#EXTINF:-1, 2ой канал (22) NEWS ONLY
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+
+#EXTINF:-1, 20ый
+http://ynet-lh.akamaihd.net/i/ynet_1@123296/master.m3u8
+
+#EXTINF:-1, 24 Israel Music
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
+
+#EXTINF:-1, Channel KNESET
+mmsh://212.235.5.241/knessetlive
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, [COLOR yellow]под проверкой[/COLOR]
+http://8.8.8.8
+
+#EXTINF:-1,kurai
+http://btv-net.mediacdn.ru/TVB6/kurai/playlist.m3u8
+#EXTINF:-1,invatv
+http://btv-net.mediacdn.ru/TVB6/invatv/playlist.m3u8
+#EXTINF:-1,illuzionplus
+http://btv-net.mediacdn.ru/TVB6/illuzionplus/playlist.m3u8
+#EXTINF:-1,illuzionrus
+http://btv-net.mediacdn.ru/TVB6/illuzionrus/playlist.m3u8
+#EXTINF:-1,gulli
+http://btv-net.mediacdn.ru/TVB6/gulli/playlist.m3u8
+#EXTINF:-1,gtrkomsk
+http://btv-net.mediacdn.ru/TVB6/gtrkomsk/playlist.m3u8
+#EXTINF:-1,football
+http://btv-net.mediacdn.ru/TVB6/football/playlist.m3u8
+#EXTINF:-1,fenixikino
+http://btv-net.mediacdn.ru/TVB6/fenixikino/playlist.m3u8
+#EXTINF:-1,eurokino
+http://btv-net.mediacdn.ru/TVB6/eurokino/playlist.m3u8
+#EXTINF:-1,detsky
+http://btv-net.mediacdn.ru/TVB6/detsky/playlist.m3u8
+#EXTINF:-1,carousel
+http://btv-net.mediacdn.ru/TVB6/carousel/playlist.m3u8
+#EXTINF:-1,bst
+http://btv-net.mediacdn.ru/TVB6/bst/playlist.m3u8
+#EXTINF:-1,a1tv
+http://btv-net.mediacdn.ru/TVB6/a1tv/playlist.m3u8
+#EXTINF:-1,9volna
+http://btv-net.mediacdn.ru/TVB6/9volna/playlist.m3u8
+#EXTINF:-1,5channel
+http://btv-net.mediacdn.ru/TVB6/5channel/playlist.m3u8
+
+#EXTINF:-1, Eurosport 1 CZ
+http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 radio="true", 88FM Israel
+http://82.80.192.28/iba_radio-88fmMRepeat/_definst_/smil:radio-88fmM.smil/playlist.m3u8
 
 #EXTINF:-1 radio="true", ПИТЕР FM 100.9
 rtmp://78.140.209.14:1935/radio/piterfm.stream
