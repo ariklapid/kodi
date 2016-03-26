@@ -3,8 +3,14 @@
 #EXTINF:-1, [COLOR yellow]Русский Спорт[/COLOR]
 http://8.8.8.8
 
-#EXTINF:-1,Eurosport 1 RUS
+#EXTINF:-1, Eurosport 1 RUS (поток 1)
+http://yayinlar.tvizleyim.com/org16/eurosportrus_me/playlist.m3u8
+
+#EXTINF:-1, Eurosport 1 RUS (поток 2)
 http://vs8.cdn.ott.otautv.kz/dtv/id107_KTR_SG--Eurosport/03/plst.m3u8
+
+#EXTINF:-1, Eurosport 1 RUS (поток 3)
+http://s2.edem.tv/iptv/DG3SKB7NEKMAYG/141/index.m3u8
 
 #EXTINF:-1,Hel.TV - Хоккей
 http://play.lanet.tv/live/1004.m3u8
@@ -281,6 +287,12 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 #EXTINF:-1, [COLOR yellow]Детские[/COLOR]
 http://8.8.8.8
+
+#EXTINF:300,Nick Jr.
+http://95.140.197.69:8000/udp/192.168.7.105@239.0.100.127:10127
+
+#EXTINF:-1, Малятко TV
+http://46.175.163.130:7000/123
 
 #EXTINF:-1, Карапуз ТВ
 http://46.182.25.34:1935/tv/1370/playlist.m3u8
