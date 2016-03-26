@@ -6,9 +6,6 @@ http://8.8.8.8
 #EXTINF:-1,Eurosport 1 RUS
 http://vs8.cdn.ott.otautv.kz/dtv/id107_KTR_SG--Eurosport/03/plst.m3u8
 
-#EXTINF:-1, Матч!
-http://95.30.228.122:4000/udp/233.33.210.93:5050
-
 #EXTINF:-1,Hel.TV - Хоккей
 http://play.lanet.tv/live/1004.m3u8
 
@@ -100,41 +97,21 @@ http://slynet.8nio.com/at/history_sly.m3u8
 
 
 
-#EXTINF:-1, [COLOR yellow]Региональные[/COLOR]
-http://8.8.8.8
-
-#EXTINF:0, Санкт-Петербург
-http://stream2.topspb.tv:1935/live/smil:live.smil/playlist.m3u8
-
-#EXTINF:0, Хабаровск
-http://yellow.ether.tv:1935/live/khabarovsk/broadcast37/index.m3u8
-
-#EXTINF:0, Ставрополь
-http://yellow.ether.tv:1935/live/stavropol/broadcast37/chunklist.m3u8
-
-#EXTINF:0, 21-ый канал Ужгород
-rtmp://213.174.8.15:1935/live/danio
-
-#EXTINF:0, 8 Канал (Красноярск)
-http://80.65.18.213/playlist_bonus_tv_region.m3u8
-
-#EXTINF:0, 27ТРК (Прокопьевск)
-http://82.200.116.222:8080/27kanal.flv
-
-#EXTINF:-1, 24 Kazakhstan
-http://vs2.cdn.ott.otautv.kz/dtv/id6_KTR_SG--24kz/03/plst.m3u8
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1, [COLOR yellow]Русские Развлекательные[/COLOR]
 http://8.8.8.8
+
+#EXTINF:-1, IНТЕР
+http://46.149.185.219:8788
+
+#EXTINF:-1, СТС Мир
+http://msk3.peers.tv/streaming/sts/16/tvrec/playlist.m3u8
+
+#EXTINF:-1, ТНТ
+http://msk3.peers.tv/streaming/tnt/126/tvrec/playlist.m3u8
+
+#EXTINF:-1 ,Новый
+http://46.149.185.219:8795
 
 #EXTINF:-1, TV1000 RUS Films
 http://vs8.cdn.ott.otautv.kz:80/dtv/id48_KTR_SG--TV1000/03/plst.m3u8
@@ -162,6 +139,36 @@ http://95.30.228.122:4000/udp/233.33.210.86:5050
 
 
 
+
+
+
+
+
+
+
+#EXTINF:-1, [COLOR yellow]Региональные[/COLOR]
+http://8.8.8.8
+
+#EXTINF:0, Санкт-Петербург
+http://stream2.topspb.tv:1935/live/smil:live.smil/playlist.m3u8
+
+#EXTINF:0, Хабаровск
+http://yellow.ether.tv:1935/live/khabarovsk/broadcast37/index.m3u8
+
+#EXTINF:0, Ставрополь
+http://yellow.ether.tv:1935/live/stavropol/broadcast37/chunklist.m3u8
+
+#EXTINF:0, 21-ый канал Ужгород
+rtmp://213.174.8.15:1935/live/danio
+
+#EXTINF:0, 8 Канал (Красноярск)
+http://80.65.18.213/playlist_bonus_tv_region.m3u8
+
+#EXTINF:0, 27ТРК (Прокопьевск)
+http://82.200.116.222:8080/27kanal.flv
+
+#EXTINF:-1, 24 Kazakhstan
+http://vs2.cdn.ott.otautv.kz/dtv/id6_KTR_SG--24kz/03/plst.m3u8
 
 
 
@@ -274,6 +281,9 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 #EXTINF:-1, [COLOR yellow]Детские[/COLOR]
 http://8.8.8.8
+
+#EXTINF:-1, Карапуз ТВ
+http://46.182.25.34:1935/tv/1370/playlist.m3u8
 
 #EXTINF:-1, Tiji
 http://btv-net.mediacdn.ru/TVB6/tiji/playlist.m3u8
