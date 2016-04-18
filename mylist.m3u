@@ -1,49 +1,46 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Русский Спорт[/COLOR]
+#EXTINF:-1, [COLOR yellow]Спорт[/COLOR]
 http://8.8.8.8
 
 #EXTINF:-1, Eurosport 1 RUS (поток 1)
 http://vs8.cdn.ott.otautv.kz/dtv/id107_KTR_SG--Eurosport/03/plst.m3u8
 
-#EXTINF:-1, Eurosport 1 RUS (поток 2)
-http://s2.edem.tv/iptv/DG3SKB7NEKMAYG/141/index.m3u8
+#EXTINF:-1, Eurosport 1  
+http://5.135.139.145:80/Eurosport1_HD/mono.m3u8
 
-#EXTINF:-1,Hel.TV - Хоккей
-http://play.lanet.tv/live/1004.m3u8
+#EXTINF:-1, Eurosport 2
+http://5.135.139.145:80/Eurosport2_HD/mono.m3u8
 
 #EXTINF:-1, КХЛ Спорт - Хоккей
 http://slynet.8nio.com/at/khl_sly.m3u8
 
+#EXTINF:-1, Sport1 CZ
+http://5.135.139.145:80/Sport1_HD/mono.m3u8
 
+#EXTINF:-1, Sport2 CZ
+http://5.135.139.145:80/Sport2_HD/mono.m3u8
 
+#EXTINF:-1,Auto_Motor_Sport
+http://5.135.139.145:80/Auto_Motor_Sport/mono.m3u8
 
+#EXTINF:-1,Extreme_Sports
+http://5.135.139.145:80/Extreme_Sports/mono.m3u8
 
+#EXTINF:-1,Eurosport
+http://5.135.139.145:80/Eurosport/mono.m3u8
 
+#EXTINF:-1,Eurosport2
+http://5.135.139.145:80/Eurosport2/mono.m3u8
 
+#EXTINF:-1,SportM
+http://5.135.139.145:80/SportM/mono.m3u8
 
+#EXTINF:-1,Fight Klub
+http://dcs-188-64-85-56.atmcdn.pl/streams/mm/multimedia/live/fight_klub/live.livx
 
-
-
-
-#EXTINF:-1, [COLOR yellow]Иностранный Спорт[/COLOR]
-http://8.8.8.8
-
-#EXTINF:-1, Американский Спорт 1
-http://xrxs.net/video/live-p12baya-2328.m3u8
-
-#EXTINF:-1, Американский Спорт 2
-http://xrxs.net/video/live-p12netw-4728.m3u8
-
-#EXTINF:-1, Американский Спорт 3
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-
-#EXTINF:-1, Американский Спорт 4
-http://xrxs.net/video/live-p12moun-4728.m3u8
-
-#EXTINF:-1, Американский Спорт 5
-http://xrxs.net/video/live-p12losa-4728.m3u8
-
+#EXTINF:0,NFL Now HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 
 
 
@@ -245,6 +242,9 @@ http://vs8.cdn.ott.otautv.kz:80/dtv/id109_KTR_SG--FoxLife/03/plst.m3u8
 #EXTINF:-1, [COLOR yellow]Иностранные[/COLOR]
 http://8.8.8.8
 
+#EXTINF:-1, Arte
+http://delive.artestras.cshls.lldns.net/artestras/contrib/delive.m3u8
+
 #EXTINF:-1, CBS News
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947
 
@@ -260,6 +260,9 @@ http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 
 #EXTINF:-1, [COLOR yellow]Музыка[/COLOR]
 http://8.8.8.8
+
+#EXTINF:-1, VH1
+http://80.80.58.167:8070/hls/vh1.m3u8
 
 #EXTINF:-1, Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
