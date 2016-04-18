@@ -12,6 +12,15 @@ http://5.135.139.145:80/Eurosport1_HD/mono.m3u8
 #EXTINF:-1, Eurosport 2
 http://5.135.139.145:80/Eurosport2_HD/mono.m3u8
 
+#EXTINF:-1, Eurosport 2 HD
+http://151.80.18.181:80/live/relly/relly/2634.ts
+
+#EXTINF:-1,Eurosport 1 HUN
+http://5.135.139.145:80/Eurosport/mono.m3u8
+
+#EXTINF:-1,Eurosport 2 HUN
+http://5.135.139.145:80/Eurosport2/mono.m3u8
+
 #EXTINF:-1, КХЛ Спорт - Хоккей
 http://slynet.8nio.com/at/khl_sly.m3u8
 
@@ -26,12 +35,6 @@ http://5.135.139.145:80/Auto_Motor_Sport/mono.m3u8
 
 #EXTINF:-1,Extreme_Sports
 http://5.135.139.145:80/Extreme_Sports/mono.m3u8
-
-#EXTINF:-1,Eurosport
-http://5.135.139.145:80/Eurosport/mono.m3u8
-
-#EXTINF:-1,Eurosport2
-http://5.135.139.145:80/Eurosport2/mono.m3u8
 
 #EXTINF:-1,SportM
 http://5.135.139.145:80/SportM/mono.m3u8
