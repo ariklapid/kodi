@@ -18,6 +18,9 @@ http://151.80.18.181:80/live/relly/relly/2634.ts
 #EXTINF:-1,Eurosport 1 HUN
 http://5.135.139.145:80/Eurosport/mono.m3u8
 
+#EXTINF:-1, Viasat Sport
+http://vs8.cdn.ott.otautv.kz:80/dtv/id73_KTR_SG--ViasatSport/03/plst.m3u8?slynet.tv LISTIPTV.RU
+
 #EXTINF:-1,Eurosport 2 HUN
 http://5.135.139.145:80/Eurosport2/mono.m3u8
 
@@ -54,6 +57,9 @@ http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w9
 
 #EXTINF:-1, [COLOR yellow]Наука и другие[/COLOR]
 http://8.8.8.8
+
+#EXTINF:-1, Viasat History
+http://vs7.cdn.ott.otautv.kz:80/dtv/id51_KTR_SG--ViasatHistory/03/plst.m3u8?slynet.tv LISTIPTV.RU
 
 #EXTINF:-1, VIASAT NATURE
 http://213.174.2.135:4088
