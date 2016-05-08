@@ -9,11 +9,17 @@ http://vs8.cdn.ott.otautv.kz/dtv/id107_KTR_SG--Eurosport/03/plst.m3u8
 #EXTINF:-1, Eurosport 1  
 http://5.135.139.145:80/Eurosport1_HD/mono.m3u8
 
+#EXTINF:-1,UK: EuroSport 1
+http://iptvpolo.dvrdns.org:22921/live/stalker/stalker/75.ts
+
 #EXTINF:-1, Eurosport 2
 http://5.135.139.145:80/Eurosport2_HD/mono.m3u8
 
 #EXTINF:-1, Eurosport 2 HD
 http://151.80.18.181:80/live/relly/relly/2634.ts
+
+#EXTINF:-1,UK: EUROSPORT 2
+http://iptvpolo.dvrdns.org:22921/live/stalker/stalker/63.ts
 
 #EXTINF:-1,Eurosport 1 HUN
 http://5.135.139.145:80/Eurosport/mono.m3u8
@@ -23,6 +29,33 @@ http://vs8.cdn.ott.otautv.kz:80/dtv/id73_KTR_SG--ViasatSport/03/plst.m3u8?slynet
 
 #EXTINF:-1,Eurosport 2 HUN
 http://5.135.139.145:80/Eurosport2/mono.m3u8
+
+#EXTINF:-1,IT: SKYSport 24 HD
+http://iptvpolo.dvrdns.org:22921/live/stalker/stalker/681.ts
+
+#EXTINF:-1,ALB-EUROSPORT 2
+http://iptvpolo.dvrdns.org:22921/live/stalker/stalker/486.ts
+
+#EXTINF:-1,IT: SKY Supercalcio HD
+http://iptvpolo.dvrdns.org:22921/live/stalker/stalker/680.ts
+
+#EXTINF:-1,ES: LIGA 2
+http://iptvpolo.dvrdns.org:22921/live/stalker/stalker/807.ts
+
+#EXTINF:-1,ES: LIGA
+http://iptvpolo.dvrdns.org:22921/live/stalker/stalker/806.ts
+
+#EXTINF:-1,ES: GOLF
+http://iptvpolo.dvrdns.org:22921/live/stalker/stalker/805.ts
+
+#EXTINF:-1,ES: FUTBOL
+http://iptvpolo.dvrdns.org:22921/live/stalker/stalker/804.ts
+
+#EXTINF:-1,ES: DEPORTES 2
+http://iptvpolo.dvrdns.org:22921/live/stalker/stalker/803.ts
+
+#EXTINF:-1,ES: DEPORTES
+http://iptvpolo.dvrdns.org:22921/live/stalker/stalker/802.ts
 
 #EXTINF:-1, КХЛ Спорт - Хоккей
 http://slynet.8nio.com/at/khl_sly.m3u8
