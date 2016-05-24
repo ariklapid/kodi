@@ -3,6 +3,9 @@
 #EXTINF:-1, [COLOR yellow]Спорт[/COLOR]
 http://8.8.8.8
 
+#EXTINF:-1, Eurosport 1 RUS (поток 1)
+http://vs8.cdn.ott.otautv.kz/dtv/id107_KTR_SG--Eurosport/03/plst.m3u8
+
 #EXTINF:-1, CBC SPORT
 http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/playlist.m3u8
 
