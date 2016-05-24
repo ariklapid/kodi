@@ -3,6 +3,12 @@
 #EXTINF:-1, [COLOR yellow]Спорт[/COLOR]
 http://8.8.8.8
 
+#EXTINF:-1, CBC SPORT
+http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/playlist.m3u8
+
+#EXTINF:-1, NFL Now Sport
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+
 #EXTINF:-1, Eurosport 1 RUS (поток 1)
 http://vs8.cdn.ott.otautv.kz/dtv/id107_KTR_SG--Eurosport/03/plst.m3u8
 
@@ -23,6 +29,8 @@ http://iptvpolo.dvrdns.org:22921/live/stalker/stalker/63.ts
 
 #EXTINF:-1,Eurosport 1 HUN
 http://5.135.139.145:80/Eurosport/mono.m3u8
+
+
 
 #EXTINF:-1, Viasat Sport
 http://vs8.cdn.ott.otautv.kz:80/dtv/id73_KTR_SG--ViasatSport/03/plst.m3u8?slynet.tv LISTIPTV.RU
