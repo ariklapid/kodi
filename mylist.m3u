@@ -1,20 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, РОССИЯ HD
-http://37.192.38.132:81/udp/239.1.10.22:1234
-
-#EXTINF:-1, МАТЧ ТВ
-http://msk3.peers.tv/streaming/sport/126/tvrecw/playlist.m3u8
-
-#EXTINF:-1, РОССИЯ 1
-http://msk3.peers.tv/streaming/rossija/126/tvrec/playlist.m3u8
-
-#EXTINF:-1, РОССИЯ 1
-http://hls.novotelecom.ru/streaming/rossija/tvrec/playlist.m3u8
-
 #EXTINF:-1, Rossiya 1
 http://188.134.1.227:4747/udp/235.10.10.14:1234
-
 
 #EXTINF:-1, [COLOR yellow]Спорт[/COLOR]
 http://8.8.8.8
