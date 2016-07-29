@@ -110,17 +110,11 @@ http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8?auth=vh&amp;cast_i
 #EXTINF:-1, [COLOR yellow]Иностранные на русском[/COLOR]
 http://8.8.8.8
 
-#EXTINF:-1, Boomerang 
-http://77.120.118.235:8085
-
 #EXTINF:-1,Fox
 http://vs8.cdn.ott.otautv.kz:80/dtv/id108_KTR_SG--Fox/03/plst.m3u8
 
 #EXTINF:-1,Fox Life
 http://vs8.cdn.ott.otautv.kz:80/dtv/id109_KTR_SG--FoxLife/03/plst.m3u8
-
-
-
 
 
 
@@ -131,9 +125,6 @@ http://8.8.8.8
 #EXTINF:0,France 24
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr?slynet.tv LISTIPTV.RU
 
-#EXTINF:-1, Arte
-http://delive.artestras.cshls.lldns.net/artestras/contrib/delive.m3u8
-
 #EXTINF:-1, CBS News
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947
 
@@ -143,33 +134,8 @@ http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1, [COLOR yellow]Музыка[/COLOR]
 http://8.8.8.8
-
-#EXTINF:-1, VH1
-http://80.80.58.167:8070/hls/vh1.m3u8
-
-#EXTINF:-1, Шансон ТВ
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
-
-#EXTINF:-1, Vevo TV Playlist 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-
-#EXTINF:-1, Vevo TV Playlist 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-
-#EXTINF:-1, Vevo TV Playlist 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-
-
-
-
-
-
 
 
 
@@ -177,29 +143,8 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1, [COLOR yellow]Детские[/COLOR]
 http://8.8.8.8
 
-#EXTINF:300,Nick Jr.
-http://95.140.197.69:8000/udp/192.168.7.105@239.0.100.127:10127
-
-#EXTINF:-1, Малятко TV
-http://46.175.163.130:7000/123
-
 #EXTINF:-1, Карапуз ТВ
 http://46.182.25.34:1935/tv/1370/playlist.m3u8
-
-#EXTINF:-1, Tiji
-http://btv-net.mediacdn.ru/TVB6/tiji/playlist.m3u8
-
-#EXTINF:-1, Cartoon Network
-http://vs8.cdn.ott.otautv.kz:80/dtv/id33_KTR_SG--CartoonNetwork/03/plst.m3u8
-
-#EXTINF:-1, Тамур
-http://btv-net.mediacdn.ru/TVB6/tamyr/playlist.m3u8
-
-#EXTINF:-1,Nickelodeon
-http://vs8.cdn.ott.otautv.kz:80/dtv/id104_KTR_SG--Nickelodeon/03/plst.m3u8
-
-#EXTINF:-1, Disney Channel
-http://95.30.228.122:4000/udp/233.33.210.7:5050
 
 #EXTINF:0, Любимое.TV
 http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
@@ -207,46 +152,11 @@ http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
 #EXTINF:-1, Karusel
 rtsp://rtsp-v3-spbtv.msk.spbtv.com:554/spbtv_v3_1/232_110.sdp
 
-#EXTINF:-1, Gulli
-http://btv-net.mediacdn.ru/TVB7/gulli/playlist.m3u8 
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 #EXTINF:-1, [COLOR yellow]Венгрия[/COLOR]
 http://8.8.8.8
-
-#EXTINF:-1, Duna
-http://212.40.98.166/intstreams/mtva/dunalive_international.smil/playlist.m3u8
-
-#EXTINF:-1, Duna World
-http://212.40.98.166/intstreams/mtva/dunaworldlive.smil/chunklist.m3u8
-
-#EXTINF:-1, M1 HD
-http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist.m3u8
-
-#EXTINF:-1, M2 HD
-http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8
-
-#EXTINF:-1, Hangulat TV-rtvstat.hu
-rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chhangulattv/2013/10/23/01a71dd6-306c-4de4-9d88-c3ccc76c770e
- 
-#EXTINF:-1, Keszthely TV
-http://stream.tvkeszthely.hu:48082/tvkeszthely.flv
-
-
-
-
 
 
 
