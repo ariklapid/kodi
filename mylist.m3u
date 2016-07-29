@@ -39,16 +39,6 @@ rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/261_110.sdp
 #EXTINF:-1, Оружие
 rtsp://rtsp-v3-spbtv.msk.spbtv.com:554/spbtv_v3_1/168_110.sdp
 
-#EXTINF:-1, Viasat История
-http://slynet.8nio.com/at/history_sly.m3u8
-
-
-
-
-
-
-
-
 
 
 
