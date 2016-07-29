@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, Rossiya 1
-http://188.134.1.227:4747/udp/235.10.10.14:1234
-
 #EXTINF:-1, [COLOR yellow]Спорт[/COLOR]
 http://8.8.8.8
+
+#EXTINF:-1, Eurosport 1 RUS (поток 1)
+http://vs8.cdn.ott.otautv.kz/dtv/id107_KTR_SG--Eurosport/03/plst.m3u8
 
 #EXTINF:-1, NFL Now HD
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
@@ -12,86 +12,16 @@ http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w9
 #EXTINF:-1, Eurosport 1 RUS (поток 1)
 http://vs8.cdn.ott.otautv.kz/dtv/id107_KTR_SG--Eurosport/03/plst.m3u8
 
-#EXTINF:-1, CBC SPORT
-http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/playlist.m3u8
-
-#EXTINF:-1, NFL Now Sport
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-
-#EXTINF:-1,ES: LIGA 2
-http://iptvpolo.dvrdns.org:22921/live/stalker/stalker/807.ts
-
-#EXTINF:-1,ES: LIGA
-http://iptvpolo.dvrdns.org:22921/live/stalker/stalker/806.ts
-
-#EXTINF:-1,ES: GOLF
-http://iptvpolo.dvrdns.org:22921/live/stalker/stalker/805.ts
-
-#EXTINF:-1,ES: FUTBOL
-http://iptvpolo.dvrdns.org:22921/live/stalker/stalker/804.ts
-
-#EXTINF:-1,ES: DEPORTES 2
-http://iptvpolo.dvrdns.org:22921/live/stalker/stalker/803.ts
-
-#EXTINF:-1,ES: DEPORTES
-http://iptvpolo.dvrdns.org:22921/live/stalker/stalker/802.ts
-
-#EXTINF:-1, КХЛ Спорт - Хоккей
-http://slynet.8nio.com/at/khl_sly.m3u8
-
-#EXTINF:-1, Sport1 CZ
-http://5.135.139.145:80/Sport1_HD/mono.m3u8
-
-#EXTINF:-1, Sport2 CZ
-http://5.135.139.145:80/Sport2_HD/mono.m3u8
-
-#EXTINF:-1,Auto_Motor_Sport
-http://5.135.139.145:80/Auto_Motor_Sport/mono.m3u8
-
-#EXTINF:-1,Extreme_Sports
-http://5.135.139.145:80/Extreme_Sports/mono.m3u8
-
-#EXTINF:-1,SportM
-http://5.135.139.145:80/SportM/mono.m3u8
-
-#EXTINF:-1,Fight Klub
-http://dcs-188-64-85-56.atmcdn.pl/streams/mm/multimedia/live/fight_klub/live.livx
-
-#EXTINF:0,NFL Now HD
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1, [COLOR yellow]Наука и другие[/COLOR]
 http://8.8.8.8
 
 #EXTINF:-1, Viasat History
 http://vs7.cdn.ott.otautv.kz:80/dtv/id51_KTR_SG--ViasatHistory/03/plst.m3u8?slynet.tv LISTIPTV.RU
 
-#EXTINF:-1, VIASAT NATURE
-http://213.174.2.135:4088
-
-#EXTINF:-1, 100% News UA
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8?slynet.tv
-
 #EXTINF:-1, Discovery RUS
-http://vs8.cdn.ott.otautv.kz:80/dtv/id50_KTR_SG--DiscoveryChannel/03/plst.m3u8
-
-#EXTINF:-1, RT Док. HD
-http://btv-net.mediacdn.ru/TVB6/rtdoc/playlist.m3u8
+http://vs8.cdn.ott.otautv.kz:80/dtv/id50_KTR_SG--DiscoveryChannel/03/plst.m3u8                  
 
 #EXTINF:-1, Россия К (поток 1)
-http://95.30.228.122:4000/udp/233.33.210.60:5050
-
-#EXTINF:-1, Россия К (поток 2)
-http://btv-net.mediacdn.ru/TVB6/russiak/playlist.m3u8
-
-#EXTINF:-1, Россия К (поток 3)
 http://testlivestream.rfn.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1,National Geographic RUS
@@ -99,9 +29,6 @@ http://vs8.cdn.ott.otautv.kz:80/dtv/id106_KTR_SG--NationalGeographic/03/plst.m3u
 
 #EXTINF:-1,Nat Geo Wild RUS
 http://vs8.cdn.ott.otautv.kz:80/dtv/id77_KTR_SG--NatGeoWild/03/plst.m3u8
-
-#EXTINF:-1, Зоопарк
-http://btv-net.mediacdn.ru/TVB6/zoopark/playlist.m3u8
 
 #EXTINF:-1, NASA TV (HQ)
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
