@@ -48,29 +48,17 @@ http://8.8.8.8
 #EXTINF:-1, Теледом
 http://btv-net.mediacdn.ru/TVB6/teledom/playlist.m3u8
 
-#EXTINF:0,43 Канал HD
-http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
-
-#EXTINF:-1, Первый
-http://146.158.123.198:4022/udp/239.72.6.98:1234
-
 #EXTINF:-1, Звезда
 http://btv-net.mediacdn.ru/TVB6/zvezda/playlist.m3u8
-
-#EXTINF:-1, Первый канал
-http://95.30.228.122:4000/udp/233.33.210.86:5050
-
-
-
-
-
-
 
 
 
 
 #EXTINF:-1, [COLOR yellow]Региональные[/COLOR]
 http://8.8.8.8
+
+#EXTINF:-1,САНКТ-ПЕТЕРБУРГ
+http://109.94.4.163:7782/udp/239.195.0.91:1234
 
 #EXTINF:0, Санкт-Петербург
 http://stream2.topspb.tv:1935/live/smil:live.smil/playlist.m3u8
@@ -87,16 +75,8 @@ rtmp://213.174.8.15:1935/live/danio
 #EXTINF:0, 8 Канал (Красноярск)
 http://80.65.18.213/playlist_bonus_tv_region.m3u8
 
-#EXTINF:0, 27ТРК (Прокопьевск)
-http://82.200.116.222:8080/27kanal.flv
-
 #EXTINF:-1, 24 Kazakhstan
 http://vs2.cdn.ott.otautv.kz/dtv/id6_KTR_SG--24kz/03/plst.m3u8
-
-
-
-
-
 
 
 
@@ -107,12 +87,6 @@ http://8.8.8.8
 #EXTINF:-1, Life 78 
 http://tv78.life.ru/lifetv/480p/index.m3u8
 
-#EXTINF:-1, LiFE News (поток 1)
-http://tv.life.ru/lifetv/360p/index.m3u8
-
-#EXTINF:-1, LiFE News (поток 2)
-http://tv.life.ru/lifetv/480p/index.m3u8
-
 #EXTINF:-1, Euronews Russian
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/ru_vidan750_rtp.sdp
 
@@ -120,9 +94,6 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/ru_vidan750_rtp.sdp
 http://testlivestream.rfn.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1, Россия 1 (поток 1)
-http://slynet.8nio.com/p/russia1_sly.m3u8
-
-#EXTINF:-1, Россия 1 (поток 2)
 http://testlivestream.rfn.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1, Москва 24
@@ -130,10 +101,6 @@ http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8
 
 #EXTINF:-1, Россия 24 (поток 1)
 http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8?auth=vh&amp;cast_id=21
-
-
-
-
 
 
 
@@ -151,10 +118,6 @@ http://vs8.cdn.ott.otautv.kz:80/dtv/id108_KTR_SG--Fox/03/plst.m3u8
 
 #EXTINF:-1,Fox Life
 http://vs8.cdn.ott.otautv.kz:80/dtv/id109_KTR_SG--FoxLife/03/plst.m3u8
-
-
-
-
 
 
 
