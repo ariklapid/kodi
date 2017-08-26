@@ -8,9 +8,6 @@ http://Gramm.ottv.biz/iptv/F3WTF37WTP5LEY/112/index.m3u8
 #EXTINF:0,Россия-24
 #EXTGRP:новости
 http://Gramm.ottv.biz/iptv/F3WTF37WTP5LEY/507/index.m3u8
-#EXTINF:0,Life News
-#EXTGRP:новости
-http://Gramm.ottv.biz/iptv/F3WTF37WTP5LEY/518/index.m3u8
 #EXTINF:0,Москва 24
 #EXTGRP:новости
 http://Gramm.ottv.biz/iptv/F3WTF37WTP5LEY/523/index.m3u8
@@ -20,6 +17,9 @@ http://Gramm.ottv.biz/iptv/F3WTF37WTP5LEY/540/index.m3u8
 #EXTINF:0,BBC World News
 #EXTGRP:новости
 http://Gramm.ottv.biz/iptv/F3WTF37WTP5LEY/545/index.m3u8
+#EXTINF:0,Мир 24
+#EXTGRP:новости
+http://Gramm.ottv.biz/iptv/F3WTF37WTP5LEY/712/index.m3u8
 #EXTINF:0,НТВ (+2)
 #EXTGRP:новости
 http://Gramm.ottv.biz/iptv/F3WTF37WTP5LEY/713/index.m3u8
