@@ -1,806 +1,805 @@
-#EXTM3U url-tvg="http://myott.top/api/epg.xml.gz"
+#EXTM3U
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Первый канал HD
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/131.m3u8
+http://myott.top/stream/DHMU2PPUTSS/131.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Россия HD
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/137.m3u8
+http://myott.top/stream/DHMU2PPUTSS/137.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",НТВ HD
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/134.m3u8
+http://myott.top/stream/DHMU2PPUTSS/134.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",НТВ Мир
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/223.m3u8
+http://myott.top/stream/DHMU2PPUTSS/223.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",5 канал (Россия)
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/103.m3u8
+http://myott.top/stream/DHMU2PPUTSS/103.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТНТ HD
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/135.m3u8
+http://myott.top/stream/DHMU2PPUTSS/135.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",СТС HD
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/138.m3u8
+http://myott.top/stream/DHMU2PPUTSS/138.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",СТС Love
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/183.m3u8
+http://myott.top/stream/DHMU2PPUTSS/183.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",РЕН ТВ
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/132.m3u8
+http://myott.top/stream/DHMU2PPUTSS/132.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Мир HD
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/77.m3u8
+http://myott.top/stream/DHMU2PPUTSS/77.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Мир 24 HD
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/66.m3u8
+http://myott.top/stream/DHMU2PPUTSS/66.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ОТР
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/61.m3u8
+http://myott.top/stream/DHMU2PPUTSS/61.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Звезда
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/140.m3u8
+http://myott.top/stream/DHMU2PPUTSS/140.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Перец International
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/121.m3u8
+http://myott.top/stream/DHMU2PPUTSS/121.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТВ3 Россия
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/136.m3u8
+http://myott.top/stream/DHMU2PPUTSS/136.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Пятница
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/181.m3u8
+http://myott.top/stream/DHMU2PPUTSS/181.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",RTVi
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/91.m3u8
+http://myott.top/stream/DHMU2PPUTSS/91.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Суббота
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/269.m3u8
+http://myott.top/stream/DHMU2PPUTSS/269.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Домашний
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/227.m3u8
+http://myott.top/stream/DHMU2PPUTSS/227.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Культура
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/229.m3u8
+http://myott.top/stream/DHMU2PPUTSS/229.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",РТР Планета
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/224.m3u8
+http://myott.top/stream/DHMU2PPUTSS/224.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",8 канал
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/299.m3u8
+http://myott.top/stream/DHMU2PPUTSS/299.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Время
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/237.m3u8
+http://myott.top/stream/DHMU2PPUTSS/237.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Ностальгия
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/94.m3u8
+http://myott.top/stream/DHMU2PPUTSS/94.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Ю
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/230.m3u8
+http://myott.top/stream/DHMU2PPUTSS/230.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",2х2
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/187.m3u8
+http://myott.top/stream/DHMU2PPUTSS/187.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",World Fashion Channel
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/119.m3u8
+http://myott.top/stream/DHMU2PPUTSS/119.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТНТ4
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/106.m3u8
+http://myott.top/stream/DHMU2PPUTSS/106.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",КВН ТВ
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/222.m3u8
+http://myott.top/stream/DHMU2PPUTSS/222.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Сарафан
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/81.m3u8
+http://myott.top/stream/DHMU2PPUTSS/81.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Вопросы и ответы
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/76.m3u8
+http://myott.top/stream/DHMU2PPUTSS/76.m3u8
 #EXTINF:-1 group-title="Общие",Первый канал (+2)
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/99.m3u8
+http://myott.top/stream/DHMU2PPUTSS/99.m3u8
 #EXTINF:-1 group-title="Общие",НТВ (+2)
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/98.m3u8
+http://myott.top/stream/DHMU2PPUTSS/98.m3u8
 #EXTINF:-1 group-title="Общие",ТНТ(+2)
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/97.m3u8
+http://myott.top/stream/DHMU2PPUTSS/97.m3u8
 #EXTINF:-1 group-title="Общие",Россия 1(+2)
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/96.m3u8
+http://myott.top/stream/DHMU2PPUTSS/96.m3u8
 #EXTINF:-1 group-title="Общие",Первый канал HD(+4)
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/233.m3u8
+http://myott.top/stream/DHMU2PPUTSS/233.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТВ Центр
 #EXTGRP:Общие
-http://myott.top/stream/DMV1L1L1BJA/190.m3u8
+http://myott.top/stream/DHMU2PPUTSS/190.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Украина HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/167.m3u8
+http://myott.top/stream/DHMU2PPUTSS/167.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ICTV HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/158.m3u8
+http://myott.top/stream/DHMU2PPUTSS/158.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Новый канал HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/157.m3u8
+http://myott.top/stream/DHMU2PPUTSS/157.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",СТБ HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/156.m3u8
+http://myott.top/stream/DHMU2PPUTSS/156.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Интер
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/174.m3u8
+http://myott.top/stream/DHMU2PPUTSS/174.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",1+1 HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/172.m3u8
+http://myott.top/stream/DHMU2PPUTSS/172.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",2+2 HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/173.m3u8
+http://myott.top/stream/DHMU2PPUTSS/173.m3u8
 #EXTINF:-1 group-title="Зарубежные",К1
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/270.m3u8
+http://myott.top/stream/DHMU2PPUTSS/270.m3u8
 #EXTINF:-1 group-title="Зарубежные",К2
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/324.m3u8
+http://myott.top/stream/DHMU2PPUTSS/324.m3u8
 #EXTINF:-1 group-title="Зарубежные",НТН
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/326.m3u8
+http://myott.top/stream/DHMU2PPUTSS/326.m3u8
 #EXTINF:-1 group-title="Зарубежные",Zoom
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/327.m3u8
+http://myott.top/stream/DHMU2PPUTSS/327.m3u8
 #EXTINF:-1 group-title="Зарубежные",Квартал ТВ
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/321.m3u8
+http://myott.top/stream/DHMU2PPUTSS/321.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ОЦЕ HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/329.m3u8
+http://myott.top/stream/DHMU2PPUTSS/329.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ТЕТ
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/338.m3u8
+http://myott.top/stream/DHMU2PPUTSS/338.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ПлюсПлюс
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/339.m3u8
+http://myott.top/stream/DHMU2PPUTSS/339.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Бiгудi
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/340.m3u8
+http://myott.top/stream/DHMU2PPUTSS/340.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Уніан
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/341.m3u8
+http://myott.top/stream/DHMU2PPUTSS/341.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Iндиго HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/343.m3u8
+http://myott.top/stream/DHMU2PPUTSS/343.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",НЛО HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/344.m3u8
+http://myott.top/stream/DHMU2PPUTSS/344.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Channel 9 HD (Израиль)
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/20.m3u8
+http://myott.top/stream/DHMU2PPUTSS/20.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Channel 11 (Израиль)
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/293.m3u8
+http://myott.top/stream/DHMU2PPUTSS/293.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Channel 12 (Израиль)
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/294.m3u8
+http://myott.top/stream/DHMU2PPUTSS/294.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Channel 13 (Израиль)
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/295.m3u8
+http://myott.top/stream/DHMU2PPUTSS/295.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ОНТ HD Беларусь
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/21.m3u8
+http://myott.top/stream/DHMU2PPUTSS/21.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",БелРос
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/63.m3u8
+http://myott.top/stream/DHMU2PPUTSS/63.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Беларусь 1 HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/22.m3u8
+http://myott.top/stream/DHMU2PPUTSS/22.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",РТР Беларусь HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/23.m3u8
+http://myott.top/stream/DHMU2PPUTSS/23.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Беларусь 2 HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/24.m3u8
+http://myott.top/stream/DHMU2PPUTSS/24.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Беларусь 3 HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/25.m3u8
+http://myott.top/stream/DHMU2PPUTSS/25.m3u8
 #EXTINF:-1 group-title="Зарубежные",Хабар
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/73.m3u8
+http://myott.top/stream/DHMU2PPUTSS/73.m3u8
 #EXTINF:-1 group-title="Зарубежные",Qazaqstan
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/71.m3u8
+http://myott.top/stream/DHMU2PPUTSS/71.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",КТК
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/26.m3u8
+http://myott.top/stream/DHMU2PPUTSS/26.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",7 канал (Казахстан)
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/27.m3u8
+http://myott.top/stream/DHMU2PPUTSS/27.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Астана ТВ
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/28.m3u8
+http://myott.top/stream/DHMU2PPUTSS/28.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Armenia TV
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/175.m3u8
+http://myott.top/stream/DHMU2PPUTSS/175.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Shant HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/37.m3u8
+http://myott.top/stream/DHMU2PPUTSS/37.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ATV HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/36.m3u8
+http://myott.top/stream/DHMU2PPUTSS/36.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Armenia 1 TV
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/38.m3u8
+http://myott.top/stream/DHMU2PPUTSS/38.m3u8
 #EXTINF:-1 group-title="Зарубежные",Kentron HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/39.m3u8
+http://myott.top/stream/DHMU2PPUTSS/39.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",LNK
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/30.m3u8
+http://myott.top/stream/DHMU2PPUTSS/30.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",BTV
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/35.m3u8
+http://myott.top/stream/DHMU2PPUTSS/35.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",TV3 LV
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/32.m3u8
+http://myott.top/stream/DHMU2PPUTSS/32.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",TV3 LT
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/29.m3u8
+http://myott.top/stream/DHMU2PPUTSS/29.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",LRT
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/31.m3u8
+http://myott.top/stream/DHMU2PPUTSS/31.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",LTV1
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/34.m3u8
+http://myott.top/stream/DHMU2PPUTSS/34.m3u8
 #EXTINF:-1 group-title="Зарубежные",Jurnal TV HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/277.m3u8
+http://myott.top/stream/DHMU2PPUTSS/277.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Prime1 HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/335.m3u8
+http://myott.top/stream/DHMU2PPUTSS/335.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Молдова 1 HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/336.m3u8
+http://myott.top/stream/DHMU2PPUTSS/336.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",РТР Молдова HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DMV1L1L1BJA/337.m3u8
+http://myott.top/stream/DHMU2PPUTSS/337.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Discovery Россия HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/177.m3u8
+http://myott.top/stream/DHMU2PPUTSS/177.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Discovery Science HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/146.m3u8
+http://myott.top/stream/DHMU2PPUTSS/146.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",DTX HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/145.m3u8
+http://myott.top/stream/DHMU2PPUTSS/145.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Поехали
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/316.m3u8
+http://myott.top/stream/DHMU2PPUTSS/316.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",History Европа HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/113.m3u8
+http://myott.top/stream/DHMU2PPUTSS/113.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",H2 HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/65.m3u8
+http://myott.top/stream/DHMU2PPUTSS/65.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Investigation Discovery HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/205.m3u8
+http://myott.top/stream/DHMU2PPUTSS/205.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",TLC Россия HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/168.m3u8
+http://myott.top/stream/DHMU2PPUTSS/168.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",ЭВРИКА HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/212.m3u8
+http://myott.top/stream/DHMU2PPUTSS/212.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",DocuBox
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/90.m3u8
+http://myott.top/stream/DHMU2PPUTSS/90.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",National Geographic HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/116.m3u8
+http://myott.top/stream/DHMU2PPUTSS/116.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Наука 2.0
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/125.m3u8
+http://myott.top/stream/DHMU2PPUTSS/125.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",24Техно
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/209.m3u8
+http://myott.top/stream/DHMU2PPUTSS/209.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Оружие
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/203.m3u8
+http://myott.top/stream/DHMU2PPUTSS/203.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Nat Geo Wild HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/149.m3u8
+http://myott.top/stream/DHMU2PPUTSS/149.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Animal Planet HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/114.m3u8
+http://myott.top/stream/DHMU2PPUTSS/114.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",В мире животных HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/241.m3u8
+http://myott.top/stream/DHMU2PPUTSS/241.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Бобер
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/197.m3u8
+http://myott.top/stream/DHMU2PPUTSS/197.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Мама
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/79.m3u8
+http://myott.top/stream/DHMU2PPUTSS/79.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Доктор
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/80.m3u8
+http://myott.top/stream/DHMU2PPUTSS/80.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Da Vinci
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/238.m3u8
+http://myott.top/stream/DHMU2PPUTSS/238.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Viasat Explore
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/239.m3u8
+http://myott.top/stream/DHMU2PPUTSS/239.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Viasat Nature/History HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/240.m3u8
+http://myott.top/stream/DHMU2PPUTSS/240.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Viasat History
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/101.m3u8
+http://myott.top/stream/DHMU2PPUTSS/101.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",История
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/228.m3u8
+http://myott.top/stream/DHMU2PPUTSS/228.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",365 дней ТВ
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/70.m3u8
+http://myott.top/stream/DHMU2PPUTSS/70.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Моя планета
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/124.m3u8
+http://myott.top/stream/DHMU2PPUTSS/124.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Russian Travel Guide HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/164.m3u8
+http://myott.top/stream/DHMU2PPUTSS/164.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Приключения HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/198.m3u8
+http://myott.top/stream/DHMU2PPUTSS/198.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Travel channel HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/231.m3u8
+http://myott.top/stream/DHMU2PPUTSS/231.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Travel+Adventure HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/206.m3u8
+http://myott.top/stream/DHMU2PPUTSS/206.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",HGTV
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/273.m3u8
+http://myott.top/stream/DHMU2PPUTSS/273.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Охота и рыбалка
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/155.m3u8
+http://myott.top/stream/DHMU2PPUTSS/155.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Охотник и рыболов HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/194.m3u8
+http://myott.top/stream/DHMU2PPUTSS/194.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Диалоги о рыбалке
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/264.m3u8
+http://myott.top/stream/DHMU2PPUTSS/264.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Рыбалка HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/286.m3u8
+http://myott.top/stream/DHMU2PPUTSS/286.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Дикая Охота HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/274.m3u8
+http://myott.top/stream/DHMU2PPUTSS/274.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Дикая Рыбалка HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/275.m3u8
+http://myott.top/stream/DHMU2PPUTSS/275.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Outdoor channel
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/211.m3u8
+http://myott.top/stream/DHMU2PPUTSS/211.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Живая природа HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/225.m3u8
+http://myott.top/stream/DHMU2PPUTSS/225.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Живая планета
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/83.m3u8
+http://myott.top/stream/DHMU2PPUTSS/83.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Кухня ТВ
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/179.m3u8
+http://myott.top/stream/DHMU2PPUTSS/179.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Еда Премиум HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/216.m3u8
+http://myott.top/stream/DHMU2PPUTSS/216.m3u8
 #EXTINF:-1 group-title="Познавательные",Food Network HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/298.m3u8
+http://myott.top/stream/DHMU2PPUTSS/298.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Авто24
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/78.m3u8
+http://myott.top/stream/DHMU2PPUTSS/78.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Телекафе
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/314.m3u8
+http://myott.top/stream/DHMU2PPUTSS/314.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Авто Плюс
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/186.m3u8
+http://myott.top/stream/DHMU2PPUTSS/186.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Морской
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/141.m3u8
+http://myott.top/stream/DHMU2PPUTSS/141.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",HDL HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/161.m3u8
+http://myott.top/stream/DHMU2PPUTSS/161.m3u8
 #EXTINF:-1 group-title="Познавательные",Мега
 #EXTGRP:Познавательные
-http://myott.top/stream/DMV1L1L1BJA/325.m3u8
+http://myott.top/stream/DHMU2PPUTSS/325.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинопремьера HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/160.m3u8
+http://myott.top/stream/DHMU2PPUTSS/160.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Остросюжетное HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/214.m3u8
+http://myott.top/stream/DHMU2PPUTSS/214.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Премиальное HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/215.m3u8
+http://myott.top/stream/DHMU2PPUTSS/215.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Наше HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/217.m3u8
+http://myott.top/stream/DHMU2PPUTSS/217.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Наш Кинороман HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/213.m3u8
+http://myott.top/stream/DHMU2PPUTSS/213.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинокомедия
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/265.m3u8
+http://myott.top/stream/DHMU2PPUTSS/265.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киносемья
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/170.m3u8
+http://myott.top/stream/DHMU2PPUTSS/170.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киносвидание
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/171.m3u8
+http://myott.top/stream/DHMU2PPUTSS/171.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинохит
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/126.m3u8
+http://myott.top/stream/DHMU2PPUTSS/126.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киномикс HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/133.m3u8
+http://myott.top/stream/DHMU2PPUTSS/133.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Наше новое кино
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/128.m3u8
+http://myott.top/stream/DHMU2PPUTSS/128.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Родное кино
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/242.m3u8
+http://myott.top/stream/DHMU2PPUTSS/242.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Индийское кино
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/104.m3u8
+http://myott.top/stream/DHMU2PPUTSS/104.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",TV1000 East HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/110.m3u8
+http://myott.top/stream/DHMU2PPUTSS/110.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",TV1000 Action East HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/100.m3u8
+http://myott.top/stream/DHMU2PPUTSS/100.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",TV1000 Русское кино
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/123.m3u8
+http://myott.top/stream/DHMU2PPUTSS/123.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Premiere HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/202.m3u8
+http://myott.top/stream/DHMU2PPUTSS/202.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Megahit HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/200.m3u8
+http://myott.top/stream/DHMU2PPUTSS/200.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Comedy HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/201.m3u8
+http://myott.top/stream/DHMU2PPUTSS/201.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Serial HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/311.m3u8
+http://myott.top/stream/DHMU2PPUTSS/311.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Комедийное HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/74.m3u8
+http://myott.top/stream/DHMU2PPUTSS/74.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Amedia Premium HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/151.m3u8
+http://myott.top/stream/DHMU2PPUTSS/151.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Amedia 1 HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/117.m3u8
+http://myott.top/stream/DHMU2PPUTSS/117.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Amedia Hit HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/162.m3u8
+http://myott.top/stream/DHMU2PPUTSS/162.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русский роман
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/266.m3u8
+http://myott.top/stream/DHMU2PPUTSS/266.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русский иллюзион
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/122.m3u8
+http://myott.top/stream/DHMU2PPUTSS/122.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русский детектив
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/204.m3u8
+http://myott.top/stream/DHMU2PPUTSS/204.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русский бестселлер
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/208.m3u8
+http://myott.top/stream/DHMU2PPUTSS/208.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русская комедия
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/68.m3u8
+http://myott.top/stream/DHMU2PPUTSS/68.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fox Россия HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/182.m3u8
+http://myott.top/stream/DHMU2PPUTSS/182.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fox Life Россия HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/129.m3u8
+http://myott.top/stream/DHMU2PPUTSS/129.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Sony Turbo
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/263.m3u8
+http://myott.top/stream/DHMU2PPUTSS/263.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Sony Channel HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/69.m3u8
+http://myott.top/stream/DHMU2PPUTSS/69.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Sony Sci-Fi
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/180.m3u8
+http://myott.top/stream/DHMU2PPUTSS/180.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",КиноТВ HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/221.m3u8
+http://myott.top/stream/DHMU2PPUTSS/221.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинопоказ HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/64.m3u8
+http://myott.top/stream/DHMU2PPUTSS/64.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Cinema
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/62.m3u8
+http://myott.top/stream/DHMU2PPUTSS/62.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",НСТ
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/207.m3u8
+http://myott.top/stream/DHMU2PPUTSS/207.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ТВ XXI
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/152.m3u8
+http://myott.top/stream/DHMU2PPUTSS/152.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Paramount Comedy HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/196.m3u8
+http://myott.top/stream/DHMU2PPUTSS/196.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Paramount Сhannel HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/219.m3u8
+http://myott.top/stream/DHMU2PPUTSS/219.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Мужское кино HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/107.m3u8
+http://myott.top/stream/DHMU2PPUTSS/107.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Дом Кино
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/236.m3u8
+http://myott.top/stream/DHMU2PPUTSS/236.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Дом Кино Премиум HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/108.m3u8
+http://myott.top/stream/DHMU2PPUTSS/108.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Hollywood HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/268.m3u8
+http://myott.top/stream/DHMU2PPUTSS/268.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",НТВ Сериал
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/301.m3u8
+http://myott.top/stream/DHMU2PPUTSS/301.m3u8
 #EXTINF:-1 group-title="Кино",Spike
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/304.m3u8
+http://myott.top/stream/DHMU2PPUTSS/304.m3u8
 #EXTINF:-1 group-title="Кино",FilmBox Baltic
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/307.m3u8
+http://myott.top/stream/DHMU2PPUTSS/307.m3u8
 #EXTINF:-1 group-title="Кино",FilmBox Arthouse
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/308.m3u8
+http://myott.top/stream/DHMU2PPUTSS/308.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Zee TV
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/309.m3u8
+http://myott.top/stream/DHMU2PPUTSS/309.m3u8
 #EXTINF:-1 group-title="Кино",Star Cinema HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/310.m3u8
+http://myott.top/stream/DHMU2PPUTSS/310.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Star Family HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/226.m3u8
+http://myott.top/stream/DHMU2PPUTSS/226.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Шокирующее HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/75.m3u8
+http://myott.top/stream/DHMU2PPUTSS/75.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киноужас HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/278.m3u8
+http://myott.top/stream/DHMU2PPUTSS/278.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Победа HD
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/312.m3u8
+http://myott.top/stream/DHMU2PPUTSS/312.m3u8
 #EXTINF:-1 group-title="Кино",Enter-фильм
 #EXTGRP:Кино
-http://myott.top/stream/DMV1L1L1BJA/322.m3u8
+http://myott.top/stream/DHMU2PPUTSS/322.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Игра HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/188.m3u8
+http://myott.top/stream/DHMU2PPUTSS/188.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/176.m3u8
+http://myott.top/stream/DHMU2PPUTSS/176.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport 2 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/192.m3u8
+http://myott.top/stream/DHMU2PPUTSS/192.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! СТРАНА
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/143.m3u8
+http://myott.top/stream/DHMU2PPUTSS/143.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Арена HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/163.m3u8
+http://myott.top/stream/DHMU2PPUTSS/163.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч ТВ HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/169.m3u8
+http://myott.top/stream/DHMU2PPUTSS/169.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Футбол 1 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/130.m3u8
+http://myott.top/stream/DHMU2PPUTSS/130.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Футбол 2 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/142.m3u8
+http://myott.top/stream/DHMU2PPUTSS/142.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Футбол 3 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/185.m3u8
+http://myott.top/stream/DHMU2PPUTSS/185.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч Премьер HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/193.m3u8
+http://myott.top/stream/DHMU2PPUTSS/193.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Интерспорт 1 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/159.m3u8
+http://myott.top/stream/DHMU2PPUTSS/159.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Интерспорт 2 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/191.m3u8
+http://myott.top/stream/DHMU2PPUTSS/191.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Футбол 3 HD Украина
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/297.m3u8
+http://myott.top/stream/DHMU2PPUTSS/297.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Беларусь 5 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/33.m3u8
+http://myott.top/stream/DHMU2PPUTSS/33.m3u8
 #EXTINF:-1 group-title="Спорт",Qazsport
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/72.m3u8
+http://myott.top/stream/DHMU2PPUTSS/72.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Viasat Sport Россия
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/102.m3u8
+http://myott.top/stream/DHMU2PPUTSS/102.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Extreme Sports
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/148.m3u8
+http://myott.top/stream/DHMU2PPUTSS/148.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Setanta Sport 1 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/234.m3u8
+http://myott.top/stream/DHMU2PPUTSS/234.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Setanta Sport 2 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/235.m3u8
+http://myott.top/stream/DHMU2PPUTSS/235.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Боец
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/112.m3u8
+http://myott.top/stream/DHMU2PPUTSS/112.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Бокс ТВ
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/154.m3u8
+http://myott.top/stream/DHMU2PPUTSS/154.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",КХЛ ТВ
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/166.m3u8
+http://myott.top/stream/DHMU2PPUTSS/166.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",КХЛ HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/178.m3u8
+http://myott.top/stream/DHMU2PPUTSS/178.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Русский экстрим HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/285.m3u8
+http://myott.top/stream/DHMU2PPUTSS/285.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Моторспорт ТВ
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/300.m3u8
+http://myott.top/stream/DHMU2PPUTSS/300.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Setanta Sports HD UA
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/313.m3u8
+http://myott.top/stream/DHMU2PPUTSS/313.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",UFC ТВ HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/279.m3u8
+http://myott.top/stream/DHMU2PPUTSS/279.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",X Sport HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/332.m3u8
+http://myott.top/stream/DHMU2PPUTSS/332.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Viasat Sport HD
 #EXTGRP:Спорт
-http://myott.top/stream/DMV1L1L1BJA/333.m3u8
+http://myott.top/stream/DHMU2PPUTSS/333.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Уникум
 #EXTGRP:Детские
-http://myott.top/stream/DMV1L1L1BJA/195.m3u8
+http://myott.top/stream/DHMU2PPUTSS/195.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Nickelodeon HD
 #EXTGRP:Детские
-http://myott.top/stream/DMV1L1L1BJA/127.m3u8
+http://myott.top/stream/DHMU2PPUTSS/127.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Канал Disney
 #EXTGRP:Детские
-http://myott.top/stream/DMV1L1L1BJA/118.m3u8
+http://myott.top/stream/DHMU2PPUTSS/118.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Карусель
 #EXTGRP:Детские
-http://myott.top/stream/DMV1L1L1BJA/120.m3u8
+http://myott.top/stream/DHMU2PPUTSS/120.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",TiJi Россия
 #EXTGRP:Детские
-http://myott.top/stream/DMV1L1L1BJA/111.m3u8
+http://myott.top/stream/DHMU2PPUTSS/111.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Мульт HD
 #EXTGRP:Детские
-http://myott.top/stream/DMV1L1L1BJA/232.m3u8
+http://myott.top/stream/DHMU2PPUTSS/232.m3u8
 #EXTINF:-1 group-title="Детские",Мульт и музыка
 #EXTGRP:Детские
-http://myott.top/stream/DMV1L1L1BJA/82.m3u8
+http://myott.top/stream/DHMU2PPUTSS/82.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",JimJam
 #EXTGRP:Детские
-http://myott.top/stream/DMV1L1L1BJA/150.m3u8
+http://myott.top/stream/DHMU2PPUTSS/150.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cartoon network
 #EXTGRP:Детские
-http://myott.top/stream/DMV1L1L1BJA/144.m3u8
+http://myott.top/stream/DHMU2PPUTSS/144.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Nick Jr
 #EXTGRP:Детские
-http://myott.top/stream/DMV1L1L1BJA/220.m3u8
+http://myott.top/stream/DHMU2PPUTSS/220.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",В гостях у сказки
 #EXTGRP:Детские
-http://myott.top/stream/DMV1L1L1BJA/93.m3u8
+http://myott.top/stream/DHMU2PPUTSS/93.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Канал О!
 #EXTGRP:Детские
-http://myott.top/stream/DMV1L1L1BJA/60.m3u8
+http://myott.top/stream/DHMU2PPUTSS/60.m3u8
 #EXTINF:-1 group-title="Детские",Gulli Girl
 #EXTGRP:Детские
-http://myott.top/stream/DMV1L1L1BJA/305.m3u8
+http://myott.top/stream/DHMU2PPUTSS/305.m3u8
 #EXTINF:-1 group-title="Детские",Ani
 #EXTGRP:Детские
-http://myott.top/stream/DMV1L1L1BJA/306.m3u8
+http://myott.top/stream/DHMU2PPUTSS/306.m3u8
 #EXTINF:-1 group-title="Детские",Пиксель
 #EXTGRP:Детские
-http://myott.top/stream/DMV1L1L1BJA/323.m3u8
+http://myott.top/stream/DHMU2PPUTSS/323.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray iConcerts HD
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/267.m3u8
+http://myott.top/stream/DHMU2PPUTSS/267.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",М1 HD
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/218.m3u8
+http://myott.top/stream/DHMU2PPUTSS/218.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",М2 HD
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/330.m3u8
+http://myott.top/stream/DHMU2PPUTSS/330.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Deluxe HD
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/92.m3u8
+http://myott.top/stream/DHMU2PPUTSS/92.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Classic
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/272.m3u8
+http://myott.top/stream/DHMU2PPUTSS/272.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/318.m3u8
+http://myott.top/stream/DHMU2PPUTSS/318.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Руский Хит
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/320.m3u8
+http://myott.top/stream/DHMU2PPUTSS/320.m3u8
 #EXTINF:-1 group-title="Музыкальные",Music Box Russian
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/319.m3u8
+http://myott.top/stream/DHMU2PPUTSS/319.m3u8
 #EXTINF:-1 group-title="Музыкальные",Europa Plus TV
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/184.m3u8
+http://myott.top/stream/DHMU2PPUTSS/184.m3u8
 #EXTINF:-1 group-title="Музыкальные",Inrating HD
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/147.m3u8
+http://myott.top/stream/DHMU2PPUTSS/147.m3u8
 #EXTINF:-1 group-title="Музыкальные",MTV Россия
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/89.m3u8
+http://myott.top/stream/DHMU2PPUTSS/89.m3u8
 #EXTINF:-1 group-title="Музыкальные",MTV Rocks
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/88.m3u8
+http://myott.top/stream/DHMU2PPUTSS/88.m3u8
 #EXTINF:-1 group-title="Музыкальные",Музыка Первого
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/153.m3u8
+http://myott.top/stream/DHMU2PPUTSS/153.m3u8
 #EXTINF:-1 group-title="Музыкальные",VH1 Europe
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/165.m3u8
+http://myott.top/stream/DHMU2PPUTSS/165.m3u8
 #EXTINF:-1 group-title="Музыкальные",VH1 Classic
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/87.m3u8
+http://myott.top/stream/DHMU2PPUTSS/87.m3u8
 #EXTINF:-1 group-title="Музыкальные",Муз-ТВ
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/86.m3u8
+http://myott.top/stream/DHMU2PPUTSS/86.m3u8
 #EXTINF:-1 group-title="Музыкальные",RU.TV
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/109.m3u8
+http://myott.top/stream/DHMU2PPUTSS/109.m3u8
 #EXTINF:-1 group-title="Музыкальные",Mezzo Live HD
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/276.m3u8
+http://myott.top/stream/DHMU2PPUTSS/276.m3u8
 #EXTINF:-1 group-title="Музыкальные",Шансон ТВ
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/95.m3u8
+http://myott.top/stream/DHMU2PPUTSS/95.m3u8
 #EXTINF:-1 group-title="Музыкальные",Ля-минор ТВ
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/303.m3u8
+http://myott.top/stream/DHMU2PPUTSS/303.m3u8
 #EXTINF:-1 group-title="Музыкальные",THT MUSIC
 #EXTGRP:Музыкальные
-http://myott.top/stream/DMV1L1L1BJA/317.m3u8
+http://myott.top/stream/DHMU2PPUTSS/317.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",РБК ТВ
 #EXTGRP:Новостные
-http://myott.top/stream/DMV1L1L1BJA/105.m3u8
+http://myott.top/stream/DHMU2PPUTSS/105.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Россия 24
 #EXTGRP:Новостные
-http://myott.top/stream/DMV1L1L1BJA/139.m3u8
+http://myott.top/stream/DHMU2PPUTSS/139.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",EuroNews
 #EXTGRP:Новостные
-http://myott.top/stream/DMV1L1L1BJA/189.m3u8
+http://myott.top/stream/DHMU2PPUTSS/189.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",BBC World News Europe
 #EXTGRP:Новостные
-http://myott.top/stream/DMV1L1L1BJA/85.m3u8
+http://myott.top/stream/DHMU2PPUTSS/85.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",CNN
 #EXTGRP:Новостные
-http://myott.top/stream/DMV1L1L1BJA/84.m3u8
+http://myott.top/stream/DHMU2PPUTSS/84.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Москва-24
 #EXTGRP:Новостные
-http://myott.top/stream/DMV1L1L1BJA/67.m3u8
+http://myott.top/stream/DHMU2PPUTSS/67.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Украина 24
 #EXTGRP:Новостные
-http://myott.top/stream/DMV1L1L1BJA/271.m3u8
+http://myott.top/stream/DHMU2PPUTSS/271.m3u8
 #EXTINF:-1 group-title="Новостные",Shant News
 #EXTGRP:Новостные
-http://myott.top/stream/DMV1L1L1BJA/302.m3u8
+http://myott.top/stream/DHMU2PPUTSS/302.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Дождь HD
 #EXTGRP:Новостные
-http://myott.top/stream/DMV1L1L1BJA/210.m3u8
+http://myott.top/stream/DHMU2PPUTSS/210.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Настоящее время
 #EXTGRP:Новостные
-http://myott.top/stream/DMV1L1L1BJA/331.m3u8
-#EXTM3U
+http://myott.top/stream/DHMU2PPUTSS/331.m3u8
 #EXTINF:0 tvg-rec="3",EDEM_TV РБК-ТВ
 #EXTGRP:новости
 http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/106/index.m3u8
@@ -1578,1404 +1577,6 @@ http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7257/index.m3u8
 #EXTINF:0 tvg-rec="0",EDEM_TV Морской HD
 #EXTGRP:познавательные
 http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7349/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Tiji TV
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/108/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Gulli
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/109/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Nick Jr
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/114/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Nickelodeon
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/541/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Disney
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/524/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Детский мир
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/543/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Jim Jam
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/138/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Cartoon Network
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/143/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Карусель
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/156/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Ani
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/129/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Мульт
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/909/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Тлум HD
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/240/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Boomerang
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/723/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV О!
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/727/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Уникум
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/730/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV В гостях у сказки
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/737/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Карусель (+3)
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/740/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Мультимузыка
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/749/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Мульт HD
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/921/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Duck TV
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1031/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Baby TV
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2084/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Da Vinci Kids
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1033/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Da Vinci Kids PL
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1034/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Малыш
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1041/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Nickelodeon EN
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1069/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Радость моя
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/853/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Рыжий
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2052/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Капитан Фантастика
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2098/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV UTv
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2103/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Тамыр
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2109/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Смайлик ТВ
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2157/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Мультиландия
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5055/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Уникум
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5056/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Junior
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6140/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV NickToons SK
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6095/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Nick Jr. DE
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7232/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Polsat Jim Jam PL
-#EXTGRP:детские
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7298/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ТНТ4
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/104/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ЖАРА
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/105/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Paramount Comedy Russia
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/157/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ТНТ (+2)
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/717/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV НТВ Стиль
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/745/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Fashion One
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1010/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV World Fashion Channel
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1068/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Супер
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/826/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Драйв
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2021/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Мужской
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2047/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Luxury World
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2072/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Мир Premium
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2105/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Luxury
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5032/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Анекдот ТВ
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5034/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Театр
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2431/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sat.1 HD DE
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6060/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV VOX HD DE
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6061/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Groummet
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6141/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Fatafeat
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6142/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Outdoor
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6139/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Fashion TV HD 50
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10018/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Fashion One HD 50
-#EXTGRP:развлекательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10019/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Мир
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/113/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV НТВ
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/501/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ТНТ
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/502/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Пятница!
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/503/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Россия 1
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/504/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV СТС
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/506/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ТВ3
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/508/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Первый канал
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/127/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV РЕН ТВ
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/128/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Че
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/513/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Домашний
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/514/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ТНВ-Планета
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/515/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ТВЦ
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/520/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Телеканал Да Винчи
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/537/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Телеканал Звезда
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/544/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Ю ТВ
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/534/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV КВН ТВ
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/546/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Мама
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/704/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ОТР
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/705/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CBS Reality
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/706/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ТВЦ (+2)
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/716/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV NHK World TV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/729/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Fine Living
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/735/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ЖИВИ!
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/738/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Звезда (+2)
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/739/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV НТВ Право
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/743/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV РЕН ТВ (+2)
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/747/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Сарафан
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/748/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CNL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/955/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Al Jazeera
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/960/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TVP Info
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/961/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV France 24
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/964/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV AzTV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/966/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Life TV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/971/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ТБН
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/974/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV СПАС
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/983/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV WnessTV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/984/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Архыз 24
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1049/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CBC AZ
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1050/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Kabbala TV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1053/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Погляд HD
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1057/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Астрахань 24
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1059/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Shop & Show
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/827/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Башкирское спутниковое телевидение
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/832/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CCTV-4 Europe
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/829/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Первый Вегетарианский
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/833/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV RT Documentary
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/839/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Просвещение
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/846/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Продвижение
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/851/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Загородная Жизнь
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/852/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Грозный
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/855/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Shopping Live
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/860/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Shop 24
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/861/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Брянская Губерния
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/857/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Телекафе
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/865/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ACB TV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/868/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Москва Доверие
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/869/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Победа
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2003/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Союз
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2016/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Здоровое ТВ
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2022/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Психология 21
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2025/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Вопросы и ответы
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2026/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ТДК
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2034/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Globalstar TV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2035/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Юрган
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2036/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Успех
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2041/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Кто есть кто
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2042/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Точка ТВ
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2053/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV НТК Калмыкия
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2066/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Раз ТВ
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2069/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Arirang
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2071/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Открытый мир
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2078/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Загородный
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2099/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV БСТ
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2108/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ЛДПР ТВ
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2110/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Связист ТВ
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2111/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Кто Куда
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2112/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Волга
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2113/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Три ангела
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2116/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Ратник
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2119/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV РЖД ТВ
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2120/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Первый Крымский
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2139/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ТОЛК
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2140/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV КРЫМ 24
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2143/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Курай HD
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2144/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Красная линия
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2147/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ТНОМЕР
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2149/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Хузур ТВ
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2150/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Эхо ТВ
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2151/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Калейдоскоп ТВ
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5037/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Т 24
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5047/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Липецк Time
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2435/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Россия-1 +2
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6011/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Россия-1 +4
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6022/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Россия-1 +6
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6038/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Россия-1 +8
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6051/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ОТР +2
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6014/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ОТР +4
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6026/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ОТР +8
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6055/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV СТС +2
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6015/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV СТС +4
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6029/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV СТС +6
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6043/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Домашний +2
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6016/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Домашний +4
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6030/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Домашний +6
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6044/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ТВ3 +2
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6017/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ТВ3 +4
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6031/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ТВ3 +6
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6045/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Пятница +2
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6018/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Пятница +4
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6032/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Пятница +6
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6046/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Мир +2
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6019/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Мир +4
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6034/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Мир +6
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6048/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ТНТ +2
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6020/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ТНТ +4
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6035/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ТНТ +6
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6049/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Первый канал +4
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6021/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Первый канал +6
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6037/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Первый канал +8
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6050/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV НТВ +4
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6024/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV НТВ +6
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6039/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV НТВ +8
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6053/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV 5 канал +4
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6025/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV 5 канал +6
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6040/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV 5 канал +8
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6054/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Рен ТВ +4
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6028/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Рен ТВ +6
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6042/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Звезда +4
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6033/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Звезда +6
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6047/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ТВЦ +4
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6027/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ТВЦ +6
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6041/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ТВЦ +8
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6056/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV AXN BR
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6163/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Australia Channel AU
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6118/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV PARIS PREMIERE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6146/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Дождь HD
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6308/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV BTV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6344/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Kidzone baltic
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6345/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV3 LV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6346/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV 3+ LV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6347/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV6 LV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6348/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV3 LT
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6349/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV6 LT
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6350/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV LNT LV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6351/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV LTV1
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6353/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV LTV7
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6354/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV8 LT
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6355/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV LRT Televizija LT
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6356/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV1 LT
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6357/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV LNK LV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6358/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Lietuvos Rytas LT
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6359/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV LRT HD LT
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6360/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV LRT Plius LT
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6361/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV LRT Plius HD LT
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6362/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV INFO TV LT
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6363/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV LIUKS! LT
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6364/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Siauliu TV LT
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6365/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport 1 LT
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6366/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport 1 HD LT
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6367/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Pingviniukas LT
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6368/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV BTV HD LT
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6398/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Balticum
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6399/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV DelfiTV HD
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6400/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Dzukijos
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6401/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ETV EE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6402/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ETV2 EE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6403/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Kanal 2 EE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6404/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV LNK HD LT
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6405/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Re TV LV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6406/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV STV LV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6407/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sporta Centrs HD
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6408/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV 3 PLUS EE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7176/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV1 HD LT
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6409/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV RigaTV 24 LV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6410/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ETV Plus EE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7177/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV KANAL11 EE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7178/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV3 LV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6411/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV3 HD LV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6412/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV KANAL12 EE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7179/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV3 Life HD LV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6413/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV PBK EE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7180/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV3 Mini HD LV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6414/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV3 HD EE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7181/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV6 LV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6415/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV6 HD EE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7182/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TVPLAYSPORTS EE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7183/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV6 HD LV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6416/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV3 sport LV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6417/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TVPLAY SPORTS PLUS
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7184/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV3 sport2 LV
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6418/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Aaj Tak IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6567/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Aapka Colors IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6568/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV B4U Movies IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6569/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV B4U Music IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6570/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SAB TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6571/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sahara One IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6572/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sahara Samay IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6573/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SET Max IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6574/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SET IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6575/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee TV HD IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6576/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Cinema IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6577/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV NDTV 24x7 IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6578/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TV Asia IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6579/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Times Now IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6580/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Aastha TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6581/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV MTV India IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6582/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Food Food IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6583/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Jus Hindi IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6584/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Halla Bol! IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6585/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Colors Rishtey IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6586/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Aastha Bhajan IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6587/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sanskar IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6588/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zing IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6589/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Living Foodz IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6590/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee News IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6591/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Colors Cineplex IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6592/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV India 24x7 IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6593/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee MP & Chhattisgarh IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6594/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Cinema HD IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6595/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Classic IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6596/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Anmol IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6597/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ZETC Bollywood IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6598/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Business IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6599/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Rajasthan IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6600/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Total TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6601/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV JK Channel IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6602/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sadhna Prime News IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6603/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Channel One News IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6604/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Gulistan News IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6605/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sadhna TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6606/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Soham IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6607/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV InSync IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6609/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Kathyani TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6610/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Arihant IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6611/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV News18 Bihar Jharkhand IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6612/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV News18 MP Chhattisgarah IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6613/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV News18 UP Uttakhrand IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6615/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV News18 India IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6616/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Khabar IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6617/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Ishwar IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6618/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sadhna Plus News IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6619/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV NDTV 24x7 IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6620/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Vaani TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6621/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Smile IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6622/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Shubh TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6623/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Satsang TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6624/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sony Max 2 IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6625/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sony Pal IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6626/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sony Yay IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6627/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV R.Bharat IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6628/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Republic TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6629/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV News18 Assam North East IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6630/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Prag News IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6631/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Rengoni TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6632/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Channel I IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6633/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV NTV Bangla IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6634/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ATN News IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6635/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Bangla IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6636/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Bangla Cinema IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6637/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV 24 Ghanta IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6638/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV News18 Bangla IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6639/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ATN Bangla IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6640/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV AATH IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6641/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Bihar Jharkhand IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6642/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TV9 Gujarati IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6643/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV News18 Gujarati IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6644/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Swar Shree IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6645/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Colors Kannada IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6646/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Kannada IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6647/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Udaya TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6648/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Public TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6649/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Prajaa TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6650/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Public Music IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6651/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Kairali TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6652/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Surya Movies IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6653/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Mazhavil Manorama IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6654/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Surya TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6655/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Kairali We IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6656/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV News18 Kerala IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6657/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Marathi IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6658/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Talkies IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6660/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV News18 Lokmat IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6661/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sony Marathi IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6662/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Kalinga IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6663/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sarthak TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6664/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV OTV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6665/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Prathana TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6666/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Tarang Music IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6667/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Tarang IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6668/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV PTC Punjabi IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6670/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Alpha ETC Punjabi IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6671/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV 9X Tashan IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6672/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV PTC Chak De IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6673/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV PTC News IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6674/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV JUS One IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6675/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Punjabi IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6676/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV News18 Punjab IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6677/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Garv Punjab IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6678/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Garv Punjab Gurbani IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6679/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Chardikla Time TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6680/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Desi Channel IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6681/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sanjha TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6682/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Only Music IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6683/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV News Only IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6684/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Fateh TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6685/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV PTC Punjabi Gold IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6686/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV PTC Simran IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6687/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV PTC Dhol TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6688/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV PTC Music IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6689/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Gurbaani TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6690/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Gabruu TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6691/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SUN TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6692/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV KTV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6693/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SUN Music IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6694/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Adithya IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6695/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Jaya TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6696/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Jaya Plus IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6698/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV JMovies IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6699/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Raj TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6700/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Raj Digital Plus IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6701/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Raj Musix IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6702/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Raj News IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6703/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Tamil IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6704/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Tunes 6 IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6705/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV News18 Tamil IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6706/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Colors Tamil IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6707/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Cinemalu IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6708/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Gemini TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6709/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Gemini Movies IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6710/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Gemini Comedy IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6711/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TV5 News IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6712/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Telugu IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6713/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SVBC IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6714/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sneha TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6715/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV HMTV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6716/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TV Asia Telugu IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6717/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sakshi TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6718/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ARY Digital IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6719/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ARY News IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6720/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Express News IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6721/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV GEO News IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6722/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV GEO TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6723/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ARY QTV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6724/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ARY Zauq IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6725/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Dunya TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6726/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Express Entertainment IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6727/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV AAG Television IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6728/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TV One IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6729/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV HUM TV IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6730/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV HUM Sitaray IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6731/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Zee Salaam IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6732/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV HUM Masala IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6733/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV News18 Urdu IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6734/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV PTV Global IN
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6735/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TOROS ES
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7061/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Зал суда HD
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7141/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Gags Network HD
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7142/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ARD FHD
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7233/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Россия HD Orig
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7252/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV WELT HD DE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7258/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV N-TV HD DE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7259/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TF1 HD FR
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7262/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TVN 7 HD PL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7279/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TVP Polonia PL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7282/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TVP Historia PL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7283/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TVP 3 Warszawa PL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7284/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TVN Style PL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7285/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TVN FHD PL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7286/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TVN Fabula FHD PL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7287/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TVN 24 FHD PL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7288/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TV6 FHD PL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7289/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TV4 HD PL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7290/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TVP 1 FHD PL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7292/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TVP 2 HD PL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7293/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Polsat HD PL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7299/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV POLSAT DOKU HD PL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7300/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Polsat Rodzina PL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7301/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Kuchnia HD PL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7302/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SUPER POLSAT HD PL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7312/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV 7 Sydney AU
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7313/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV 7 Two Sydney AU
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7314/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV 7 Mate Sydney AU
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7315/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV 7 Flix Sydney AU
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7316/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV 9 Sydney AU
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7317/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV 9 Gem Sydney AU
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7318/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV 9 Go! Sydney AU
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7319/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV 9 Life Sydney AU
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7320/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV 9 Rush Sydney AU
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7321/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Caza y Pesca HD ES
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7346/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Загородная жизнь HD
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7348/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SVT1 HD SE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7350/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SVT2 HD SE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7351/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SVTB/SVT24 HD SE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7352/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TV12 HD SE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7353/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV DR1 HD DK
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7354/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV FEM HD NO
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7356/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Kanal 11 HD SE
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7357/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Kanal 4 HD DK
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7358/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TVN Turbo HD PL
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10011/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ОТС Full HD
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10030/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ОТС HD
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10031/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV OTC
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10032/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV НСК49
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10034/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Яснае ТВ HD
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10035/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Белсат HD
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10036/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Новый век Тамбов
-#EXTGRP:другие
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10037/index.m3u8
 #EXTINF:0 tvg-rec="3",EDEM_TV МАТЧ! СТРАНА
 #EXTGRP:спорт
 http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/107/index.m3u8
