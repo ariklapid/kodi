@@ -1,3613 +1,847 @@
-#EXTM3U
+#EXTM3U url-tvg="http://myott.top/api/epg.xml.gz"
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Первый канал HD
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/131.m3u8
+http://myott.top/stream/D56QUGASJGR/131.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Россия HD
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/137.m3u8
+http://myott.top/stream/D56QUGASJGR/137.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",НТВ HD
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/134.m3u8
+http://myott.top/stream/D56QUGASJGR/134.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",НТВ Мир
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/223.m3u8
+http://myott.top/stream/D56QUGASJGR/223.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",5 канал (Россия)
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/103.m3u8
+http://myott.top/stream/D56QUGASJGR/103.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТНТ HD
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/135.m3u8
+http://myott.top/stream/D56QUGASJGR/135.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",СТС HD
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/138.m3u8
+http://myott.top/stream/D56QUGASJGR/138.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",СТС Love
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/183.m3u8
+http://myott.top/stream/D56QUGASJGR/183.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",РЕН ТВ
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/132.m3u8
+http://myott.top/stream/D56QUGASJGR/132.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Мир HD
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/77.m3u8
+http://myott.top/stream/D56QUGASJGR/77.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Мир 24 HD
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/66.m3u8
+http://myott.top/stream/D56QUGASJGR/66.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ОТР
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/61.m3u8
+http://myott.top/stream/D56QUGASJGR/61.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Звезда
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/140.m3u8
+http://myott.top/stream/D56QUGASJGR/140.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Перец International
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/121.m3u8
+http://myott.top/stream/D56QUGASJGR/121.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТВ3 Россия
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/136.m3u8
+http://myott.top/stream/D56QUGASJGR/136.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Пятница
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/181.m3u8
+http://myott.top/stream/D56QUGASJGR/181.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",RTVi
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/91.m3u8
+http://myott.top/stream/D56QUGASJGR/91.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Суббота
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/269.m3u8
+http://myott.top/stream/D56QUGASJGR/269.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Домашний
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/227.m3u8
+http://myott.top/stream/D56QUGASJGR/227.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Культура
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/229.m3u8
+http://myott.top/stream/D56QUGASJGR/229.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",РТР Планета
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/224.m3u8
+http://myott.top/stream/D56QUGASJGR/224.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",8 канал
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/299.m3u8
+http://myott.top/stream/D56QUGASJGR/299.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Время
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/237.m3u8
+http://myott.top/stream/D56QUGASJGR/237.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Ностальгия
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/94.m3u8
+http://myott.top/stream/D56QUGASJGR/94.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Ю
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/230.m3u8
+http://myott.top/stream/D56QUGASJGR/230.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",2х2
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/187.m3u8
+http://myott.top/stream/D56QUGASJGR/187.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",World Fashion Channel
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/119.m3u8
+http://myott.top/stream/D56QUGASJGR/119.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТНТ4
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/106.m3u8
+http://myott.top/stream/D56QUGASJGR/106.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",КВН ТВ
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/222.m3u8
+http://myott.top/stream/D56QUGASJGR/222.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Сарафан
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/81.m3u8
+http://myott.top/stream/D56QUGASJGR/81.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Вопросы и ответы
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/76.m3u8
+http://myott.top/stream/D56QUGASJGR/76.m3u8
 #EXTINF:-1 group-title="Общие",Первый канал (+2)
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/99.m3u8
+http://myott.top/stream/D56QUGASJGR/99.m3u8
 #EXTINF:-1 group-title="Общие",НТВ (+2)
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/98.m3u8
+http://myott.top/stream/D56QUGASJGR/98.m3u8
 #EXTINF:-1 group-title="Общие",ТНТ(+2)
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/97.m3u8
+http://myott.top/stream/D56QUGASJGR/97.m3u8
 #EXTINF:-1 group-title="Общие",Россия 1(+2)
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/96.m3u8
+http://myott.top/stream/D56QUGASJGR/96.m3u8
 #EXTINF:-1 group-title="Общие",Первый канал HD(+4)
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/233.m3u8
+http://myott.top/stream/D56QUGASJGR/233.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТВ Центр
 #EXTGRP:Общие
-http://myott.top/stream/DHMU2PPUTSS/190.m3u8
+http://myott.top/stream/D56QUGASJGR/190.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Украина HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/167.m3u8
+http://myott.top/stream/D56QUGASJGR/167.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ICTV HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/158.m3u8
+http://myott.top/stream/D56QUGASJGR/158.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Новый канал HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/157.m3u8
+http://myott.top/stream/D56QUGASJGR/157.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",СТБ HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/156.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Интер
+http://myott.top/stream/D56QUGASJGR/156.m3u8
+#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Интер HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/174.m3u8
+http://myott.top/stream/D56QUGASJGR/174.m3u8
+#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Интер+
+#EXTGRP:Зарубежные
+http://myott.top/stream/D56QUGASJGR/345.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",1+1 HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/172.m3u8
+http://myott.top/stream/D56QUGASJGR/172.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",2+2 HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/173.m3u8
-#EXTINF:-1 group-title="Зарубежные",К1
+http://myott.top/stream/D56QUGASJGR/173.m3u8
+#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",К1 HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/270.m3u8
-#EXTINF:-1 group-title="Зарубежные",К2
+http://myott.top/stream/D56QUGASJGR/270.m3u8
+#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",К2 HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/324.m3u8
-#EXTINF:-1 group-title="Зарубежные",НТН
+http://myott.top/stream/D56QUGASJGR/324.m3u8
+#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",НТН HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/326.m3u8
-#EXTINF:-1 group-title="Зарубежные",Zoom
+http://myott.top/stream/D56QUGASJGR/326.m3u8
+#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Zoom HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/327.m3u8
+http://myott.top/stream/D56QUGASJGR/327.m3u8
 #EXTINF:-1 group-title="Зарубежные",Квартал ТВ
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/321.m3u8
+http://myott.top/stream/D56QUGASJGR/321.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ОЦЕ HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/329.m3u8
+http://myott.top/stream/D56QUGASJGR/329.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ТЕТ
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/338.m3u8
+http://myott.top/stream/D56QUGASJGR/338.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ПлюсПлюс
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/339.m3u8
+http://myott.top/stream/D56QUGASJGR/339.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Бiгудi
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/340.m3u8
+http://myott.top/stream/D56QUGASJGR/340.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Уніан
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/341.m3u8
+http://myott.top/stream/D56QUGASJGR/341.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Iндиго HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/343.m3u8
+http://myott.top/stream/D56QUGASJGR/343.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",НЛО HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/344.m3u8
+http://myott.top/stream/D56QUGASJGR/344.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Channel 9 HD (Израиль)
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/20.m3u8
+http://myott.top/stream/D56QUGASJGR/20.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Channel 11 (Израиль)
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/293.m3u8
+http://myott.top/stream/D56QUGASJGR/293.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Channel 12 (Израиль)
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/294.m3u8
+http://myott.top/stream/D56QUGASJGR/294.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Channel 13 (Израиль)
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/295.m3u8
+http://myott.top/stream/D56QUGASJGR/295.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ОНТ HD Беларусь
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/21.m3u8
+http://myott.top/stream/D56QUGASJGR/21.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",БелРос
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/63.m3u8
+http://myott.top/stream/D56QUGASJGR/63.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Беларусь 1 HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/22.m3u8
+http://myott.top/stream/D56QUGASJGR/22.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",РТР Беларусь HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/23.m3u8
+http://myott.top/stream/D56QUGASJGR/23.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Беларусь 2 HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/24.m3u8
+http://myott.top/stream/D56QUGASJGR/24.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Беларусь 3 HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/25.m3u8
-#EXTINF:-1 group-title="Зарубежные",Хабар
+http://myott.top/stream/D56QUGASJGR/25.m3u8
+#EXTINF:-1 group-title="Зарубежные",Abai TV
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/73.m3u8
+http://myott.top/stream/D56QUGASJGR/73.m3u8
 #EXTINF:-1 group-title="Зарубежные",Qazaqstan
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/71.m3u8
+http://myott.top/stream/D56QUGASJGR/71.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",КТК
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/26.m3u8
+http://myott.top/stream/D56QUGASJGR/26.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",7 канал (Казахстан)
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/27.m3u8
+http://myott.top/stream/D56QUGASJGR/27.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Астана ТВ
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/28.m3u8
+http://myott.top/stream/D56QUGASJGR/28.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Armenia TV
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/175.m3u8
+http://myott.top/stream/D56QUGASJGR/175.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Shant HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/37.m3u8
+http://myott.top/stream/D56QUGASJGR/37.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ATV HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/36.m3u8
+http://myott.top/stream/D56QUGASJGR/36.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Armenia 1 TV
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/38.m3u8
+http://myott.top/stream/D56QUGASJGR/38.m3u8
 #EXTINF:-1 group-title="Зарубежные",Kentron HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/39.m3u8
+http://myott.top/stream/D56QUGASJGR/39.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",LNK
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/30.m3u8
+http://myott.top/stream/D56QUGASJGR/30.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",BTV
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/35.m3u8
+http://myott.top/stream/D56QUGASJGR/35.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",TV3 LV
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/32.m3u8
+http://myott.top/stream/D56QUGASJGR/32.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",TV3 LT
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/29.m3u8
+http://myott.top/stream/D56QUGASJGR/29.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",LRT
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/31.m3u8
+http://myott.top/stream/D56QUGASJGR/31.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",LTV1
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/34.m3u8
+http://myott.top/stream/D56QUGASJGR/34.m3u8
 #EXTINF:-1 group-title="Зарубежные",Jurnal TV HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/277.m3u8
+http://myott.top/stream/D56QUGASJGR/277.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Prime1 HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/335.m3u8
+http://myott.top/stream/D56QUGASJGR/335.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Молдова 1 HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/336.m3u8
+http://myott.top/stream/D56QUGASJGR/336.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",РТР Молдова HD
 #EXTGRP:Зарубежные
-http://myott.top/stream/DHMU2PPUTSS/337.m3u8
+http://myott.top/stream/D56QUGASJGR/337.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Discovery Россия HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/177.m3u8
+http://myott.top/stream/D56QUGASJGR/177.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Discovery Science HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/146.m3u8
+http://myott.top/stream/D56QUGASJGR/146.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",DTX HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/145.m3u8
+http://myott.top/stream/D56QUGASJGR/145.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Поехали
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/316.m3u8
+http://myott.top/stream/D56QUGASJGR/316.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",History Европа HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/113.m3u8
+http://myott.top/stream/D56QUGASJGR/113.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",H2 HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/65.m3u8
+http://myott.top/stream/D56QUGASJGR/65.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Investigation Discovery HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/205.m3u8
+http://myott.top/stream/D56QUGASJGR/205.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",TLC Россия HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/168.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",ЭВРИКА HD
+http://myott.top/stream/D56QUGASJGR/168.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Глазами Туриста HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/212.m3u8
+http://myott.top/stream/D56QUGASJGR/304.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Первый Космический HD
+#EXTGRP:Познавательные
+http://myott.top/stream/D56QUGASJGR/212.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",DocuBox
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/90.m3u8
+http://myott.top/stream/D56QUGASJGR/90.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",National Geographic HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/116.m3u8
+http://myott.top/stream/D56QUGASJGR/116.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Наука 2.0
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/125.m3u8
+http://myott.top/stream/D56QUGASJGR/125.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",24Техно
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/209.m3u8
+http://myott.top/stream/D56QUGASJGR/209.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Оружие
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/203.m3u8
+http://myott.top/stream/D56QUGASJGR/203.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Nat Geo Wild HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/149.m3u8
+http://myott.top/stream/D56QUGASJGR/149.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Animal Planet HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/114.m3u8
+http://myott.top/stream/D56QUGASJGR/114.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",В мире животных HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/241.m3u8
+http://myott.top/stream/D56QUGASJGR/241.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Бобер
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/197.m3u8
+http://myott.top/stream/D56QUGASJGR/197.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Мама
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/79.m3u8
+http://myott.top/stream/D56QUGASJGR/79.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Доктор
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/80.m3u8
+http://myott.top/stream/D56QUGASJGR/80.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Da Vinci
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/238.m3u8
+http://myott.top/stream/D56QUGASJGR/238.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Viasat Explore
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/239.m3u8
+http://myott.top/stream/D56QUGASJGR/239.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Viasat Nature/History HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/240.m3u8
+http://myott.top/stream/D56QUGASJGR/240.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Viasat History
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/101.m3u8
+http://myott.top/stream/D56QUGASJGR/101.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",История
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/228.m3u8
+http://myott.top/stream/D56QUGASJGR/228.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",365 дней ТВ
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/70.m3u8
+http://myott.top/stream/D56QUGASJGR/70.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Моя планета
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/124.m3u8
+http://myott.top/stream/D56QUGASJGR/124.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Russian Travel Guide HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/164.m3u8
+http://myott.top/stream/D56QUGASJGR/164.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Приключения HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/198.m3u8
+http://myott.top/stream/D56QUGASJGR/198.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Travel channel HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/231.m3u8
+http://myott.top/stream/D56QUGASJGR/231.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Travel+Adventure HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/206.m3u8
+http://myott.top/stream/D56QUGASJGR/206.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",HGTV
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/273.m3u8
+http://myott.top/stream/D56QUGASJGR/273.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Охота и рыбалка
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/155.m3u8
+http://myott.top/stream/D56QUGASJGR/155.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Охотник и рыболов HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/194.m3u8
+http://myott.top/stream/D56QUGASJGR/194.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Диалоги о рыбалке
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/264.m3u8
+http://myott.top/stream/D56QUGASJGR/264.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Рыбалка HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/286.m3u8
+http://myott.top/stream/D56QUGASJGR/286.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Дикая Охота HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/274.m3u8
+http://myott.top/stream/D56QUGASJGR/274.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Дикая Рыбалка HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/275.m3u8
+http://myott.top/stream/D56QUGASJGR/275.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Outdoor channel
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/211.m3u8
+http://myott.top/stream/D56QUGASJGR/211.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Живая природа HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/225.m3u8
+http://myott.top/stream/D56QUGASJGR/225.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Живая планета
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/83.m3u8
+http://myott.top/stream/D56QUGASJGR/83.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Кухня ТВ
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/179.m3u8
+http://myott.top/stream/D56QUGASJGR/179.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Еда Премиум HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/216.m3u8
+http://myott.top/stream/D56QUGASJGR/216.m3u8
 #EXTINF:-1 group-title="Познавательные",Food Network HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/298.m3u8
+http://myott.top/stream/D56QUGASJGR/298.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Авто24
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/78.m3u8
+http://myott.top/stream/D56QUGASJGR/78.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Телекафе
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/314.m3u8
+http://myott.top/stream/D56QUGASJGR/314.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Авто Плюс
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/186.m3u8
+http://myott.top/stream/D56QUGASJGR/186.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Морской
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/141.m3u8
+http://myott.top/stream/D56QUGASJGR/141.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",HDL HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/161.m3u8
-#EXTINF:-1 group-title="Познавательные",Мега
+http://myott.top/stream/D56QUGASJGR/161.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Мега HD
 #EXTGRP:Познавательные
-http://myott.top/stream/DHMU2PPUTSS/325.m3u8
+http://myott.top/stream/D56QUGASJGR/325.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинопремьера HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/160.m3u8
+http://myott.top/stream/D56QUGASJGR/160.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Остросюжетное HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/214.m3u8
+http://myott.top/stream/D56QUGASJGR/214.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Премиальное HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/215.m3u8
+http://myott.top/stream/D56QUGASJGR/215.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Наше HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/217.m3u8
+http://myott.top/stream/D56QUGASJGR/217.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Наш Кинороман HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/213.m3u8
+http://myott.top/stream/D56QUGASJGR/213.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинокомедия
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/265.m3u8
+http://myott.top/stream/D56QUGASJGR/265.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киносемья
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/170.m3u8
+http://myott.top/stream/D56QUGASJGR/170.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киносвидание
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/171.m3u8
+http://myott.top/stream/D56QUGASJGR/171.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинохит
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/126.m3u8
+http://myott.top/stream/D56QUGASJGR/126.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киномикс HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/133.m3u8
+http://myott.top/stream/D56QUGASJGR/133.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Наше новое кино
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/128.m3u8
+http://myott.top/stream/D56QUGASJGR/128.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Родное кино
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/242.m3u8
+http://myott.top/stream/D56QUGASJGR/242.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Индийское кино
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/104.m3u8
+http://myott.top/stream/D56QUGASJGR/104.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",TV1000 East HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/110.m3u8
+http://myott.top/stream/D56QUGASJGR/110.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",TV1000 Action East HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/100.m3u8
+http://myott.top/stream/D56QUGASJGR/100.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",TV1000 Русское кино
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/123.m3u8
+http://myott.top/stream/D56QUGASJGR/123.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Premiere HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/202.m3u8
+http://myott.top/stream/D56QUGASJGR/202.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Megahit HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/200.m3u8
+http://myott.top/stream/D56QUGASJGR/200.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Comedy HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/201.m3u8
+http://myott.top/stream/D56QUGASJGR/201.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Serial HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/311.m3u8
+http://myott.top/stream/D56QUGASJGR/311.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Комедийное HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/74.m3u8
+http://myott.top/stream/D56QUGASJGR/74.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Amedia Premium HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/151.m3u8
+http://myott.top/stream/D56QUGASJGR/151.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Amedia 1 HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/117.m3u8
+http://myott.top/stream/D56QUGASJGR/117.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Amedia Hit HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/162.m3u8
+http://myott.top/stream/D56QUGASJGR/162.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русский роман
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/266.m3u8
+http://myott.top/stream/D56QUGASJGR/266.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русский иллюзион
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/122.m3u8
+http://myott.top/stream/D56QUGASJGR/122.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русский детектив
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/204.m3u8
+http://myott.top/stream/D56QUGASJGR/204.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русский бестселлер
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/208.m3u8
+http://myott.top/stream/D56QUGASJGR/208.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русская комедия
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/68.m3u8
+http://myott.top/stream/D56QUGASJGR/68.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fox Россия HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/182.m3u8
+http://myott.top/stream/D56QUGASJGR/182.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fox Life Россия HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/129.m3u8
+http://myott.top/stream/D56QUGASJGR/129.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Sony Turbo
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/263.m3u8
+http://myott.top/stream/D56QUGASJGR/263.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Sony Channel HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/69.m3u8
+http://myott.top/stream/D56QUGASJGR/69.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Sony Sci-Fi
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/180.m3u8
+http://myott.top/stream/D56QUGASJGR/180.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",КиноТВ HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/221.m3u8
+http://myott.top/stream/D56QUGASJGR/221.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинопоказ HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/64.m3u8
+http://myott.top/stream/D56QUGASJGR/64.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Cinema
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/62.m3u8
+http://myott.top/stream/D56QUGASJGR/62.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",НСТ
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/207.m3u8
+http://myott.top/stream/D56QUGASJGR/207.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ТВ XXI
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/152.m3u8
+http://myott.top/stream/D56QUGASJGR/152.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Paramount Comedy HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/196.m3u8
+http://myott.top/stream/D56QUGASJGR/196.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Paramount Сhannel HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/219.m3u8
+http://myott.top/stream/D56QUGASJGR/219.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Мужское кино HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/107.m3u8
+http://myott.top/stream/D56QUGASJGR/107.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Дом Кино
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/236.m3u8
+http://myott.top/stream/D56QUGASJGR/236.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Дом Кино Премиум HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/108.m3u8
+http://myott.top/stream/D56QUGASJGR/108.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Hollywood HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/268.m3u8
+http://myott.top/stream/D56QUGASJGR/268.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",НТВ Сериал
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/301.m3u8
-#EXTINF:-1 group-title="Кино",Spike
-#EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/304.m3u8
+http://myott.top/stream/D56QUGASJGR/301.m3u8
 #EXTINF:-1 group-title="Кино",FilmBox Baltic
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/307.m3u8
+http://myott.top/stream/D56QUGASJGR/307.m3u8
 #EXTINF:-1 group-title="Кино",FilmBox Arthouse
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/308.m3u8
+http://myott.top/stream/D56QUGASJGR/308.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Zee TV
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/309.m3u8
+http://myott.top/stream/D56QUGASJGR/309.m3u8
 #EXTINF:-1 group-title="Кино",Star Cinema HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/310.m3u8
+http://myott.top/stream/D56QUGASJGR/310.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Star Family HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/226.m3u8
+http://myott.top/stream/D56QUGASJGR/226.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Шокирующее HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/75.m3u8
+http://myott.top/stream/D56QUGASJGR/75.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киноужас HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/278.m3u8
+http://myott.top/stream/D56QUGASJGR/278.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Победа HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/312.m3u8
-#EXTINF:-1 group-title="Кино",Enter-фильм
+http://myott.top/stream/D56QUGASJGR/312.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Enter-фильм HD
 #EXTGRP:Кино
-http://myott.top/stream/DHMU2PPUTSS/322.m3u8
+http://myott.top/stream/D56QUGASJGR/322.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan
+#EXTGRP:Кино
+http://myott.top/stream/D56QUGASJGR/349.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Top
+#EXTGRP:Кино
+http://myott.top/stream/D56QUGASJGR/350.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Action
+#EXTGRP:Кино
+http://myott.top/stream/D56QUGASJGR/351.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Thriller
+#EXTGRP:Кино
+http://myott.top/stream/D56QUGASJGR/352.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Мелодрама
+#EXTGRP:Кино
+http://myott.top/stream/D56QUGASJGR/353.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Marvel
+#EXTGRP:Кино
+http://myott.top/stream/D56QUGASJGR/354.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Ужасы
+#EXTGRP:Кино
+http://myott.top/stream/D56QUGASJGR/355.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Comedy
+#EXTGRP:Кино
+http://myott.top/stream/D56QUGASJGR/356.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan VHS
+#EXTGRP:Кино
+http://myott.top/stream/D56QUGASJGR/357.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan РуКино
+#EXTGRP:Кино
+http://myott.top/stream/D56QUGASJGR/358.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Сваты
+#EXTGRP:Кино
+http://myott.top/stream/D56QUGASJGR/359.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Игра HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/188.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport HD
+http://myott.top/stream/D56QUGASJGR/188.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport 1 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/176.m3u8
+http://myott.top/stream/D56QUGASJGR/176.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport 2 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/192.m3u8
+http://myott.top/stream/D56QUGASJGR/192.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! СТРАНА
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/143.m3u8
+http://myott.top/stream/D56QUGASJGR/143.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Арена HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/163.m3u8
+http://myott.top/stream/D56QUGASJGR/163.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч ТВ HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/169.m3u8
+http://myott.top/stream/D56QUGASJGR/169.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Футбол 1 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/130.m3u8
+http://myott.top/stream/D56QUGASJGR/130.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Футбол 2 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/142.m3u8
+http://myott.top/stream/D56QUGASJGR/142.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Футбол 3 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/185.m3u8
+http://myott.top/stream/D56QUGASJGR/185.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч Премьер HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/193.m3u8
+http://myott.top/stream/D56QUGASJGR/193.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Интерспорт 1 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/159.m3u8
+http://myott.top/stream/D56QUGASJGR/159.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Интерспорт 2 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/191.m3u8
+http://myott.top/stream/D56QUGASJGR/191.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Футбол 3 HD Украина
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/297.m3u8
+http://myott.top/stream/D56QUGASJGR/297.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Беларусь 5 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/33.m3u8
+http://myott.top/stream/D56QUGASJGR/33.m3u8
 #EXTINF:-1 group-title="Спорт",Qazsport
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/72.m3u8
+http://myott.top/stream/D56QUGASJGR/72.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Viasat Sport Россия
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/102.m3u8
+http://myott.top/stream/D56QUGASJGR/102.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Extreme Sports
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/148.m3u8
+http://myott.top/stream/D56QUGASJGR/148.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Setanta Sport 1 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/234.m3u8
+http://myott.top/stream/D56QUGASJGR/234.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Setanta Sport 2 HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/235.m3u8
+http://myott.top/stream/D56QUGASJGR/235.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Боец
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/112.m3u8
+http://myott.top/stream/D56QUGASJGR/112.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Бокс ТВ
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/154.m3u8
+http://myott.top/stream/D56QUGASJGR/154.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",КХЛ ТВ
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/166.m3u8
+http://myott.top/stream/D56QUGASJGR/166.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",КХЛ HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/178.m3u8
+http://myott.top/stream/D56QUGASJGR/178.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Русский экстрим HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/285.m3u8
+http://myott.top/stream/D56QUGASJGR/285.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Моторспорт ТВ
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/300.m3u8
+http://myott.top/stream/D56QUGASJGR/300.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Setanta Sports HD UA
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/313.m3u8
+http://myott.top/stream/D56QUGASJGR/313.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",UFC ТВ HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/279.m3u8
+http://myott.top/stream/D56QUGASJGR/279.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",X Sport HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/332.m3u8
+http://myott.top/stream/D56QUGASJGR/332.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Viasat Sport HD
 #EXTGRP:Спорт
-http://myott.top/stream/DHMU2PPUTSS/333.m3u8
+http://myott.top/stream/D56QUGASJGR/333.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cartoons 90
+#EXTGRP:Детские
+http://myott.top/stream/D56QUGASJGR/346.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cartoons Short
+#EXTGRP:Детские
+http://myott.top/stream/D56QUGASJGR/347.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cartoons Big
+#EXTGRP:Детские
+http://myott.top/stream/D56QUGASJGR/348.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Уникум
 #EXTGRP:Детские
-http://myott.top/stream/DHMU2PPUTSS/195.m3u8
+http://myott.top/stream/D56QUGASJGR/195.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Nickelodeon HD
 #EXTGRP:Детские
-http://myott.top/stream/DHMU2PPUTSS/127.m3u8
+http://myott.top/stream/D56QUGASJGR/127.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Канал Disney
 #EXTGRP:Детские
-http://myott.top/stream/DHMU2PPUTSS/118.m3u8
+http://myott.top/stream/D56QUGASJGR/118.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Карусель
 #EXTGRP:Детские
-http://myott.top/stream/DHMU2PPUTSS/120.m3u8
+http://myott.top/stream/D56QUGASJGR/120.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",TiJi Россия
 #EXTGRP:Детские
-http://myott.top/stream/DHMU2PPUTSS/111.m3u8
+http://myott.top/stream/D56QUGASJGR/111.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Мульт HD
 #EXTGRP:Детские
-http://myott.top/stream/DHMU2PPUTSS/232.m3u8
+http://myott.top/stream/D56QUGASJGR/232.m3u8
 #EXTINF:-1 group-title="Детские",Мульт и музыка
 #EXTGRP:Детские
-http://myott.top/stream/DHMU2PPUTSS/82.m3u8
+http://myott.top/stream/D56QUGASJGR/82.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",JimJam
 #EXTGRP:Детские
-http://myott.top/stream/DHMU2PPUTSS/150.m3u8
+http://myott.top/stream/D56QUGASJGR/150.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cartoon network
 #EXTGRP:Детские
-http://myott.top/stream/DHMU2PPUTSS/144.m3u8
+http://myott.top/stream/D56QUGASJGR/144.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Nick Jr
 #EXTGRP:Детские
-http://myott.top/stream/DHMU2PPUTSS/220.m3u8
+http://myott.top/stream/D56QUGASJGR/220.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",В гостях у сказки
 #EXTGRP:Детские
-http://myott.top/stream/DHMU2PPUTSS/93.m3u8
+http://myott.top/stream/D56QUGASJGR/93.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Канал О!
 #EXTGRP:Детские
-http://myott.top/stream/DHMU2PPUTSS/60.m3u8
+http://myott.top/stream/D56QUGASJGR/60.m3u8
 #EXTINF:-1 group-title="Детские",Gulli Girl
 #EXTGRP:Детские
-http://myott.top/stream/DHMU2PPUTSS/305.m3u8
+http://myott.top/stream/D56QUGASJGR/305.m3u8
 #EXTINF:-1 group-title="Детские",Ani
 #EXTGRP:Детские
-http://myott.top/stream/DHMU2PPUTSS/306.m3u8
-#EXTINF:-1 group-title="Детские",Пиксель
+http://myott.top/stream/D56QUGASJGR/306.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Пиксель HD
 #EXTGRP:Детские
-http://myott.top/stream/DHMU2PPUTSS/323.m3u8
+http://myott.top/stream/D56QUGASJGR/323.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray iConcerts HD
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/267.m3u8
+http://myott.top/stream/D56QUGASJGR/267.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",М1 HD
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/218.m3u8
+http://myott.top/stream/D56QUGASJGR/218.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",М2 HD
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/330.m3u8
+http://myott.top/stream/D56QUGASJGR/330.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Deluxe HD
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/92.m3u8
+http://myott.top/stream/D56QUGASJGR/92.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Classic
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/272.m3u8
+http://myott.top/stream/D56QUGASJGR/272.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/318.m3u8
+http://myott.top/stream/D56QUGASJGR/318.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Руский Хит
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/320.m3u8
+http://myott.top/stream/D56QUGASJGR/320.m3u8
 #EXTINF:-1 group-title="Музыкальные",Music Box Russian
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/319.m3u8
+http://myott.top/stream/D56QUGASJGR/319.m3u8
 #EXTINF:-1 group-title="Музыкальные",Europa Plus TV
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/184.m3u8
+http://myott.top/stream/D56QUGASJGR/184.m3u8
 #EXTINF:-1 group-title="Музыкальные",Inrating HD
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/147.m3u8
+http://myott.top/stream/D56QUGASJGR/147.m3u8
 #EXTINF:-1 group-title="Музыкальные",MTV Россия
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/89.m3u8
+http://myott.top/stream/D56QUGASJGR/89.m3u8
 #EXTINF:-1 group-title="Музыкальные",MTV Rocks
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/88.m3u8
+http://myott.top/stream/D56QUGASJGR/88.m3u8
 #EXTINF:-1 group-title="Музыкальные",Музыка Первого
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/153.m3u8
+http://myott.top/stream/D56QUGASJGR/153.m3u8
 #EXTINF:-1 group-title="Музыкальные",VH1 Europe
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/165.m3u8
+http://myott.top/stream/D56QUGASJGR/165.m3u8
 #EXTINF:-1 group-title="Музыкальные",VH1 Classic
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/87.m3u8
+http://myott.top/stream/D56QUGASJGR/87.m3u8
 #EXTINF:-1 group-title="Музыкальные",Муз-ТВ
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/86.m3u8
+http://myott.top/stream/D56QUGASJGR/86.m3u8
 #EXTINF:-1 group-title="Музыкальные",RU.TV
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/109.m3u8
+http://myott.top/stream/D56QUGASJGR/109.m3u8
 #EXTINF:-1 group-title="Музыкальные",Mezzo Live HD
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/276.m3u8
+http://myott.top/stream/D56QUGASJGR/276.m3u8
 #EXTINF:-1 group-title="Музыкальные",Шансон ТВ
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/95.m3u8
+http://myott.top/stream/D56QUGASJGR/95.m3u8
 #EXTINF:-1 group-title="Музыкальные",Ля-минор ТВ
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/303.m3u8
+http://myott.top/stream/D56QUGASJGR/303.m3u8
 #EXTINF:-1 group-title="Музыкальные",THT MUSIC
 #EXTGRP:Музыкальные
-http://myott.top/stream/DHMU2PPUTSS/317.m3u8
+http://myott.top/stream/D56QUGASJGR/317.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",РБК ТВ
 #EXTGRP:Новостные
-http://myott.top/stream/DHMU2PPUTSS/105.m3u8
+http://myott.top/stream/D56QUGASJGR/105.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Россия 24
 #EXTGRP:Новостные
-http://myott.top/stream/DHMU2PPUTSS/139.m3u8
+http://myott.top/stream/D56QUGASJGR/139.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",EuroNews
 #EXTGRP:Новостные
-http://myott.top/stream/DHMU2PPUTSS/189.m3u8
+http://myott.top/stream/D56QUGASJGR/189.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",BBC World News Europe
 #EXTGRP:Новостные
-http://myott.top/stream/DHMU2PPUTSS/85.m3u8
+http://myott.top/stream/D56QUGASJGR/85.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",CNN
 #EXTGRP:Новостные
-http://myott.top/stream/DHMU2PPUTSS/84.m3u8
+http://myott.top/stream/D56QUGASJGR/84.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Москва-24
 #EXTGRP:Новостные
-http://myott.top/stream/DHMU2PPUTSS/67.m3u8
+http://myott.top/stream/D56QUGASJGR/67.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Украина 24
 #EXTGRP:Новостные
-http://myott.top/stream/DHMU2PPUTSS/271.m3u8
+http://myott.top/stream/D56QUGASJGR/271.m3u8
 #EXTINF:-1 group-title="Новостные",Shant News
 #EXTGRP:Новостные
-http://myott.top/stream/DHMU2PPUTSS/302.m3u8
+http://myott.top/stream/D56QUGASJGR/302.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Дождь HD
 #EXTGRP:Новостные
-http://myott.top/stream/DHMU2PPUTSS/210.m3u8
+http://myott.top/stream/D56QUGASJGR/210.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Настоящее время
 #EXTGRP:Новостные
-http://myott.top/stream/DHMU2PPUTSS/331.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV РБК-ТВ
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/106/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Пятый канал
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/112/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Россия-24
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/507/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Москва 24
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/523/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV BBC World News
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/545/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Мир 24
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/712/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV НТВ (+2)
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/713/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Первый канал (+2)
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/714/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Санкт-Петербург
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/715/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Пятый Канал (+2)
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/746/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV FRANCE 24 En
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/947/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CNBC
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/962/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Euronews
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/969/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Deutsche Welle DE
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1021/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV 360°
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/825/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Euronews Россия
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/828/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CGTN
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/830/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CGTN русский
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/831/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV RT News
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/840/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CNN International Europe
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/842/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Известия
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2008/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Дождь
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2030/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Центральное телевидение
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2064/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Вместе-РФ
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2073/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV RTVi
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2086/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Про Бизнес
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5043/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky News UK
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2475/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Россия-24 +2
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6013/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ABC News AU
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6120/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Band News BR
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6161/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sky News Extra 2 AU
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6114/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sky News Extra 3 AU
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6115/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sky News Extra 3 AU
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6117/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Первый HD Orig
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7253/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV POLSAT NEWS 2 HD PL
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7297/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV FOX News Extra AU
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6116/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV 360° Новости HD
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7254/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV РБК 50
-#EXTGRP:новости
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10029/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV 1000 Русское кино
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/101/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Ностальгия
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/102/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV СТС Love
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/103/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sony Sci-Fi
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/110/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV КИНОМИКС
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/509/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV КИНОСЕМЬЯ
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/125/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV РОДНОЕ КИНО
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/126/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV 1000 Action
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/131/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Кинохит
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/516/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Amedia 2
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/510/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Наше новое кино
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/517/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV XXI
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/525/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV КИНОКОМЕДИЯ
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/145/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ИНДИЙСКОЕ КИНО
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/146/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV КИНОСЕРИЯ
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/148/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Русский Иллюзион
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/547/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Еврокино
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/549/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Fox Russia
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/550/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Fox Life
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/553/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Дом Кино
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/154/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Amedia 1
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/554/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Amedia Premium HD (SD)
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/555/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV AMEDIA HIT
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/556/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV 1000
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/132/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV МУЖСКОЕ КИНО
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/164/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Hollywood
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/557/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sony Entertainment Television
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/559/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV 2x2
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/702/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sony Turbo
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/708/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Русский бестселлер
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/905/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Русский роман
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/906/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Русский детектив
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/907/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Любимое Кино
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/722/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV КИНОСВИДАНИЕ
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/728/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV КИНО ТВ
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/732/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Русская Комедия
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/733/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV FAN
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/734/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV НТВ‑ХИТ
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/741/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV НТВ Сериал
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/744/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV НСТ
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/726/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ZEE TV
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1001/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Filmbox Arthouse
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1071/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Дорама
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1066/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV1000 World Kino
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1065/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Мир Сериала
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/856/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Ретро
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2018/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Иллюзион +
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2038/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Феникс плюс Кино
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2039/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Paramount Channel
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2055/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sony Channel HD
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2062/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Киносат
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2121/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Cinéma
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5051/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky Select UK
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2474/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky Cinema Action HD DE
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2482/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky Cinema Comedy DE
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2483/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky Cinema HD DE
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2484/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Disney Cinemagic HD DE
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2485/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky Atlantic HD DE
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2488/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky Cinema Family HD DE
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2489/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky Cinema Nostalgie DE
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2490/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky Krimi DE
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2491/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky Cinema Comic-Helden DE
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2493/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky Arts HD DE
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2494/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Spiegel Geschichte HD DE
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2566/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky Hits HD DE
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2486/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Зал 1
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2568/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Зал 2
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2569/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Зал 3
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2570/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Зал 4
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2571/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Зал 5
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2572/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Зал 6
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2573/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Зал 7
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2574/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Зал 8
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2575/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Зал 9
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2576/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Зал 10
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2577/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Зал 11
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2578/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Зал 12
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2579/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CINE+ Frisson FR
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6003/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Canal+ Décalé FR
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6005/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Canal+ Family FR
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6006/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Canal+ Series FR
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6008/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CINEMAX ACTION MAX EAST US
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6156/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CINEMAX MOVIEMAX US
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6155/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CINEMAX OUTER MAX US
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6154/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CINEMAXX MORE MAXX US
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6152/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Drama QA
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6137/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Drama QA
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6137/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV FOX COMEDY PL
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6107/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Мосфильм. Золотая коллекция
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6392/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Trash HD
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6396/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Movistar Accion ES
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7065/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Movistar Comedia ES
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7066/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Movistar Drama ES
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7067/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Премиальное HD
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7222/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV FLUX HD
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7227/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sky Cinema Thriller HD DE
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7229/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV RTL Passion HD DE
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7230/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sky Romance TV FHD DE
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7231/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Spike HD
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7243/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Киносемья HD
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7244/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Киносвидание HD
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7245/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Страшное HD
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7247/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Кинокомедия HD
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7248/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Киномикс HD
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7249/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Кинохит HD
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7250/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ТНТ HD Orig
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7251/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Киноджем 1 HD
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7260/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Киноджем 2 HD
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7261/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TVP Seriale PL
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7281/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Kino Polska PL
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7291/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Мосфильм. Золотая коллекция HD
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7347/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Trash HD
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7359/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV VF Adventure
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10000/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV VF Anime
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10001/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV VF Cartoon
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10002/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV VF Comedy
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10003/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV VF Family
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10004/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV VF Fantasy
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10005/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV VF Melodrama
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10006/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV VF Mystic
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10007/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV VF Ужасы
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10008/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV VF VHS
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10009/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV VF Ужасы VHS
-#EXTGRP:кино
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10010/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Europa Plus TV
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/115/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV МУЗ-ТВ
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/116/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV BRIDGE TV Русский Хит
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/120/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Bridge TV
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/122/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV MTV
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/142/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV MTV Hits
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/153/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Музыка
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/155/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Mezzo Live HD
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/208/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV VH1 European
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/536/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Club MTV
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/558/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Mezzo
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/707/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ТНТ MUSIC
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/710/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV BRIDGE TV HITS
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/711/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV MTV 80s
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/724/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Vostok TV
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1054/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV MTV 90s
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1038/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV MCM Top Russia
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/836/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV RU.TV
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/838/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Шансон ТВ
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/859/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Ля-минор ТВ
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2043/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Russian Music Box
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2048/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Курай TV
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2061/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV о2тв
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2068/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV МузСоюз
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2137/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Жар Птица
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2142/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV AIVA TV
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2156/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Муз ТВ +4
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6036/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV SONG TV HD RU
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6394/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Mafi2a TV
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7223/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Ritsa TV
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7224/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV MTV POLSKA PL
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7294/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Bridge TV Шлягер
-#EXTGRP:музыка
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10038/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV История
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/111/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Моя Планета
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/117/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Outdoor Channel
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/119/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Совершенно секретно
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/121/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Россия-Культура
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/505/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Доктор
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/512/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Авто 24
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/538/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Nat Geo Wild
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/133/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Discovery Science
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/136/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Animal Planet
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/137/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Discovery Channel
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/140/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Авто Плюс
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/151/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Кухня ТВ
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/152/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Время
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/552/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Домашние Животные
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/158/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Точка отрыва
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/159/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Надежда
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2153/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Viasat Nature
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/161/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Viasat History
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/162/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Viasat Explore
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/163/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Travel Channel
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/130/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Первый образовательный
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/701/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV OCEAN-TV
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/703/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Бобёр
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/725/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Зоопарк
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/731/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV E
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/736/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Морской
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/742/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Усадьба
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/532/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV English Club TV
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/993/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV H2
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1052/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Travel TV
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1044/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Classical Harmony
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1037/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Travel Channel EN
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1070/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV History Russia
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/837/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV RTG TV
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/841/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Дикий
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/847/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Spike Russia
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/849/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV travel+adventure
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/850/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Поехали!
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/135/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Galaxy
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2010/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Охота и рыбалка
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2019/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ЕГЭ ТВ
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2020/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV HD Media
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2037/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV 365 дней ТВ
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2040/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Телепутешествия
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2051/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Здоровье
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2054/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ТАЙНА
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2059/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Синергия ТВ
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2067/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Нано ТВ
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2081/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Investigation Discovery
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2085/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Оружие
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2087/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Зоо ТВ
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2100/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Живая Планета
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2101/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Наша тема
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2118/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Пёс и Ко
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2123/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Наука HD
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2155/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sea TV
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5036/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Домашние животные
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5046/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Е
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5048/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN DTX
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6143/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ЕГЭ ТВ
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6301/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Museum HD
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7246/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV NatGeo HD DE
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7255/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Nat Geo Wild HD DE
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7256/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Animal Planet HD DE
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7257/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Морской HD
-#EXTGRP:познавательные
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7349/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV МАТЧ! СТРАНА
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/107/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Матч! Планета
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/123/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Матч! Футбол 1
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/124/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV KHL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/519/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Матч! Футбол 3
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/522/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Матч! Арена
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/528/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Матч! Игра
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/529/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Матч! Футбол 2
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/530/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV МАТЧ ПРЕМЬЕР
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/531/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Матч ТВ
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/535/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Eurosport 1
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/141/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Extreme Sports
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/144/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Матч! Боец
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/150/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Viasat Sport
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/160/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV M-1 Global TV
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/843/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Бокс ТВ
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/870/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Моторспорт ТВ
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2145/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV СТАРТ
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2154/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Телеканал Футбол
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5050/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky Sport News HD DE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2477/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky Sport 1 HD DE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2478/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky Sport 2 HD DE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2479/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky Sport Bundesliga 1 HD DE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2480/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV AFN Sports 2 US
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2487/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky Sport Austria 1 HD DE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2492/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Bein Sports 1 HD FR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2499/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Bein Sports 2 HD FR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2500/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Bein Sports 3 HD FR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2501/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Canal+ Sport HD FR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2502/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport 1 HD DE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2503/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV BT Sport 1 UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2505/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV BT Sport 2 UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2506/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Star Sports 2 IN
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2507/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Star Sports 1 IN
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2508/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV YAS Sports AE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2511/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ONTime Sports EG
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2512/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV NOVA Sport BG
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2514/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV C More Sport HD SE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2515/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CANAL+ Sport 2 HD PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2516/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Eleven Sports 2 HD PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2517/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Eleven Sports 1 HD PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2518/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV nSport+ PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2519/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TVP Sport HD PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2520/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sportklub HD PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2521/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV DIGI Sport 2 HD RO
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2522/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV DIGI Sport 1 HD RO
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2523/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV DIGI Sport 3 HD RO
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2524/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV SPORT TV 1 HD PT
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2525/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV SPORT TV 2 HD PT
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2526/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV SPORT TV 3 HD PT
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2527/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV SPORT TV 4 PT
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2528/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV SPORT TV 5 PT
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2529/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV SPORT TV + PT
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2530/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Eleven Sports 1 HD PT
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2531/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Eleven Sports 2 HD PT
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2532/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Eleven Sports 3 PT
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2533/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Eleven Sports 4 PT
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2534/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Eleven Sports 5 PT
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2535/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Eleven Sports 6 PT
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2536/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV 2 SPORT HD DK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2537/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV DIGI Sport 4 HD RO
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2538/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Auto Motor Sport RO
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2539/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV 2 Sport 2 HD NO
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2540/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV C More Sport 1 HD FI
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2541/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV BEIN SPORTS HD ES
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2543/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV RMC Sport 1 HD FR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2545/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV RMC Sport 2 HD FR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2546/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV RMC Sport 3 HD FR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2547/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport 1 LT
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2548/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport 1 HD LT
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2549/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Arena Sport 1 SK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2550/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ČT sport HD CZ
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2551/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV FOX Sports 1 HD NL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2552/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV FOX Sports 2 HD NL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2553/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV FOX Sports 4 HD NL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2554/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Nova Sport 1 HD CZ
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2555/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Nova Sport 2 HD CZ
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2556/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport 2 HD CZ
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2557/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport 5 CZ
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2558/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Ziggo Sport Golf NL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2559/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Ziggo Sport Select HD NL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2560/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Ziggo Sport Voetbal NL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2561/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Infosport+ HD FR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2544/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Матч +2
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6012/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Матч +4
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6023/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Матч +8
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6052/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Band Sports BR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6158/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Sports 1 HD QA
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6123/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Sports 3 HD QA
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6124/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Sports 4 HD QA
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6125/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Sports 5 HD QA
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6126/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Sports 6 HD QA
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6127/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Sports 7 HD QA
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6128/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Sports 8 HD QA
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6129/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Sports 9 HD QA
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6130/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Sports 10 HD QA
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6131/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Sports 11 HD QA
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6132/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Sports 12 HD QA
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6133/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CANAL+ SPORT 2 PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6099/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky Sport Bundesliga 9 DE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6097/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sky Sport Austria 2 DE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6113/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sky Racing AU
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6122/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Motorvision TV DE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6112/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Golf TV FR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6066/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Fox Sports News AU
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6121/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Fox Sports News AU
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6119/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV UFC FIGHT PASS
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6554/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV PREMIER SPORTS UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6555/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV EUROSPORT 2 HD UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6556/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ELEVEN SPORTS 3 UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6558/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ELEVEN SPORTS 1 UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6560/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV EIR SPORT 2 UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6561/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV EIR SPORT 1 UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6562/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV BT SPORT ESPN FHD UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6563/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV BT SPORT 3 FHD UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6564/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV BT SPORT 2 FHD UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6565/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV BT SPORT 1 FHD UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6566/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Eleven Sports 3 PT
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7062/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Eleven Sports 4 PT
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7063/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Eleven Sports 6 PT
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7064/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sky Sport Bundesliga 2 HD DE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7234/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sky Sport Bundesliga 3 HD DE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7235/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sky Sport Bundesliga 4 HD DE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7236/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sky Sport Bundesliga 3 HD DE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7237/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sky Sport Bundesliga 6 HD DE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7238/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sky Sport Bundesliga 7 HD DE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7239/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sky Sport Bundesliga 8 HD DE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7240/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sky Sport Bundesliga 9 HD DE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7241/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sky Sport Bundesliga Austria HD DE
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7242/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Arena Sport 1 FHD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7263/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Arena Sport 2 FHD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7264/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Arena Sport 3 FHD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7265/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Arena Sport 4 FHD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7266/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Arena Sport 5 FHD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7267/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Arena Sport 6 FHD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7268/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sport Klub 1 HD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7269/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sport Klub 2 HD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7270/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sport Klub 3 HD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7271/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sport Klub 4 HD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7272/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sport Klub 5 HD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7273/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sport Klub 6 HD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7274/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sport Klub 7 HD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7275/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sport Klub 8 HD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7276/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sport Klub Golf HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7277/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sport Klub HD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7278/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TVP Sport FHD PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7280/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Polsat Games PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7295/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Polsat Sport FHD PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7296/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV POLSAT SPORT NEWS HD PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7303/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV POLSAT SPORT PREMIUM 1 PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7304/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV POLSAT SPORT PREMIUM 2 PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7305/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV POLSAT SPORT PREMIUM 3 PPV PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7306/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV POLSAT SPORT PREMIUM 4 PPV PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7307/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV POLSAT SPORT PREMIUM 5 PPV PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7308/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV POLSAT SPORT PREMIUM 6 PPV PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7309/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV POLSAT SPORT EXTRA HD PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7310/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV POLSAT SPORT FIGHT HD PL
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7311/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV FOX SPORTS 1 US
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7322/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV FOX SPORTS 2 US
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7323/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CBS SPORTS NETWORK US
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7324/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV NBC SPORTS NETWORK US
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7327/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV NHL NETWORK US
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7328/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Arena Sport 1 HD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7329/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Arena Sport 2 HD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7330/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Arena Sport 3 HD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7331/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Arena Sport 4 HD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7332/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Arena Sport 5 HD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7333/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Arena Sport 6 HD HR
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7334/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SKY SPORTS PREMIER LEAGUE UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7335/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SKY SPORTS FOOTBALL UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7336/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SKY SPORTS MAIN EVENT UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7337/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SKY SPORTS ARENA UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7338/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SKY SPORTS MIX UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7339/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SKY SPORTS NFL UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7340/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SKY SPORTS RACING UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7341/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SKY SPORTS F1 UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7342/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SKY SPORTS CRICKET UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7343/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SKY SPORTS GOLF UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7344/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sky Sports Action FHD UK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7345/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TV 2 SPORT HD DK
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7355/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Хоккей 1
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7360/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Хоккей 2
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7361/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Хоккей 3
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7362/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Хоккей 4
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7363/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Хоккей 5
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7364/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Мир Баскетбола
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10033/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Сетанта Спорт + HD UA
-#EXTGRP:спорт
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10040/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Первый HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/204/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV VIP Premiere
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/202/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV VIP Comedy
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/200/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV VIP Megahit
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/201/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Viasat Nature/History HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/203/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Россия HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/205/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Матч! Футбол 3 HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/206/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Матч! Арена HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/207/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Hollywood HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/209/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV RTG HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/210/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Матч! Футбол 2 HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/211/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Матч! HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/212/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV НТВ HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/213/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Конный Мир HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/214/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Телеканал КХЛ HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/215/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Nat Geo Wild HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/216/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Animal Planet HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/218/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Fox HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/219/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV МАТЧ ПРЕМЬЕР HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/220/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV MTV Live HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/221/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Матч! Футбол 1 HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/222/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Nickelodeon HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/223/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV КИНОПРЕМЬЕРА HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/224/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Матч! Игра HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/225/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV HD Life
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/226/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Discovery Channel HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/227/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Eurosport 1 HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/228/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Amedia Premium HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/229/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV National Geographic HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/230/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV History HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/231/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TLC HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/232/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Travel Channel HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/233/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Eurosport 2 North-East HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/234/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Остросюжетное HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/904/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Дом Кино Премиум HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/911/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Комедийное HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/912/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Душевное кино HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/914/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Наше крутое HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/915/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Охотник и рыболов HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/917/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ЕДА Премиум
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/918/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV BRIDGE HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/236/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ТНТ HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/237/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Bollywood HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/239/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Теледом HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/954/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV 4ever Music
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/970/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Настоящее время
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/986/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Travel HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1043/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV XSPORT HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/996/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV FAST&FUN BOX HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1018/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Epic Drama
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1048/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Эврика HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/908/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Приключения HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/920/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV DocuBox HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/968/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Setanta Sports 2
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/270/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Setanta Sports HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/271/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Setanta Sports Ukraine HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/272/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV UFC ТВ
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2000/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV СТС Kids HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2001/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Дикая охота HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2004/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Дикая рыбалка HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2005/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV DTX HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2006/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Viasat Sport HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2007/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Большая Азия HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2009/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Рен ТВ HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2024/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV C-Music HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2028/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV H2 HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2033/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Fashion One HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2044/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Fashion TV HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2045/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV A2 HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2046/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Киноужас HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2056/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV 360° HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2065/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Живая природа HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2074/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Русский роман HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2076/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Russian Extreme HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2077/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV В мире животных HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2089/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Планета HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2090/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV КИНО ТВ HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2097/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ID Xtra HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2102/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Глазами туриста HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2104/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Наше любимое HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2106/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Мир 24 HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2107/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Русский иллюзион HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2114/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV БСТ HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2115/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Загородный int HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2124/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Кухня ТВ HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2127/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Точка отрыва HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2128/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Жара HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2129/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV MTV Россия HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2130/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Дорама HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2131/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Нано ТВ HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2135/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV о2тв HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2141/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Моторспорт ТВ HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2146/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Диалоги о рыбалке HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2394/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Clubbing TV HD RU
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2395/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Fuel TV HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2396/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Setanta Qazaqstan HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2399/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Губерния 33 HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2400/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Футбол 3 HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/290/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Jurnal TV HD MD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5008/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Пятница! HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5031/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ТВ3 HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5033/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Е HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5035/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Арсенал HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5044/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Galaxy HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5045/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Gametoon HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5049/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Победа HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5052/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Романтичное HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5053/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV День Победы HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5054/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Paramount Channel HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/5063/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Про Любовь HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2430/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Сочи HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2433/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Наш Кинопоказ HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2434/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Блокбастер HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2436/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Хит HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2438/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Кинопоказ HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2439/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Наше Мужское HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2440/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Камеди HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2441/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV AIVA HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2442/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV VIP Serial HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2443/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Paramount Comedy HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6000/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Discovery Science HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6001/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Viasat History HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6002/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Amedia Hit HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6010/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ProSieben HD DE
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6057/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ProSieben Maxx HD DE
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6058/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ZDF HD DE
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6059/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV AXN HD BR
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6162/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV BAND SP HD BR
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6159/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV BAND SPORTS HD BR
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6157/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV BAND NEWS HD BR
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6160/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Comedy Central HD DE
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6081/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Canal Discovery HD PL
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6102/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CANAL+ FAMILY HD PL
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6105/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Canal+ Film HD PL
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6101/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Movies HD2 ACTION
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6134/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Movies HD3 DRAMA
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6135/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Movies HD4 FAMILY
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6136/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Series HD 1
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6138/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN FX MOVIES HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6144/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV beIN Fox Movies HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6145/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Canal+ HD FR
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6007/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Canal+ Cinema HD FR
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6004/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CINEMAX THRILLERMAX HD US
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6153/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV E! Entertainment HD RO
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6093/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Eleven Sports 1 HD PL
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6083/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Eleven Sports 2 HD PL
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6082/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV FOX COMEDY HD PL
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6106/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV FOX HD PL
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6108/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV FRANCE 2 HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6147/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV FRANCE 3 HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6148/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV FRANCE 4 HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6149/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV FRANCE 5 HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6150/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV FRANCE O HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6151/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Kino Polska HD PL
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6088/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV LaLiga TV Bar HD ES
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6072/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Movistar Cine Doc & Roll HD ES
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6077/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Movistar Deportes 1 HD ES
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6070/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Movistar F1 HD ES
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6071/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Movistar Estrenos HD ES
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6078/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Movistar Golf HD ES
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6075/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Movistar LaLiga HD ES
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6073/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Movistar Liga Campeones HD ES
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6074/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Movistar Seriesmania HD ES
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6076/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Polsat 2 HD PL
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6084/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Polsat Cafe HD PL
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6085/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Polsat Film HD PL
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6086/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Polsat Play HD PL
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6087/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV RTL 2 HD DE
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6065/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV RTL HD DE
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6062/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV RTL Nitro HD DE
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6064/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Spiegel Geschichte HD DE
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6091/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV SUPER POLSAT HD PL
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6109/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Super RTL HD DE
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6063/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Super Tennis HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6079/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TENNIS HD US
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6096/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TNT Comedy HD DE
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6111/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TNT Film HD DE
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6089/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TNT Film HD DE
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6110/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TNT Serie HD DE
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6090/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Syfy HD DE
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6092/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Universal TV HD DE
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6094/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Viasat Sport Premium HD SK
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6069/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Kabel Eins HD DE
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6067/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Шокирующее HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6299/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV СТС HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6303/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Авто Плюс HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6369/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ТНТ4 HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6370/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Viasat Explore HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6381/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Старт HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6384/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV 1000 Action HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6386/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TV 1000 HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6387/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TV 1000 Русское кино HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6388/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Fox Life HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6389/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV HGTV HD RU
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6391/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Хоккейный HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10013/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Матч Игра HD 50
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10014/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV МАТЧ! Футбол 1 HD 50
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10015/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Матч Футбол 3 HD 50
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10016/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV МАТЧ! HD 50
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10020/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV МАТЧ Премьер HD 50
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10021/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Nat Geo Wild HD 50
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10022/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV National Geographic Channel HD 50
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10023/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ТНТ HD 50
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10024/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Еда Premium 50
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10025/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Food network HD 50
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10026/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Матч футбол 2 HD 50
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10027/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV КХЛ HD 50
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10028/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Кино премиум HD 50
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10017/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Мужское Кино HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10045/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Капитан Фантастика HD
-#EXTGRP:HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/10046/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Food Network
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1107/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Ion Television
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/901/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV NYCTV Life
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/902/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CBS New York
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/903/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Hallmark Movies & Mysteries HD
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1075/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Telemundo
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1080/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV NBC
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1081/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Disney XD
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1082/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV AMC US
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1083/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV HGTV HD
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1084/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV tru TV
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1085/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV MAVTV HD
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1074/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ABC HD
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1087/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Fox 5 WNYW
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1086/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV My9NJ
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1088/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Live Well Network
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1089/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV MOTORTREND
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1091/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV BBC America
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1092/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV WPIX-TV
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1090/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV THIRTEEN
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1093/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV WLIW21
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1094/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV NJTV
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1095/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV MeTV
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1096/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV SBN
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1097/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV WMBC Digital Television
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1098/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Univision
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1099/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV UniMÁS
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1100/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV USA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1101/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TNT
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1102/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TBS
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1103/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TLC
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1105/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV FXM en
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1106/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV A&E
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/1108/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV A&E CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6419/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CBS Buffalo CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6420/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CBC Oshawa CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6421/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CBC St. John's
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6422/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CTV Two Atlantic CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6423/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV NFL Network HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6424/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ICI RDI HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6425/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TV Ontario HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6426/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Global Toronto HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6427/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV OMNI.1 HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6428/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV City TV Toronto HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6429/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Yes TV HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6431/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CHCH HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6432/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TFO HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6433/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV OMNI.2 HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6434/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV FX HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6435/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TSC HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6436/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TCTV2 CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6437/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sportsnet ONE HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6438/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sportsnet Ontario HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6439/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CablePulse 24 HDTV CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6440/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV YTV HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6441/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CBC News Network HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6442/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV W Network HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6443/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV MuchMusicHD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6444/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TSN 4 HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6445/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TLC HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6446/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV OLN HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6447/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CMT Canada CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6448/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Showcase HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6449/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CTV Drama HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6450/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Slice HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6451/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Discovery Channel HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6452/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV History HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6453/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CTV Comedy HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6454/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Teletoon HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6455/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV HGTV HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6456/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Peachtree TV HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6457/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Turner Classic Movies HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6458/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CTV SCI-FI HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6459/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Family HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6460/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV MTV HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6461/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sportsnet 360 HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6462/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV DTour HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6463/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Food Network HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6464/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV BNN Bloomberg HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6465/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ABC Spark CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6466/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Vision TV CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6467/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CTV News Channel HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6468/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV E! Entertainment HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6469/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV FXX HDTV CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6470/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Treehouse HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6471/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CHRGD HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6472/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV NatGeo Wild HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6473/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Family Jr. HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6474/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV OWN HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6475/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Game TV CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6476/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sportsnet East HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6477/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sportsnet West HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6478/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Sportsnet Pacific HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6479/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV NFL Network HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6480/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Golf Channel HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6481/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CNBC Canada CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6482/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Headline News HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6483/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Lifetime HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6484/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV NatGeo HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6485/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV MovieTime HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6486/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV BBC Canada CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6487/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV DIY Network CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6488/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Disney Junior CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6489/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Disney Channel HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6490/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV NBA TV Canada CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6491/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TSN 2 HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6492/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TV5 HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6493/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CPAC English CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6494/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Makeful CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6495/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CTV Toronto CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6496/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CBC Toronto CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6497/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CNN CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6499/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV HLN CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6500/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CP 24 CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6501/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Treehouse TV CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6502/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Disney XD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6503/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Nickelodeon CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6504/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV NBC Buffalo CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6505/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Crime + Investigation CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6506/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ABC Buffalo CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6507/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Cartoon Network CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6508/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Turner Classic Movies CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6509/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV AMC CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6510/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TVA Montreal CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6511/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV MLB Network HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6512/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CBC Toronto HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6513/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV American Movie Classics HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6514/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ICI Radio-Canada Télé CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6515/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV WNYO Buffalo CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6516/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV WNLO Buffalo CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6517/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV PBS Buffalo CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6518/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV FOX Buffalo CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6519/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV History Television CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6520/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TSN 1 HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6521/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TSN 3 HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6522/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CPAC French CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6523/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TLC CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6524/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV HGTV Canada CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6525/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Showcase CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6526/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Peachtree CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6527/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV SSP Promotion Channel HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6528/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Aboriginal Peoples Television Network HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6529/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ICI RDI CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6530/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV TV5 CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6531/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Unis TV HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6532/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV AMItv CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6533/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CBS Buffalo HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6534/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV NBC Buffalo HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6535/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV ABC Buffalo HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6536/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV FOX Buffalo HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6537/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV CNN HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6538/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV PBS Buffalo HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6539/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV Adult Swim HD CA
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6540/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV NHL Network US
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7225/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV NBA TV HD US
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7226/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV MSG US
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7325/index.m3u8
-#EXTINF:0 tvg-rec="0",EDEM_TV MSG 2 US
-#EXTGRP:USA
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7326/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Keshet 12 IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2329/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Reshet 13 IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2330/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Israel+(9) IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2331/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Kan 11 IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2332/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Disney Jr IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2333/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TeenNick IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2334/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV National Geographic IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2336/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Nick Jr IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2337/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV hop IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2338/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Home Plus IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2339/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ONE HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2340/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport 5 HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2341/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV SPORT 2 HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2352/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport 1 HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2353/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Hot HBO HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2354/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Good Life IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2355/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV HOT cinema 4 IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2356/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV HOT cinema 1 IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2357/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Discovery HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2358/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ZOOM IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2359/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Hot Zone
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2360/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Travel Channel IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2361/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport 5+ Live HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2362/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Harutz Hadramot Haturkiyot
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2363/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Hot Luli
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2364/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Kids IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2365/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Junior IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2366/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV HOT 3
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2367/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Hop! Yaldut Israelit
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2368/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Channel 98 IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2369/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Baby IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2370/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV HOT cinema 2 IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2371/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV HOT cinema 3 IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2372/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ONE 2 HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2373/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Israel+(9) HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2374/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Ego Total IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2376/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Food Network IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2377/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Health IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2378/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Entertainment IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2379/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Kan Elady
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2380/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Mekan 33
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2381/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Viva+ IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2382/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yaldut IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2383/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV BollyShow IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2384/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Arutz Hahedabrut
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2385/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV i24 IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2386/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV VIVA IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2387/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport 3 HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2388/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport 4 HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2389/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yamtihoni IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2390/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport 5 IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2391/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yes 1 HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2351/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV YES 2 HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2350/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV YES 3 HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2349/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV YES 4 HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2348/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV YES 5 HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2347/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yes ACTION HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2346/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yes COMEDY HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2345/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yes DOCU HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2344/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yes DRAMA HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2343/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yes Israeli Cinema
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/2342/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport 3 HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7070/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport 5 Gold IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7072/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport 5 Live HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7073/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport 5 Stars HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7074/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport ONE HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7075/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport ONE 2 HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7076/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Club MTV IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7077/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yes Movies Kids IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7078/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yes TV Action IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7079/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Hot Action HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7080/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Hot Fun HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7083/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Hot Gold HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7084/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Hot Kidz IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7085/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Hot Zone HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7086/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV E! IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7088/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Foody IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7089/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yes TV Drama IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7090/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV NatGeo HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7091/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Nickelodeon IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7093/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV TeenNick IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7094/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Hero! IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7095/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yam Tichoni HD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7096/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yes Hop Child Hood IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7097/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Mikan IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7099/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV History IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7100/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yes Star IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7102/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Keshet 12 IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7104/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Channel 9 IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7106/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yes Movies Drama IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7107/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yes Movies Action IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7108/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Hot BBC Entertainment IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7109/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yes Movies Kids IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7110/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yes TV Comedy IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7111/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Travel Channel IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7112/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yes Docu FHD IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7113/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV MTV Music IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7116/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV CBS Reality IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7119/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Fashion IL IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7120/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yes Travel Channel IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7121/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Animal Planet IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7122/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Music 24 IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7129/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Lifetime IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7130/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Turkish Drama IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7131/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Hala TV IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7135/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Arutz 20
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7185/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Shopping IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7186/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Kan 11 HD (Subs)
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7187/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Reshet HD (Subs)
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7188/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Keshet HD (Subs)
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7189/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Kan Edu
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7190/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Music IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7191/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Hagiga Mizrahit HD
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7192/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ערוץ ההידברות
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7193/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV ערוץ הקבלה
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7194/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV knesset
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7195/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Disney Channel IL
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7196/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Kids Stars
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7197/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Yeladim
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7198/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Logi
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7199/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV NatGeo Wild HD
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7200/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Sport 5 plus HD
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7201/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV Eurosport 2 HD
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7203/index.m3u8
-#EXTINF:0 tvg-rec="3",EDEM_TV BigBrother
-#EXTGRP:ישראלי
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7204/index.m3u8
+http://myott.top/stream/D56QUGASJGR/331.m3u8
