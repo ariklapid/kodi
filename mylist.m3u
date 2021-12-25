@@ -1,847 +1,1429 @@
-#EXTM3U url-tvg="http://myott.top/api/epg.xml.gz"
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Первый канал HD
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/131.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Россия HD
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/137.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",НТВ HD
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/134.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",НТВ Мир
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/223.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",5 канал (Россия)
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/103.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТНТ HD
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/135.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",СТС HD
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/138.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",СТС Love
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/183.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",РЕН ТВ
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/132.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Мир HD
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/77.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Мир 24 HD
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/66.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ОТР
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/61.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Звезда
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/140.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Перец International
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/121.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТВ3 Россия
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/136.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Пятница
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/181.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",RTVi
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/91.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Суббота
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/269.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Домашний
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/227.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Культура
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/229.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",РТР Планета
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/224.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",8 канал
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/299.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Время
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/237.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Ностальгия
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/94.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Ю
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/230.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",2х2
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/187.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",World Fashion Channel
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/119.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТНТ4
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/106.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",КВН ТВ
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/222.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Сарафан
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/81.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Вопросы и ответы
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/76.m3u8
-#EXTINF:-1 group-title="Общие",Первый канал (+2)
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/99.m3u8
-#EXTINF:-1 group-title="Общие",НТВ (+2)
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/98.m3u8
-#EXTINF:-1 group-title="Общие",ТНТ(+2)
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/97.m3u8
-#EXTINF:-1 group-title="Общие",Россия 1(+2)
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/96.m3u8
-#EXTINF:-1 group-title="Общие",Первый канал HD(+4)
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/233.m3u8
-#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТВ Центр
-#EXTGRP:Общие
-http://myott.top/stream/D56QUGASJGR/190.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Украина HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/167.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ICTV HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/158.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Новый канал HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/157.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",СТБ HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/156.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Интер HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/174.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Интер+
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/345.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",1+1 HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/172.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",2+2 HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/173.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",К1 HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/270.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",К2 HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/324.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",НТН HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/326.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Zoom HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/327.m3u8
-#EXTINF:-1 group-title="Зарубежные",Квартал ТВ
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/321.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ОЦЕ HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/329.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ТЕТ
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/338.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ПлюсПлюс
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/339.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Бiгудi
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/340.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Уніан
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/341.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Iндиго HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/343.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",НЛО HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/344.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Channel 9 HD (Израиль)
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/20.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Channel 11 (Израиль)
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/293.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Channel 12 (Израиль)
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/294.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Channel 13 (Израиль)
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/295.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ОНТ HD Беларусь
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/21.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",БелРос
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/63.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Беларусь 1 HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/22.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",РТР Беларусь HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/23.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Беларусь 2 HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/24.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Беларусь 3 HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/25.m3u8
-#EXTINF:-1 group-title="Зарубежные",Abai TV
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/73.m3u8
-#EXTINF:-1 group-title="Зарубежные",Qazaqstan
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/71.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",КТК
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/26.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",7 канал (Казахстан)
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/27.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Астана ТВ
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/28.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Armenia TV
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/175.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Shant HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/37.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ATV HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/36.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Armenia 1 TV
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/38.m3u8
-#EXTINF:-1 group-title="Зарубежные",Kentron HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/39.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",LNK
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/30.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",BTV
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/35.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",TV3 LV
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/32.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",TV3 LT
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/29.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",LRT
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/31.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",LTV1
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/34.m3u8
-#EXTINF:-1 group-title="Зарубежные",Jurnal TV HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/277.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Prime1 HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/335.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Молдова 1 HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/336.m3u8
-#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",РТР Молдова HD
-#EXTGRP:Зарубежные
-http://myott.top/stream/D56QUGASJGR/337.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Discovery Россия HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/177.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Discovery Science HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/146.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",DTX HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/145.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Поехали
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/316.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",History Европа HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/113.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",H2 HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/65.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Investigation Discovery HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/205.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",TLC Россия HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/168.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Глазами Туриста HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/304.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Первый Космический HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/212.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",DocuBox
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/90.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",National Geographic HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/116.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Наука 2.0
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/125.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",24Техно
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/209.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Оружие
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/203.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Nat Geo Wild HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/149.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Animal Planet HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/114.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",В мире животных HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/241.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Бобер
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/197.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Мама
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/79.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Доктор
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/80.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Da Vinci
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/238.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Viasat Explore
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/239.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Viasat Nature/History HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/240.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Viasat History
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/101.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",История
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/228.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",365 дней ТВ
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/70.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Моя планета
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/124.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Russian Travel Guide HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/164.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Приключения HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/198.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Travel channel HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/231.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Travel+Adventure HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/206.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",HGTV
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/273.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Охота и рыбалка
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/155.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Охотник и рыболов HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/194.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Диалоги о рыбалке
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/264.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Рыбалка HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/286.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Дикая Охота HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/274.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Дикая Рыбалка HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/275.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Outdoor channel
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/211.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Живая природа HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/225.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Живая планета
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/83.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Кухня ТВ
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/179.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Еда Премиум HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/216.m3u8
-#EXTINF:-1 group-title="Познавательные",Food Network HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/298.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Авто24
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/78.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Телекафе
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/314.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Авто Плюс
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/186.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Морской
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/141.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",HDL HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/161.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Мега HD
-#EXTGRP:Познавательные
-http://myott.top/stream/D56QUGASJGR/325.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинопремьера HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/160.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Остросюжетное HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/214.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Премиальное HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/215.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Наше HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/217.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Наш Кинороман HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/213.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинокомедия
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/265.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киносемья
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/170.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киносвидание
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/171.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинохит
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/126.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киномикс HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/133.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Наше новое кино
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/128.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Родное кино
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/242.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Индийское кино
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/104.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",TV1000 East HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/110.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",TV1000 Action East HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/100.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",TV1000 Русское кино
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/123.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Premiere HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/202.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Megahit HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/200.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Comedy HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/201.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Serial HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/311.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Комедийное HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/74.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Amedia Premium HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/151.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Amedia 1 HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/117.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Amedia Hit HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/162.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русский роман
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/266.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русский иллюзион
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/122.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русский детектив
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/204.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русский бестселлер
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/208.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русская комедия
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/68.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fox Россия HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/182.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fox Life Россия HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/129.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Sony Turbo
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/263.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Sony Channel HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/69.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Sony Sci-Fi
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/180.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",КиноТВ HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/221.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинопоказ HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/64.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Cinema
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/62.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",НСТ
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/207.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ТВ XXI
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/152.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Paramount Comedy HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/196.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Paramount Сhannel HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/219.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Мужское кино HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/107.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Дом Кино
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/236.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Дом Кино Премиум HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/108.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Hollywood HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/268.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",НТВ Сериал
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/301.m3u8
-#EXTINF:-1 group-title="Кино",FilmBox Baltic
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/307.m3u8
-#EXTINF:-1 group-title="Кино",FilmBox Arthouse
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/308.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Zee TV
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/309.m3u8
-#EXTINF:-1 group-title="Кино",Star Cinema HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/310.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Star Family HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/226.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Шокирующее HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/75.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киноужас HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/278.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Победа HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/312.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Enter-фильм HD
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/322.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/349.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Top
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/350.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Action
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/351.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Thriller
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/352.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Мелодрама
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/353.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Marvel
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/354.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Ужасы
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/355.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Comedy
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/356.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan VHS
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/357.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan РуКино
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/358.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Сваты
-#EXTGRP:Кино
-http://myott.top/stream/D56QUGASJGR/359.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Игра HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/188.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport 1 HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/176.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport 2 HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/192.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! СТРАНА
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/143.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Арена HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/163.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч ТВ HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/169.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Футбол 1 HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/130.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Футбол 2 HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/142.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Футбол 3 HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/185.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч Премьер HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/193.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Интерспорт 1 HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/159.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Интерспорт 2 HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/191.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Футбол 3 HD Украина
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/297.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Беларусь 5 HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/33.m3u8
-#EXTINF:-1 group-title="Спорт",Qazsport
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/72.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Viasat Sport Россия
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/102.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Extreme Sports
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/148.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Setanta Sport 1 HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/234.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Setanta Sport 2 HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/235.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Боец
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/112.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Бокс ТВ
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/154.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",КХЛ ТВ
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/166.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",КХЛ HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/178.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Русский экстрим HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/285.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Моторспорт ТВ
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/300.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Setanta Sports HD UA
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/313.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",UFC ТВ HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/279.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",X Sport HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/332.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Viasat Sport HD
-#EXTGRP:Спорт
-http://myott.top/stream/D56QUGASJGR/333.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cartoons 90
-#EXTGRP:Детские
-http://myott.top/stream/D56QUGASJGR/346.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cartoons Short
-#EXTGRP:Детские
-http://myott.top/stream/D56QUGASJGR/347.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cartoons Big
-#EXTGRP:Детские
-http://myott.top/stream/D56QUGASJGR/348.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Уникум
-#EXTGRP:Детские
-http://myott.top/stream/D56QUGASJGR/195.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Nickelodeon HD
-#EXTGRP:Детские
-http://myott.top/stream/D56QUGASJGR/127.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Канал Disney
-#EXTGRP:Детские
-http://myott.top/stream/D56QUGASJGR/118.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Карусель
-#EXTGRP:Детские
-http://myott.top/stream/D56QUGASJGR/120.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",TiJi Россия
-#EXTGRP:Детские
-http://myott.top/stream/D56QUGASJGR/111.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Мульт HD
-#EXTGRP:Детские
-http://myott.top/stream/D56QUGASJGR/232.m3u8
-#EXTINF:-1 group-title="Детские",Мульт и музыка
-#EXTGRP:Детские
-http://myott.top/stream/D56QUGASJGR/82.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",JimJam
-#EXTGRP:Детские
-http://myott.top/stream/D56QUGASJGR/150.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cartoon network
-#EXTGRP:Детские
-http://myott.top/stream/D56QUGASJGR/144.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Nick Jr
-#EXTGRP:Детские
-http://myott.top/stream/D56QUGASJGR/220.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",В гостях у сказки
-#EXTGRP:Детские
-http://myott.top/stream/D56QUGASJGR/93.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Канал О!
-#EXTGRP:Детские
-http://myott.top/stream/D56QUGASJGR/60.m3u8
-#EXTINF:-1 group-title="Детские",Gulli Girl
-#EXTGRP:Детские
-http://myott.top/stream/D56QUGASJGR/305.m3u8
-#EXTINF:-1 group-title="Детские",Ani
-#EXTGRP:Детские
-http://myott.top/stream/D56QUGASJGR/306.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Пиксель HD
-#EXTGRP:Детские
-http://myott.top/stream/D56QUGASJGR/323.m3u8
-#EXTINF:-1 group-title="Музыкальные",Stingray iConcerts HD
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/267.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",М1 HD
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/218.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",М2 HD
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/330.m3u8
-#EXTINF:-1 group-title="Музыкальные",Bridge TV Deluxe HD
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/92.m3u8
-#EXTINF:-1 group-title="Музыкальные",Bridge TV Classic
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/272.m3u8
-#EXTINF:-1 group-title="Музыкальные",Bridge TV
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/318.m3u8
-#EXTINF:-1 group-title="Музыкальные",Bridge TV Руский Хит
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/320.m3u8
-#EXTINF:-1 group-title="Музыкальные",Music Box Russian
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/319.m3u8
-#EXTINF:-1 group-title="Музыкальные",Europa Plus TV
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/184.m3u8
-#EXTINF:-1 group-title="Музыкальные",Inrating HD
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/147.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV Россия
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/89.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV Rocks
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/88.m3u8
-#EXTINF:-1 group-title="Музыкальные",Музыка Первого
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/153.m3u8
-#EXTINF:-1 group-title="Музыкальные",VH1 Europe
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/165.m3u8
-#EXTINF:-1 group-title="Музыкальные",VH1 Classic
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/87.m3u8
-#EXTINF:-1 group-title="Музыкальные",Муз-ТВ
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/86.m3u8
-#EXTINF:-1 group-title="Музыкальные",RU.TV
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/109.m3u8
-#EXTINF:-1 group-title="Музыкальные",Mezzo Live HD
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/276.m3u8
-#EXTINF:-1 group-title="Музыкальные",Шансон ТВ
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/95.m3u8
-#EXTINF:-1 group-title="Музыкальные",Ля-минор ТВ
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/303.m3u8
-#EXTINF:-1 group-title="Музыкальные",THT MUSIC
-#EXTGRP:Музыкальные
-http://myott.top/stream/D56QUGASJGR/317.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",РБК ТВ
-#EXTGRP:Новостные
-http://myott.top/stream/D56QUGASJGR/105.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Россия 24
-#EXTGRP:Новостные
-http://myott.top/stream/D56QUGASJGR/139.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",EuroNews
-#EXTGRP:Новостные
-http://myott.top/stream/D56QUGASJGR/189.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",BBC World News Europe
-#EXTGRP:Новостные
-http://myott.top/stream/D56QUGASJGR/85.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",CNN
-#EXTGRP:Новостные
-http://myott.top/stream/D56QUGASJGR/84.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Москва-24
-#EXTGRP:Новостные
-http://myott.top/stream/D56QUGASJGR/67.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Украина 24
-#EXTGRP:Новостные
-http://myott.top/stream/D56QUGASJGR/271.m3u8
-#EXTINF:-1 group-title="Новостные",Shant News
-#EXTGRP:Новостные
-http://myott.top/stream/D56QUGASJGR/302.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Дождь HD
-#EXTGRP:Новостные
-http://myott.top/stream/D56QUGASJGR/210.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Настоящее время
-#EXTGRP:Новостные
-http://myott.top/stream/D56QUGASJGR/331.m3u8
+#EXTM3U url-tvg="http://iptv-content.webhop.net/epg.xml.gz"
+#EXTINF:0,Первый HD
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/128/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Первый канал
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5005/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Первый канал (+2)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/351/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Первый канал (+4)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/356/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Первый канал (+6)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/20751/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Первый канал (+8)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/20771/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Россия 1 HD
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/129/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Россия 1
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/20002/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Россия 1 (+2)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/352/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Россия 1 (+4)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/355/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Россия 1 (+6)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/20752/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Россия 1 (+9)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/20772/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Россия-Культура
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5099/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,РТР Планета
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5299/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,НТВ HD
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/253/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,НТВ
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5097/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,НТВ (+2)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/223/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,НТВ (+4)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/358/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,НТВ (+6)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/20754/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,НТВ Мир
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5633/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,РЕН HD
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/200/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,РЕН ТВ
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5106/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,РЕН ТВ (+2)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/226/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,РЕН ТВ (+4)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/357/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ТНТ HD
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/301/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ТНТ
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5001/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ТНТ (+2)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/353/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ТНТ (+4)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/20749/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ТНТ (+7)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/20769/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ТНТ4
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/364/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ТНТ International
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5296/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,СТС HD
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/3187/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,СТС
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/292/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,СТС (+2)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/224/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,СТС (+4)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/354/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,СТС International
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5297/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,СТС Love
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5253/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Суббота!
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/6856/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Пятый Канал
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/338/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Пятый Канал (+2)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/285/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Телеканал Звезда
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/337/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Телеканал Звезда (+2)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/366/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Телеканал Звезда (+4)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/360/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ТВЦ
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/334/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ТВЦ International
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/1982/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Домашний
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/291/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Домашний (+2)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/225/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Домашний (+4)
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/359/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Пятница HD
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/213/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Пятница
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5300/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Че
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/363/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ТВ3
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/336/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Мама
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/314/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Мир HD
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/138/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Мир 24
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5129/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Новый мир
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/6737/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,360° HD
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/6791/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,360°
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/6792/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,8 канал
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5288/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ОТР
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5501/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Перец International
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/6711/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Продвижение
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/6759/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Ретро ТВ
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/6722/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Сарафан
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5332/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Союз
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5047/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Спас Тв
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5133/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Телеканал Театр
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5116/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Телекафе
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5323/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Успех
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/6853/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Просвещение
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/1215/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Ю ТВ
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5142/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,КРИК-ТВ
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/309/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Ратник
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/23667/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Москва Доверие
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/20321/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Время
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/5628/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,HOME 4K
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/17445/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,INSIGHT UHD
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/383/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Love Nature 4K
+#EXTGRP:RU Общероссийские
+http://nl01.spr24.net/387/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,12 Канал (Омск)
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/6680/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,БСТ HD
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/6657/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Грозный
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/5691/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ДОН 24
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/6760/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,КРЫМ 24
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/5010/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Санкт-Петербург
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/6665/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,СТРК HD (Сочи)
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/480/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ТНВ Планета
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/5500/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Югра
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/6708/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,26 регион HD
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/22951/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ЛенТВ24
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/20781/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,АТВ Ставрополь
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/20319/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Башкортостан ТВ HD
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/23538/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Белгород 24
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/20341/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ВМЕСТЕ-РФ
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/23555/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Время Н
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/23426/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Вся Уфа
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/24000/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Томское время
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/23780/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Катунь 24
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/23983/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Курай HD
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/23923/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Курай TV
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/23905/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Липецкое время
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/20798/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Матур ТВ
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/23423/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Наша сибирь 4K
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/23430/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,НВК Саха HD
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/23666/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Первый городской (Омск)
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/22813/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Первый городской НН
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/24004/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Тамыр
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/20283/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ТНВ Татарстан
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/20247/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Тномер
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/20113/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Хузур
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/20302/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Юрган
+#EXTGRP:RU Региональные
+http://nl01.spr24.net/23462/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Россия-24
+#EXTGRP:RU Новости
+http://nl01.spr24.net/302/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Euronews Россия
+#EXTGRP:RU Новости
+http://nl01.spr24.net/325/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Дождь
+#EXTGRP:RU Новости
+http://nl01.spr24.net/266/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,RT HD
+#EXTGRP:RU Новости
+http://nl01.spr24.net/105/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,RT Doc HD (English version)
+#EXTGRP:RU Новости
+http://nl01.spr24.net/214/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Москва 24
+#EXTGRP:RU Новости
+http://nl01.spr24.net/295/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,360° Новости HD
+#EXTGRP:RU Новости
+http://nl01.spr24.net/6790/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,РБК-ТВ
+#EXTGRP:RU Новости
+http://nl01.spr24.net/316/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,IZ.RU
+#EXTGRP:RU Новости
+http://nl01.spr24.net/6750/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,RTVi
+#EXTGRP:RU Новости
+http://nl01.spr24.net/5673/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Настоящее время
+#EXTGRP:RU Новости
+http://nl01.spr24.net/5674/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Авто 24
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/315/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Драйв
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/20097/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Большая Азия
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/6452/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/267/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Discovery Channel
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/5180/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Discovery Science HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/303/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Discovery Science
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/6391/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Investigation Discovery
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/5035/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ID Xtra HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/149/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,DTX
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/210/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,National Geographic HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/203/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,National Geographic
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/5493/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Nat Geo Wild HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/20162/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/124/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Animal Planet HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/254/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Animal Planet
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/5322/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,В мире животных HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/219/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Моя Планета
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/168/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Travel+Adventure HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/208/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Приключения HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/136/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Travel Channel HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/261/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Глазами Туриста HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/252/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Russian Travel Guide HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/125/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,RTG TV
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/5233/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,History HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/259/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,H2
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/205/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Viasat Nature/History HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/263/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Viasat History HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/20491/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Viasat History
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/20078/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Viasat Nature HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/23963/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Viasat Nature
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/20119/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Viasat Explore
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/321/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,DocuBox HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/332/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Живая Природа
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/217/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Живая Планета
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/341/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Охотник и рыболов HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/144/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Охота и Рыбалка
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/5257/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Дикая охота HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/327/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Дикая рыбалка HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/326/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Диалоги о рыбалке
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/6751/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Тайны галактики
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/146/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Первый космический
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/145/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ЕДА Премиум
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/137/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Еда
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/20241/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Food Network
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/5168/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,TLC HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/260/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,TLC
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/5152/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Наука
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/20240/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,24 Техно
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/6811/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,История
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/342/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Мужской
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/344/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Оружие
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/5811/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Сов. Секретно
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/296/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Бобёр
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/5391/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Дикий
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/6754/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Домашние Животные
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/5452/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Зоопарк
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/5270/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,OCEAN-TV
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/5139/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Морской
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/329/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Galaxy TV
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/6864/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,CBS Reality
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/5102/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Вопросы и ответы
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/20123/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Зоо ТВ
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/20386/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Мир Вокруг HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/23740/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Нано ТВ HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/23769/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Открытый мир
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/20346/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Пес и ко
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/23683/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Загородная Жизнь
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/345/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Загородный int HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/23684/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,НТВ Стиль
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/349/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Усадьба ТВ
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/6668/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Доктор
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/311/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Первый Вегетарианский
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/6658/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Психология 21
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/5239/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,#КтоКуда
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/17453/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,English Club TV
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/6725/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Fashion TV 4K
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/17091/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Fashion TV
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/211/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Fashion One HD
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/20226/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Арсенал
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/222/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Поехали!
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/246/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Тайна
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/395/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Здоровое ТВ
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/422/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Красная линия
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/420/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Точка ТВ
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/426/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,7D7
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/1002/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,TVOETV
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/1003/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,HGTV
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/19036/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,HDL
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/1142/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Live Planet
+#EXTGRP:RU Познавательные
+http://nl01.spr24.net/20737/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Кино UHD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/17372/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Сериал UHD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/17728/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Комедия
+#EXTGRP:RU Кино
+http://nl01.spr24.net/5089/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,VIP Premiere
+#EXTGRP:RU Кино
+http://nl01.spr24.net/104/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,VIP Megahit
+#EXTGRP:RU Кино
+http://nl01.spr24.net/103/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,VIP Comedy
+#EXTGRP:RU Кино
+http://nl01.spr24.net/102/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,VIP Serial
+#EXTGRP:RU Кино
+http://nl01.spr24.net/109/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,TV1000
+#EXTGRP:RU Кино
+http://nl01.spr24.net/320/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,TV1000 Action
+#EXTGRP:RU Кино
+http://nl01.spr24.net/319/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,TV1000 Русское кино
+#EXTGRP:RU Кино
+http://nl01.spr24.net/318/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,TV1000 World Kino
+#EXTGRP:RU Кино
+http://nl01.spr24.net/430/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,НСТ
+#EXTGRP:RU Кино
+http://nl01.spr24.net/312/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Премиальное HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/121/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/122/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Шокирующее
+#EXTGRP:RU Кино
+http://nl01.spr24.net/119/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Страшное HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/218/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,КИНО ТВ
+#EXTGRP:RU Кино
+http://nl01.spr24.net/147/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Комедийное
+#EXTGRP:RU Кино
+http://nl01.spr24.net/120/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Наше Крутое HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/123/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Наш Кинороман
+#EXTGRP:RU Кино
+http://nl01.spr24.net/107/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Русский роман
+#EXTGRP:RU Кино
+http://nl01.spr24.net/142/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Дом Кино Премиум HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/108/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Дом Кино
+#EXTGRP:RU Кино
+http://nl01.spr24.net/333/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Наше Любимое
+#EXTGRP:RU Кино
+http://nl01.spr24.net/139/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Наше любимое кино
+#EXTGRP:RU Кино
+http://nl01.spr24.net/335/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Русский бестселлер
+#EXTGRP:RU Кино
+http://nl01.spr24.net/276/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Русский Иллюзион
+#EXTGRP:RU Кино
+http://nl01.spr24.net/294/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Иллюзион +
+#EXTGRP:RU Кино
+http://nl01.spr24.net/293/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Русский детектив
+#EXTGRP:RU Кино
+http://nl01.spr24.net/277/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Феникс Плюс Кино
+#EXTGRP:RU Кино
+http://nl01.spr24.net/350/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Sony Entertainment Television HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/140/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Sony Turbo
+#EXTGRP:RU Кино
+http://nl01.spr24.net/227/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,SONY Sci-Fi
+#EXTGRP:RU Кино
+http://nl01.spr24.net/228/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Amedia Hit
+#EXTGRP:RU Кино
+http://nl01.spr24.net/270/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Amedia Premium
+#EXTGRP:RU Кино
+http://nl01.spr24.net/258/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,A1
+#EXTGRP:RU Кино
+http://nl01.spr24.net/268/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,A2
+#EXTGRP:RU Кино
+http://nl01.spr24.net/269/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,FOX HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/101/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Fox Russia
+#EXTGRP:RU Кино
+http://nl01.spr24.net/5266/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Fox Life HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/207/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Fox Life
+#EXTGRP:RU Кино
+http://nl01.spr24.net/5668/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Paramount Comedy HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/220/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Paramount Channel HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/221/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Paramount channel
+#EXTGRP:RU Кино
+http://nl01.spr24.net/5158/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Bollywood HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/251/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Hollywood HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/127/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Hollywood
+#EXTGRP:RU Кино
+http://nl01.spr24.net/5511/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,TV XXI
+#EXTGRP:RU Кино
+http://nl01.spr24.net/310/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Еврокино
+#EXTGRP:RU Кино
+http://nl01.spr24.net/275/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,НТВ-ХИТ
+#EXTGRP:RU Кино
+http://nl01.spr24.net/328/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,НТВ Право
+#EXTGRP:RU Кино
+http://nl01.spr24.net/348/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,НТВ Сериал
+#EXTGRP:RU Кино
+http://nl01.spr24.net/347/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Мир Сериала
+#EXTGRP:RU Кино
+http://nl01.spr24.net/5264/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,FilmBox
+#EXTGRP:RU Кино
+http://nl01.spr24.net/6888/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Filmbox Arthouse
+#EXTGRP:RU Кино
+http://nl01.spr24.net/6887/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Дорама
+#EXTGRP:RU Кино
+http://nl01.spr24.net/6723/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Победа
+#EXTGRP:RU Кино
+http://nl01.spr24.net/3085/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,FAN HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/23562/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,О!Кино
+#EXTGRP:RU Кино
+http://nl01.spr24.net/394/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP:RU Кино
+http://nl01.spr24.net/429/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Ultra HD Cinema
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20799/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Наш Кинопоказ
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20800/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Блокбастер
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20801/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Наше Мужское
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20802/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Хит
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20803/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Про Любовь
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20804/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Камеди
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20805/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Кинопоказ
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20806/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,День Победы
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20807/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Романтичное
+#EXTGRP:RU Кино
+http://nl01.spr24.net/419/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,КиноСат
+#EXTGRP:RU Кино
+http://nl01.spr24.net/425/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Cinema
+#EXTGRP:RU Кино
+http://nl01.spr24.net/22223/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Plan B HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/484/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU ACTION HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20810/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU CATASTROPHE HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20811/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU CINEMA HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20812/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU CINEMA+ HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20832/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU COMEDY HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20813/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU COMEDY h264
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20841/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU FANTASTIC HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20814/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU FILMYSTIC HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20815/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU HISTORY HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20816/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU KINORATING HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20817/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU MARVEL HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20818/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU MARVEL h264
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20840/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU PREMIERE HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20819/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU ROMANTIC HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20820/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU RUSSIAN HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20821/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU STARS HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20833/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU VHS HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20822/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU Kids HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20827/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU Kids+ HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20834/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU МУЛЬТСЕРИАЛ
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20828/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU СВАТЫ HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20829/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU RUSERIAL HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20836/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU СССР HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20830/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU MEDIA HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20831/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCUMEDIA h264
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20839/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU Ultra 4K
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20835/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU Criminal HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20837/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU КИНОЗАЛ PREMIERE 1 HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20823/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU КИНОЗАЛ PREMIERE 2 HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20824/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU КИНОЗАЛ PREMIERE 3 HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20825/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU Reality HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20826/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU Reality h264
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20843/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU Survival HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20838/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BCU Survival h264
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20842/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax 007
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20701/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Агата Кристи
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20702/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Боевик
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20703/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Боевик classic
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20704/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Комедия classic
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20705/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Семейный 1
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20706/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Семейный 2
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20707/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Фантастика
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20708/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Фобия
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20709/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax История
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20710/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Катастрофа
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20711/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Киберпанк
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20712/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Комедия
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20713/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Криминал
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20714/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Кунг-фу
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20715/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Love
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20716/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Нуар
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20717/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Погружение
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20718/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Приключения
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20719/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Роскино
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20720/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Скорость
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20721/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Спорт
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20722/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Стивен Кинг
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20723/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Супергерои
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20724/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Триллер
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20725/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Уэс Крэйвен
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20726/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax UFO
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20727/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Ужасы classic
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20728/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Ужасы
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20729/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Ужастик
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20730/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Детектив U.S.S.R
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20731/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Фантастика U.S.S.R
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20732/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Комедия U.S.S.R
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20733/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Вестерн
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20734/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Затмение
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20735/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Крутые 90e
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20736/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Байки Митяя
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20738/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Newfilm 1
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20739/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Newfilm 2
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20740/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Newfilm 3
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20741/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Newfilm RU
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20742/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Ольга
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20743/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Полицейский с Рублёвки
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20744/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Ситком
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20745/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Сваты
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20746/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax 1941-1945 U.S.S.R
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20748/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Воронины
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20791/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Мифология
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20757/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Приключения U.S.S.R
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20760/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Celebrity HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20861/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Classic HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20780/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Драма HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20782/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MS ANIMATED HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20775/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MS CRIME HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20776/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MS PRISONS HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20777/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MS TOONS HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20778/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MS YOUNG BLOOD HD
+#EXTGRP:RU Кино
+http://nl01.spr24.net/20779/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Boomerang
+#EXTGRP:RU Детские
+http://nl01.spr24.net/306/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Мульт HD
+#EXTGRP:RU Детские
+http://nl01.spr24.net/141/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Мультимузыка
+#EXTGRP:RU Детские
+http://nl01.spr24.net/340/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Мульт
+#EXTGRP:RU Детские
+http://nl01.spr24.net/5161/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Рыжий
+#EXTGRP:RU Детские
+http://nl01.spr24.net/6867/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Детский
+#EXTGRP:RU Детские
+http://nl01.spr24.net/5275/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Детский мир
+#EXTGRP:RU Детские
+http://nl01.spr24.net/5276/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Карусель
+#EXTGRP:RU Детские
+http://nl01.spr24.net/339/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Мультиландия
+#EXTGRP:RU Детские
+http://nl01.spr24.net/304/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Tiji TV
+#EXTGRP:RU Детские
+http://nl01.spr24.net/299/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,В гостях у сказки
+#EXTGRP:RU Детские
+http://nl01.spr24.net/330/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,СТС Kids HD
+#EXTGRP:RU Детские
+http://nl01.spr24.net/362/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Gulli Girl
+#EXTGRP:RU Детские
+http://nl01.spr24.net/300/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Cartoon Network
+#EXTGRP:RU Детские
+http://nl01.spr24.net/6859/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Disney
+#EXTGRP:RU Детские
+http://nl01.spr24.net/307/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Ani
+#EXTGRP:RU Детские
+http://nl01.spr24.net/343/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Nickelodeon HD
+#EXTGRP:RU Детские
+http://nl01.spr24.net/135/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Nickelodeon
+#EXTGRP:RU Детские
+http://nl01.spr24.net/5341/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Nick Jr.
+#EXTGRP:RU Детские
+http://nl01.spr24.net/5494/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,NickToons
+#EXTGRP:RU Детские
+http://nl01.spr24.net/5016/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Jim Jam
+#EXTGRP:RU Детские
+http://nl01.spr24.net/5342/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,2x2
+#EXTGRP:RU Детские
+http://nl01.spr24.net/5245/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,O!
+#EXTGRP:RU Детские
+http://nl01.spr24.net/5315/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Капитан Фантастика
+#EXTGRP:RU Детские
+http://nl01.spr24.net/148/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Da Vinci Kids
+#EXTGRP:RU Детские
+http://nl01.spr24.net/317/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Tom and Jerry
+#EXTGRP:RU Детские
+http://nl01.spr24.net/20747/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Мультфильм U.S.S.R
+#EXTGRP:RU Детские
+http://nl01.spr24.net/20849/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Сказки U.S.S.R
+#EXTGRP:RU Детские
+http://nl01.spr24.net/20750/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Барбоскины
+#EXTGRP:RU Детские
+http://nl01.spr24.net/20852/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Walt Disney
+#EXTGRP:RU Детские
+http://nl01.spr24.net/20753/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Маша и Медведь
+#EXTGRP:RU Детские
+http://nl01.spr24.net/20755/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Ми-ми-мишки
+#EXTGRP:RU Детские
+http://nl01.spr24.net/20756/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Три Кота
+#EXTGRP:RU Детские
+http://nl01.spr24.net/20759/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,1HD
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/256/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,ТНТ MUSIC
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/365/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Музыка первого
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/5491/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Europa Plus TV
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/280/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BRIDGE TV Deluxe
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/297/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BRIDGE TV Русский Хит
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/298/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Bridge TV
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/5283/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Bridge TV Classic
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/6861/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,BRIDGE TV HITS
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/5662/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,RU.TV
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/5664/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,iConcerts
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/126/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Mezzo
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/22902/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Mezzo Live HD
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/3126/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,МУЗ
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/324/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,C Music TV
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/257/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Шансон ТВ
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/5247/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MCM Top
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/5268/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Жара HD
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/17734/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Music Box Russian
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/20230/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Trace Urban HD
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/20960/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MTV
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/5490/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MTV Hits
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/5162/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MTV Live HD
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/134/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MTV 80s
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/20051/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MTV 90s
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/5631/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MTV 00s
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/11627/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,VIVA HD
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/479/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Квартирник
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/20854/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Rock
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/20758/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax Relax
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/20761/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,MiniMax World Hits
+#EXTGRP:RU Музыка
+http://nl01.spr24.net/20762/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Футбол
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/5249/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Матч! HD
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/255/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Матч ТВ
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/5027/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Матч! Планета
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/6062/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Viasat Sport HD
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/5244/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Viasat Sport
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/106/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Eurosport 4K
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/17090/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/264/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Eurosport 2 HD
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/265/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Eurosport Gold HD
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/23922/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Setanta Sports 1 HD
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/933/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Setanta Sports 2 HD
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/934/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Setanta Qazaqstan HD
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/1001/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Конный мир HD
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/5689/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Конный Мир
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/150/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Extreme Sports
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/5242/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Русский Экстрим
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/143/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Точка отрыва
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/6667/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Моторспорт ТВ
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/23919/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,UFC
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/17111/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Fast and Fun Box HD
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/240/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,FightBox HD
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/241/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Старт
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/248/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Мир Баскетбола
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/436/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Спортивный
+#EXTGRP:RU Спорт
+http://nl01.spr24.net/478/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Beinsports 1 HD
+#EXTGRP:AR BeIN Sports
+http://nl01.spr24.net/6447/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Beinsports 2 HD
+#EXTGRP:AR BeIN Sports
+http://nl01.spr24.net/6451/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Beinsports 3 HD
+#EXTGRP:AR BeIN Sports
+http://nl01.spr24.net/6446/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Beinsports 4 HD
+#EXTGRP:AR BeIN Sports
+http://nl01.spr24.net/5872/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Beinsports 5 HD
+#EXTGRP:AR BeIN Sports
+http://nl01.spr24.net/6652/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Beinsports 6 HD
+#EXTGRP:AR BeIN Sports
+http://nl01.spr24.net/6651/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Beinsports 7 HD
+#EXTGRP:AR BeIN Sports
+http://nl01.spr24.net/6653/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Beinsports 8 HD
+#EXTGRP:AR BeIN Sports
+http://nl01.spr24.net/5871/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Beinsports 9 HD
+#EXTGRP:AR BeIN Sports
+http://nl01.spr24.net/6448/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Beinsports 10 HD
+#EXTGRP:AR BeIN Sports
+http://nl01.spr24.net/6449/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Beinsports 11 HD
+#EXTGRP:AR BeIN Sports
+http://nl01.spr24.net/21111/mpegts?token=h48TyVziwqYmFE
+#EXTINF:0,Beinsports 12 HD
+#EXTGRP:AR BeIN Sports
+http://nl01.spr24.net/21112/mpegts?token=h48TyVziwqYmFE
